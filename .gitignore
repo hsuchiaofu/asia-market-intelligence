@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.backups/
+.wrangler/
+.dev.vars
+.env*
+!.env.example
+.DS_Store
+Thumbs.db
+Asia_Market_Intelligence_Master_Prompt_v1.0.md

@@ -1,0 +1,38 @@
+name: Publish morning report
+on:
+  schedule:
+    - cron: '45 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: report-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: 顯示執行時間
+        run: |
+          date -u
+          TZ=Asia/Taipei date
+      - name: 匯入晨報
+        run: python scripts/import-incoming-reports.py --type morning
+      - name: 重建並驗證
+        run: |
+          python scripts/rebuild-index.py
+          python scripts/validate-site.py
+          python -m unittest discover -s tests -v
+      - name: 提交變更（有變更才提交）
+        run: |
+          if git diff --quiet && [ -z "$(git status --porcelain)" ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports incoming data sitemap.xml feed.xml
+          git commit -m "Publish morning report for $(TZ=Asia/Taipei date +%F)"
+          git push

@@ -1,0 +1,8 @@
+name = "asia-market-intelligence"
+compatibility_date = "2026-07-01"
+pages_build_output_dir = "."
+
+# 建立 D1 後，請以 Cloudflare 官方介面或 Wrangler 綁定：
+# binding = "DB"
+# database_name = "asia-market-intelligence-db"
+# database_id 不得使用虛構值，因此此檔暫不填入。

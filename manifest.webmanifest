@@ -1,0 +1,12 @@
+{
+  "name":"Asia Market Intelligence",
+  "short_name":"AMI",
+  "description":"全球市場晨報與亞洲股市收盤研究",
+  "lang":"zh-Hant",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f7f9",
+  "theme_color":"#0b1f36",
+  "icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

@@ -1,0 +1,15 @@
+{
+  "isSample": true,
+  "updated": "",
+  "theme": "尚未更新",
+  "focus": ["等待可靠資料來源", "目前未提供即時行情", "範例欄位僅供版面展示"],
+  "markets": [
+    {"name": "美股", "value": "尚未更新", "change": null},
+    {"name": "歐洲", "value": "尚未更新", "change": null},
+    {"name": "亞洲", "value": "尚未更新", "change": null},
+    {"name": "美債", "value": "尚未更新", "change": null},
+    {"name": "美元", "value": "尚未更新", "change": null},
+    {"name": "原油", "value": "尚未更新", "change": null},
+    {"name": "黃金", "value": "尚未更新", "change": null}
+  ]
+}

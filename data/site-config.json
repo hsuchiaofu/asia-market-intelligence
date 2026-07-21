@@ -1,0 +1,11 @@
+{
+  "siteName": "Asia Market Intelligence",
+  "subtitle": "全球市場晨報與亞洲股市收盤研究",
+  "timezone": "Asia/Taipei",
+  "baseUrl": "",
+  "analyticsEnabled": false,
+  "publicViewCountEnabled": true,
+  "rssEnabled": true,
+  "pwaEnabled": true,
+  "version": "1.0.0"
+}

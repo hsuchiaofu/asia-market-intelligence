@@ -1,0 +1,27 @@
+name: Rebuild publication files
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: report-publication
+  cancel-in-progress: false
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: python scripts/rebuild-index.py
+      - run: python scripts/validate-site.py
+      - name: 提交重建結果
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reports.json sitemap.xml feed.xml
+          git commit -m "Rebuild publication files"
+          git push
