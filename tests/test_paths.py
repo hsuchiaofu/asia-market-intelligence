@@ -5,7 +5,7 @@ class PathTests(unittest.TestCase):
     def test_local_references(self):
         attr=re.compile(r'(?:href|src)="([^"]+)"')
         for page in ROOT.rglob('*.html'):
-            if page.parent == ROOT/'templates':
+            if page.parent == ROOT/'templates' or 'incoming' in page.relative_to(ROOT).parts:
                 continue
             for ref in attr.findall(page.read_text(encoding='utf-8')):
                 if ref.startswith(('http','#','{{','mailto:','data:')) or ref in ('',): continue

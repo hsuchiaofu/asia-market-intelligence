@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "asia-close-2026-07-21",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-21",
+    "summary": "AI 與半導體權值股帶動亞洲市場技術性反彈，台股創最大單日漲點，日韓晶片股回升，中港市場走勢分化。",
+    "file": "reports/asia-close/2026-07-21.html",
+    "updated": "2026-07-21T18:04:29+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  }
+]
