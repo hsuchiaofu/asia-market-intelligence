@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-22",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-22",
+    "summary": "AI 與記憶體買盤延續，但漲勢由全面反彈轉為市場分化；台灣中小型科技股強、日韓開高收斂，中港科技股承壓。",
+    "file": "reports/asia-close/2026-07-22.html",
+    "updated": "2026-07-22T16:34:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-22",
     "type": "morning",
     "title": "全球新聞晨報",
