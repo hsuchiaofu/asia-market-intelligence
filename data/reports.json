@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-22",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-22",
+    "summary": "AI 與晶片股強彈，但油價、殖利率與美加關稅令通膨風險重新升溫；市場等待 ECB、Alphabet 與 Tesla 驗證估值。",
+    "file": "reports/morning/2026-07-22.html",
+    "updated": "2026-07-22T11:30:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-21",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
