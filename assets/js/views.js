@@ -1,1 +1,11 @@
-(function(){const el=document.querySelector('[data-view-count]');if(!el)return;const path=location.pathname;if(!/^\/reports\/(morning|asia-close)\/(?!sample)[^/]+\.html$/.test(path))return;const key=`ami-view:${path}`,fresh=Date.now()-Number(localStorage.getItem(key)||0)>18e5;async function go(){try{let r;if(fresh){r=await fetch('/api/views',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({path})});if(r.ok)localStorage.setItem(key,Date.now())}else r=await fetch(`/api/views?path=${encodeURIComponent(path)}`);if(r.ok){const d=await r.json();el.textContent=`閱讀次數：${Number(d.views).toLocaleString('zh-TW')}`}}catch(_){el.textContent='閱讀次數：暫時無法取得'}}go()})();
+(function(){
+  const el=document.querySelector('[data-view-count]');if(!el)return;
+  const match=location.pathname.match(/^\/reports\/(morning|asia-close)\/(\d{4}-\d{2}-\d{2})(?:\.html)?$/);if(!match){el.textContent='閱讀 — 次';return}
+  const id=`${match[1]}-${match[2]}`,key=`ami-view:${id}`,day=24*60*60*1000;
+  let last=0;try{last=Number(localStorage.getItem(key)||0)}catch(_){}
+  const shouldCount=Date.now()-last>=day;
+  async function load(){
+    try{let response;if(shouldCount){response=await fetch('/api/views',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({id})});if(response.ok)try{localStorage.setItem(key,String(Date.now()))}catch(_){}}else response=await fetch(`/api/views?id=${encodeURIComponent(id)}`,{cache:'no-store'});if(!response.ok)throw new Error('unavailable');const data=await response.json();const views=Number(data.views);el.textContent=Number.isFinite(views)?`閱讀 ${views.toLocaleString('zh-TW')} 次`:'閱讀 — 次'}catch(_){el.textContent='閱讀 — 次'}
+  }
+  load();
+})();
