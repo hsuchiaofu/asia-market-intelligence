@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-23",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-23",
+    "summary": "油價與美債殖利率上升壓過 AI 財報利多；Alphabet、Tesla 與 OpenAI 事件把市場焦點轉向資本效率與代理安全。",
+    "file": "reports/morning/2026-07-23.html",
+    "updated": "2026-07-23T08:57:42+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-22",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
