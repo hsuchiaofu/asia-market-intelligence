@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-23",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-23",
+    "summary": "Alphabet AI 支出與雲端成長支撐日韓港股，台股尾盤翻紅；但油價逼近三位數、美債殖利率走高，使亞洲風險偏好呈現高度分化。",
+    "file": "reports/asia-close/2026-07-23.html",
+    "updated": "2026-07-23T16:30:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-23",
     "type": "morning",
     "title": "全球新聞晨報",
