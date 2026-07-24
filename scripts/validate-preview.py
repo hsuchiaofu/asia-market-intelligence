@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 import threading
 import urllib.error
 import urllib.parse
@@ -20,6 +21,12 @@ from html.parser import HTMLParser
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path, PurePosixPath
 from typing import Iterable
+
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+from validation_paths import is_excluded_path
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -129,6 +136,22 @@ class QuietHandler(SimpleHTTPRequestHandler):
     def log_message(self, _format: str, *_args: object) -> None:
         return
 
+    def _request_is_excluded(self) -> bool:
+        path = urllib.parse.unquote(urllib.parse.urlsplit(self.path).path)
+        return is_excluded_path(path)
+
+    def do_GET(self) -> None:
+        if self._request_is_excluded():
+            self.send_error(404, "Excluded from public preview")
+            return
+        super().do_GET()
+
+    def do_HEAD(self) -> None:
+        if self._request_is_excluded():
+            self.send_error(404, "Excluded from public preview")
+            return
+        super().do_HEAD()
+
 
 def decoding_name(body: bytes) -> str:
     return "utf-8-sig (strict)" if body.startswith(b"\xef\xbb\xbf") else "utf-8 (strict)"
@@ -207,6 +230,18 @@ class PreviewValidator:
         path = "/" + path.lstrip("/")
         if path in self.resources:
             return self.resources[path]
+        if is_excluded_path(urllib.parse.unquote(urllib.parse.urlsplit(path).path)):
+            self.add_failure(
+                path=path,
+                status="not requested",
+                content_type="not requested",
+                decoding="not attempted",
+                expected="A public resource path without excluded directory components",
+                actual=path,
+                reason="A formal page referenced a backup, temporary, build, or cache path.",
+                suggestion="Point the formal page at a public resource under the project site tree.",
+            )
+            return None
         url = urllib.parse.urljoin(self.base_url, path.lstrip("/"))
         try:
             with self.opener.open(url, timeout=10) as response:
@@ -498,6 +533,8 @@ def validate_report_path(root: Path, report_path: str, report_type: str) -> str:
     expected_prefix = f"reports/{report_type}/"
     if not normalized.startswith(expected_prefix) or not normalized.endswith(".html"):
         raise ValueError(f"Report path must match {expected_prefix}*.html")
+    if is_excluded_path(normalized):
+        raise ValueError(f"Report path contains an excluded directory component: {normalized}")
     resolved = (root / normalized).resolve()
     if root.resolve() not in resolved.parents or not resolved.is_file():
         raise ValueError(f"Report file does not exist inside the project: {normalized}")

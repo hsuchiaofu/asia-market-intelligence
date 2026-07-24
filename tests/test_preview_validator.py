@@ -1,6 +1,7 @@
 import importlib.util
 import subprocess
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -65,6 +66,45 @@ class PreviewValidatorTests(unittest.TestCase):
             "Suggested Fix:",
         ):
             self.assertIn(label, rendered)
+
+    def test_excluded_paths_are_never_requested_for_either_workflow(self):
+        class RecordingOpener:
+            def __init__(self):
+                self.calls = []
+
+            def open(self, url, timeout):
+                self.calls.append((url, timeout))
+                raise AssertionError("Excluded preview paths must not be requested")
+
+        for workflow in ("morning", "asia-close"):
+            with self.subTest(workflow=workflow):
+                validator = validate_preview.PreviewValidator(
+                    workflow,
+                    f"reports/{workflow}/2026-07-24.html",
+                    "http://127.0.0.1:8000/",
+                )
+                opener = RecordingOpener()
+                validator.opener = opener
+                self.assertIsNone(validator.fetch("/nested/.backups/report.html"))
+                self.assertIsNone(validator.fetch(r"\nested\tmp\report.html"))
+                self.assertEqual(opener.calls, [])
+                self.assertEqual(len(validator.failures), 2)
+                self.assertTrue(
+                    all(failure.status == "not requested" for failure in validator.failures)
+                )
+
+    def test_preview_input_rejects_excluded_report_path_before_server_start(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            report = root / "reports" / "asia-close" / ".backups" / "report.html"
+            report.parent.mkdir(parents=True)
+            report.write_text("<html></html>", encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "excluded directory component"):
+                validate_preview.validate_report_path(
+                    root,
+                    "reports/asia-close/.backups/report.html",
+                    "asia-close",
+                )
 
     def test_morning_preview(self):
         result = subprocess.run(

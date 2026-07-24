@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-24",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-24",
+    "summary": "油價與美債殖利率衝高、AI資本支出回報疑慮升溫，亞洲科技權值全面重挫；台灣外資轉賣超約609.5億元，確認區域資金去風險。",
+    "file": "reports/asia-close/2026-07-24.html",
+    "updated": "2026-07-24T17:40:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-24",
     "type": "morning",
     "title": "全球新聞晨報",
