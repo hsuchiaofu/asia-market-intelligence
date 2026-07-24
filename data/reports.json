@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-24",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-24",
+    "summary": "油價破百與殖利率上升觸發科技股去風險；Intel 財報與 NVIDIA 封裝投資確認 AI 基建仍強，但資本效率、政策與供應鏈成本成為新門檻。",
+    "file": "reports/morning/2026-07-24.html",
+    "updated": "2026-07-24T08:58:38+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-23",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
