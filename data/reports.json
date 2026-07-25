@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-25",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-25",
+    "summary": "油價自三位數回落、殖利率略降，但關稅與強勁PMI維持通膨壓力；亞洲AI供應鏈重挫後，市場轉向檢驗大型科技財報與資本效率。",
+    "file": "reports/morning/2026-07-25.html",
+    "updated": "2026-07-25T08:51:30+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-24",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
