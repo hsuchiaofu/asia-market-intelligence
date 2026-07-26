@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-26",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-26",
+    "summary": "韓國與美國科技業者公布大型AI、HBM、2nm與資料中心合作；美伊空襲暫停但紅海能源風險升高，市場等待Fed與科技巨頭財報。",
+    "file": "reports/morning/2026-07-26.html",
+    "updated": "2026-07-26T08:50:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-25",
     "type": "morning",
     "title": "全球新聞晨報",
