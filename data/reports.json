@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-27",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-27",
+    "summary": "美伊連續第二日暫停互攻但尚未正式停火；市場進入 Fed、BOJ、GDP、PCE 與科技巨頭財報密集週，AI 長約將接受資本回報驗證。",
+    "file": "reports/morning/2026-07-27.html",
+    "updated": "2026-07-27T09:37:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-26",
     "type": "morning",
     "title": "全球新聞晨報",
