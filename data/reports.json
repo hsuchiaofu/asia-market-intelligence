@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-27",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-27",
+    "summary": "油價與美債殖利率回落緩解折現壓力，中國晶片與韓國記憶體帶動風險偏好修復；台股高檔震盪、金融與記憶體接棒。",
+    "file": "reports/asia-close/2026-07-27.html",
+    "updated": "2026-07-27T22:50:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-27",
     "type": "morning",
     "title": "全球新聞晨報",
