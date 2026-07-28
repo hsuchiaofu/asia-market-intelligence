@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-28",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-28",
+    "summary": "美伊暫停攻擊與談判訊號壓低油價和殖利率，但 Fed 決策、大型科技財報及中國記憶體擴產使 AI 與半導體估值重新分化。",
+    "file": "reports/morning/2026-07-28.html",
+    "updated": "2026-07-28T08:47:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-27",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
