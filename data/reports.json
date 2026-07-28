@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-28",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-28",
+    "summary": "中國晶片自主化疑慮與AI融資風險觸發亞洲半導體去槓桿，韓股熔斷、台日科技股重挫；油價回落未能抵銷估值與競爭重定價。",
+    "file": "reports/asia-close/2026-07-28.html",
+    "updated": "2026-07-28T16:05:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-28",
     "type": "morning",
     "title": "全球新聞晨報",
