@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-29",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-29",
+    "summary": "亞洲 AI 與半導體股急速去槓桿，美股轉向價值與防禦；熊本地震增添供應鏈風險，市場等待 Fed 與大型科技財報定調。",
+    "file": "reports/morning/2026-07-29.html",
+    "updated": "2026-07-29T08:46:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-28",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
