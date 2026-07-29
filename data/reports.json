@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-29",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-29",
+    "summary": "SK Hynix財報未達高預期引發韓國記憶體股第二日重估，日台科技股續弱；香港與中國則因政策與內需承接回升，油價反彈重啟通膨風險。",
+    "file": "reports/asia-close/2026-07-29.html",
+    "updated": "2026-07-29T17:30:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-29",
     "type": "morning",
     "title": "全球新聞晨報",
