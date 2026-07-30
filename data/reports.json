@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-30",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-30",
+    "summary": "Fed鷹派按兵不動、油價與長債殖利率偏高，亞洲科技股震盪分化；台日守穩、韓國記憶體續跌，AI交易轉向資本效率與現金流驗證。",
+    "file": "reports/asia-close/2026-07-30.html",
+    "updated": "2026-07-30T16:10:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-30",
     "type": "morning",
     "title": "全球新聞晨報",
