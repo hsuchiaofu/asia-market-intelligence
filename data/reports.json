@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-30",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-30",
+    "summary": "Fed 鷹派按兵不動與中東戰火重燃推高油價、長債殖利率及波動；Microsoft 雲端成長對照 Meta 成本壓力，AI 交易轉向現金流驗證。",
+    "file": "reports/morning/2026-07-30.html",
+    "updated": "2026-07-30T08:46:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-29",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
