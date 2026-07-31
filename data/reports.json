@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-07-31",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-07-31",
+    "summary": "美國大型科技財報重新驗證AI需求，亞洲半導體出現歷史性反彈；韓國記憶體、台灣晶圓代工與日本設備股領漲，但高油價、BOJ通膨風險與中國政策力度仍限制追價。",
+    "file": "reports/asia-close/2026-07-31.html",
+    "updated": "2026-07-31T22:15:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-07-31",
     "type": "morning",
     "title": "全球新聞晨報",
