@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-07-31",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-07-31",
+    "summary": "Apple、Amazon與Microsoft以營收及雲端成長驗證AI需求，但Amazon現金流、Meta成本與Fed高利率凸顯資本效率門檻；美國GDP降至1.5%、PCE仍3.7%。",
+    "file": "reports/morning/2026-07-31.html",
+    "updated": "2026-07-31T08:55:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-30",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
