@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-01",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-01",
+    "summary": "Amazon與雲端財報重燃AI投資回報信心，但Apple供應瓶頸、Fed鷹派分歧、油價與長債上升使市場維持高波動。",
+    "file": "reports/morning/2026-08-01.html",
+    "updated": "2026-08-01T08:50:47+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-07-31",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
