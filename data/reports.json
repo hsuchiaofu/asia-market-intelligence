@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-02",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-02",
+    "summary": "美伊升級與荷莫茲航運風險壓過週五AI財報反彈；油價、殖利率與供應鏈交付成為下週定價核心。",
+    "file": "reports/morning/2026-08-02.html",
+    "updated": "2026-08-02T09:38:38+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-01",
     "type": "morning",
     "title": "全球新聞晨報",
