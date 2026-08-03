@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-03",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-03",
+    "summary": "美伊外交轉向使油價與美債殖利率回落；但荷莫茲尚未重開，AI法規、央行鷹派與資本效率仍是本週驗證核心。",
+    "file": "reports/morning/2026-08-03.html",
+    "updated": "2026-08-03T08:32:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-02",
     "type": "morning",
     "title": "全球新聞晨報",
