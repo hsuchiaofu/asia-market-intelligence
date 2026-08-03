@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-03",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-03",
+    "summary": "台股在聯發科漲停帶動下收高，香港由Alibaba新模型支撐；日韓與中國半導體承壓，日圓干預、油價急跌及AI估值再平衡主導區域分化。",
+    "file": "reports/asia-close/2026-08-03.html",
+    "updated": "2026-08-03T23:55:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-03",
     "type": "morning",
     "title": "全球新聞晨報",
