@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-04",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-04",
+    "summary": "油價回落、殖利率下行與美股反彈改善風險偏好，但美伊談判、日圓干預與AI投資回報仍是今日定價核心。",
+    "file": "reports/morning/2026-08-04.html",
+    "updated": "2026-08-04T08:40:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-03",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
