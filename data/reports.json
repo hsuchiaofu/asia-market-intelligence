@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-04",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-04",
+    "summary": "中國AI與光通訊鏈領漲、韓國記憶體止穩，台股權值整理、香港高檔獲利了結；殖利率回落與油價反彈共同塑造亞洲風險偏好。",
+    "file": "reports/asia-close/2026-08-04.html",
+    "updated": "2026-08-04T16:57:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-04",
     "type": "morning",
     "title": "全球新聞晨報",
