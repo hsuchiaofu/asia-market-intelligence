@@ -1,8 +1,10 @@
 import importlib.util
+import json
 import subprocess
 import sys
 import tempfile
 import unittest
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 
@@ -15,6 +17,56 @@ SPEC.loader.exec_module(validate_preview)
 
 
 class PreviewValidatorTests(unittest.TestCase):
+    def run_latest_preview(self, workflow):
+        config = validate_preview.WORKFLOWS[workflow]
+        reports = json.loads((ROOT / "data" / "reports.json").read_text(encoding="utf-8"))
+        report_path = validate_preview.latest_report(ROOT, config["report_type"])
+        matches = [
+            report
+            for report in reports
+            if report.get("file") == report_path
+            and report.get("type") == config["report_type"]
+        ]
+
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0].get("status"), "published")
+        self.assertTrue((ROOT / report_path).is_file())
+
+        latest_feed_files = {
+            report.get("file")
+            for report in reports[:20]
+            if report.get("status") == "published"
+        }
+        if report_path in latest_feed_files:
+            feed_links = {
+                (node.text or "").strip().lstrip("/")
+                for node in ET.parse(ROOT / "feed.xml").findall(".//item/link")
+            }
+            self.assertIn(report_path, feed_links)
+
+        sitemap_locs = {
+            (node.text or "").strip().lstrip("/")
+            for node in ET.parse(ROOT / "sitemap.xml").iter()
+            if node.tag.rsplit("}", 1)[-1] == "loc"
+        }
+        self.assertIn(report_path, sitemap_locs)
+
+        result = subprocess.run(
+            [
+                sys.executable,
+                str(SCRIPT),
+                "--workflow",
+                workflow,
+                "--report",
+                report_path,
+            ],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn(f"HTTP Preview passed: {config['name']}", result.stdout)
+
     def test_strict_utf8_decode(self):
         text, decoding = validate_preview.decode_utf8("café €".encode("utf-8"))
         self.assertEqual(text, "café €")
@@ -80,7 +132,7 @@ class PreviewValidatorTests(unittest.TestCase):
             with self.subTest(workflow=workflow):
                 validator = validate_preview.PreviewValidator(
                     workflow,
-                    f"reports/{workflow}/2026-07-24.html",
+                    f"reports/{workflow}/latest.html",
                     "http://127.0.0.1:8000/",
                 )
                 opener = RecordingOpener()
@@ -107,38 +159,10 @@ class PreviewValidatorTests(unittest.TestCase):
                 )
 
     def test_morning_preview(self):
-        result = subprocess.run(
-            [
-                sys.executable,
-                str(SCRIPT),
-                "--workflow",
-                "morning",
-                "--report",
-                "reports/morning/2026-07-23.html",
-            ],
-            cwd=ROOT,
-            capture_output=True,
-            text=True,
-        )
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("HTTP Preview passed: Morning Report Workflow", result.stdout)
+        self.run_latest_preview("morning")
 
     def test_asia_close_preview(self):
-        result = subprocess.run(
-            [
-                sys.executable,
-                str(SCRIPT),
-                "--workflow",
-                "asia-close",
-                "--report",
-                "reports/asia-close/2026-07-23.html",
-            ],
-            cwd=ROOT,
-            capture_output=True,
-            text=True,
-        )
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("HTTP Preview passed: Asia Closing Report Workflow", result.stdout)
+        self.run_latest_preview("asia-close")
 
 
 if __name__ == "__main__":
