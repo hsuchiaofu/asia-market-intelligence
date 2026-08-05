@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-05",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-05",
+    "summary": "美股創高、油價急跌與殖利率回落改善風險偏好，AMD與Palantir財報則把AI主線推向獲利與供應驗證。",
+    "file": "reports/morning/2026-08-05.html",
+    "updated": "2026-08-05T09:34:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-04",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
