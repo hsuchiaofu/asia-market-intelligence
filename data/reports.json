@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-05",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-05",
+    "summary": "AI與半導體風險偏好強勢回歸，台日韓領漲、中國成長股反彈，香港相對落後；油價回升與高殖利率仍是隔日風險。",
+    "file": "reports/asia-close/2026-08-05.html",
+    "updated": "2026-08-05T21:27:51+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-05",
     "type": "morning",
     "title": "全球新聞晨報",
