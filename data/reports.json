@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-06",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-06",
+    "summary": "亞洲AI與記憶體擁擠交易轉向風險縮減，韓國跌幅最深，台日港同步回落；中國市場內部分化，深圳成長風格逆勢走強。",
+    "file": "reports/asia-close/2026-08-06.html",
+    "updated": "2026-08-06T17:51:07+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-06",
     "type": "morning",
     "title": "全球新聞晨報",
