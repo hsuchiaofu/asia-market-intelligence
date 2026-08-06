@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-06",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-06",
+    "summary": "AI資本支出轉向供應商分流，NVIDIA與AMD走勢分化；美國就業降溫、殖利率回落與荷莫茲協議條款仍共同主導風險定價。",
+    "file": "reports/morning/2026-08-06.html",
+    "updated": "2026-08-06T08:37:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-05",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
