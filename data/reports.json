@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-07",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-07",
+    "summary": "中國強勁的高科技出口支撐陸港股反彈，台日韓則續消化AI與記憶體擁擠交易；油價、殖利率與今晚美國非農成為下一輪定價關鍵。",
+    "file": "reports/asia-close/2026-08-07.html",
+    "updated": "2026-08-07T18:09:51+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-07",
     "type": "morning",
     "title": "全球新聞晨報",
