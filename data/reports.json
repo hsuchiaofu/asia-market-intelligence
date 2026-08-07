@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-07",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-07",
+    "summary": "油價與美債殖利率回升壓抑風險資產，AI交易由全面追價轉向訂單、獲利與供應商集中度檢驗；荷莫茲通行條款及美國非農成為下一個定價閘門。",
+    "file": "reports/morning/2026-08-07.html",
+    "updated": "2026-08-07T08:51:07+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-06",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
