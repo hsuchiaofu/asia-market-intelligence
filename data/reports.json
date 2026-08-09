@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-09",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-09",
+    "summary": "伊朗提高荷莫茲海峽重開條件並再傳商船遇襲，能源風險重新壓過週五就業降溫帶來的利率利多；AI交易則進入獲利與網安治理雙重檢驗。",
+    "file": "reports/morning/2026-08-09.html",
+    "updated": "2026-08-09T09:43:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-08",
     "type": "morning",
     "title": "全球新聞晨報",
