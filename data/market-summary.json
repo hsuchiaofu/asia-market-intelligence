@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-08-09T15:58:44+08:00",
+  "updated_at": "2026-08-09T19:44:41+08:00",
   "source_reports": [
-    "morning-2026-08-09",
-    "asia-close-2026-08-07"
+    "morning-2026-08-09"
   ],
   "global_macro": {
     "headline": "能源風險回頭",
     "summary": "美國就業降溫壓低殖利率，但荷莫茲風險再升；Fed面臨成長放慢與能源通膨拉鋸。"
   },
   "asia_markets": {
-    "headline": "陸港修復領先",
-    "summary": "中國貿易韌性支撐陸港股，台日韓AI權值仍去擁擠；區域走勢轉向基本面與估值分化。"
+    "headline": "能源主導分化",
+    "summary": "中國貿易韌性提供支撐，日韓台則在AI反彈與進口能源壓力間拉鋸。"
   },
   "ai_semiconductor": {
-    "headline": "主線未變",
-    "summary": "GPU、HBM與先進製程需求未見逆轉，市場轉而檢驗訂單、毛利、現金流與治理成本。"
+    "headline": "估值治理雙考驗",
+    "summary": "AI需求主線未變，市場轉而檢驗訂單、現金流與代理安全治理成本。"
   },
   "fund_flow": {
-    "headline": "資金轉向選股",
-    "summary": "未見完整外資流量；盤面顯示中國成長與日本低估值獲承接，台韓AI權值仍去擁擠。"
+    "headline": "資金等待開盤",
+    "summary": "未見可靠外資流量；下一步先看油價、美元與美債，再驗證AI風險偏好。"
   }
 }
