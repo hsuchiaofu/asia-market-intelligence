@@ -3,16 +3,29 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Asia Market Intelligence｜全球市場晨報與亞洲股市收盤研究</title>
-  <meta name="description" content="繁體中文全球市場晨報、亞洲股市收盤研究與歷史報告。">
+  <title>Market Summary Prototype｜Asia Market Intelligence</title>
+  <meta name="description" content="Asia Market Intelligence 首頁 Market Summary UI Review Prototype。">
   <meta property="og:title" content="Asia Market Intelligence">
   <meta property="og:description" content="全球市場晨報與亞洲股市收盤研究">
   <meta property="og:type" content="website">
+  <base href="../">
   <link rel="icon" href="favicon.svg">
   <link rel="alternate" type="application/rss+xml" title="Asia Market Intelligence RSS" href="feed.xml">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/print.css">
+  <style>
+    .market-summary-prototype {
+      grid-auto-rows: 1fr;
+    }
+    .market-summary-prototype .market-summary-card {
+      height: 100%;
+      min-height: 10rem;
+    }
+    .market-summary-prototype .market-summary-card p {
+      margin: .65rem 0 0;
+    }
+  </style>
 </head>
 <body data-root=".">
   <a class="skip-link" href="#main">跳到主要內容</a>
@@ -47,15 +60,15 @@
       </div>
     </section>
     <div class="container">
-      <div class="notice"><span class="sample-label">版面示意資料</span> 本站提供每日正式研究報告；首頁市場欄位不代表即時行情。</div>
-      <section class="section" aria-labelledby="summary-title" data-market-summary>
-        <div class="section-head"><h2 id="summary-title">Market Summary</h2><time class="muted" data-market-summary-updated>尚未更新</time></div>
+      <div class="notice"><span class="sample-label">Prototype</span> 本頁僅供 Market Summary 內容與版面人工 Review，不代表正式首頁。</div>
+      <section class="section" aria-labelledby="summary-title">
+        <div class="section-head"><h2 id="summary-title">Market Summary</h2><span class="muted">UI Review Only</span></div>
         <p>今天投資人最值得先知道的四件事。</p>
-        <div class="grid cards market-summary-grid">
-          <article class="card market-summary-card" data-market-summary-card="global_macro"><h3>全球宏觀</h3><p><strong data-market-summary-headline>等待最新摘要</strong><span data-market-summary-separator hidden>：</span><span data-market-summary-text></span></p></article>
-          <article class="card market-summary-card" data-market-summary-card="asia_markets"><h3>亞洲股市</h3><p><strong data-market-summary-headline>等待最新摘要</strong><span data-market-summary-separator hidden>：</span><span data-market-summary-text></span></p></article>
-          <article class="card market-summary-card" data-market-summary-card="ai_semiconductor"><h3>AI / 半導體</h3><p><strong data-market-summary-headline>等待最新摘要</strong><span data-market-summary-separator hidden>：</span><span data-market-summary-text></span></p></article>
-          <article class="card market-summary-card" data-market-summary-card="fund_flow"><h3>外資 / 資金流</h3><p><strong data-market-summary-headline>等待最新摘要</strong><span data-market-summary-separator hidden>：</span><span data-market-summary-text></span></p></article>
+        <div class="grid cards market-summary-prototype">
+          <article class="card market-summary-card"><h3>市場情緒</h3><p><strong>估值降溫</strong>：企業獲利仍提供底部支撐，風險偏好降溫，但尚未全面避險。</p></article>
+          <article class="card market-summary-card"><h3>宏觀環境</h3><p><strong>油價走升</strong>：能源價格回升，長端殖利率維持高位，科技股估值仍受利率影響。</p></article>
+          <article class="card market-summary-card"><h3>AI供應鏈</h3><p><strong>AI訂單分流</strong>：資金集中GPU、HBM及AI Server供應鏈，AI主線未改變。</p></article>
+          <article class="card market-summary-card"><h3>亞洲焦點</h3><p><strong>韓股去擁擠</strong>：韓股承壓，但台日市場仍有資金承接，亞洲呈現區域輪動。</p></article>
         </div>
       </section>
       <section class="section">
@@ -103,7 +116,6 @@
   <script src="assets/js/theme.js"></script>
   <script src="assets/js/app.js"></script>
   <script src="assets/js/reports.js"></script>
-  <script src="assets/js/market-summary.js"></script>
   <script src="assets/js/market-dashboard.js"></script>
   <script src="assets/js/pwa.js"></script>
 </body>
