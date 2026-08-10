@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-10",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-10",
+    "summary": "荷莫茲臨時航道接近定案卻仍非全面重開，紅海與加薩風險擴大；本週美國通膨數據將決定就業降溫能否延續科技股的殖利率利多。",
+    "file": "reports/morning/2026-08-10.html",
+    "updated": "2026-08-10T08:34:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-09",
     "type": "morning",
     "title": "全球新聞晨報",
