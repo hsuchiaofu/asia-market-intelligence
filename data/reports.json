@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-10",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-10",
+    "summary": "日股與台股科技權值領漲，韓國晶片股分化；弱就業支撐估值，但中東航運風險推升油價。",
+    "file": "reports/asia-close/2026-08-10.html",
+    "updated": "2026-08-10T16:48:25+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-10",
     "type": "morning",
     "title": "全球新聞晨報",
