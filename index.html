@@ -79,9 +79,17 @@
           <article class="card market-card" data-market-asset="ethereum"><h3>以太幣</h3><p class="market-price" data-market-price hidden></p><p class="market-change neutral" data-market-change hidden></p><time class="market-time" data-market-time hidden></time><p class="muted" data-market-status>資料暫時無法取得</p></article>
         </div>
       </section>
-      <section class="section">
-        <div class="section-head"><h2>Investment Calendar</h2></div>
-        <ol><li>等待可靠資料來源</li><li>等待可靠資料來源</li><li>等待可靠資料來源</li></ol>
+      <section class="section" aria-labelledby="market-calendar-title">
+        <div class="section-head"><h2 id="market-calendar-title">Market Calendar</h2></div>
+        <ul class="market-calendar" data-market-calendar>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Mon (8/10)</span><span>:</span></span><span class="market-calendar-event">BOJ 會議意見摘要；TSMC 7月營收</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Tue (8/11)</span><span>:</span></span><span class="market-calendar-event">RBA 利率決議</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Wed (8/12)</span><span>:</span></span><span class="market-calendar-event">US CPI；Tencent 財報</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Thu (8/13)</span><span>:</span></span><span class="market-calendar-event">US PPI；Applied Materials 財報</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Fri (8/14)</span><span>:</span></span><span class="market-calendar-event">US Retail Sales</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Sat (8/15)</span><span>:</span></span><span class="market-calendar-event">No major scheduled events.</span></li>
+          <li><span class="market-calendar-label"><span class="market-calendar-date">Sun (8/16)</span><span>:</span></span><span class="market-calendar-event">No major scheduled events.</span></li>
+        </ul>
       </section>
       <section class="section">
         <div class="section-head"><h2>Recent Reports</h2><span>共 <span data-report-count>0</span> 份</span></div>
@@ -105,6 +113,7 @@
   <script src="assets/js/reports.js"></script>
   <script src="assets/js/market-summary.js"></script>
   <script src="assets/js/market-dashboard.js"></script>
+  <script src="assets/js/market-calendar.js"></script>
   <script src="assets/js/pwa.js"></script>
 </body>
 </html>
