@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-11T16:21:31+08:00",
+  "updated_at": "2026-08-11T17:31:53+08:00",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
   "days": [
     {
       "date": "2026-08-10",
       "label": "Mon (8/10)",
-      "event": "BOJ Summary of Opinions；TSMC July revenue"
+      "event": "日本央行意見摘要；TSMC 7月營收"
     },
     {
       "date": "2026-08-11",
       "label": "Tue (8/11)",
-      "event": "RBA interest rate decision"
+      "event": "澳洲央行利率決議"
     },
     {
       "date": "2026-08-12",
       "label": "Wed (8/12)",
-      "event": "US CPI / Core CPI；Tencent 財報"
+      "event": "韓國7月就業報告；美國消費者物價指數（CPI）／核心消費者物價指數（Core CPI）；Tencent 財報"
     },
     {
       "date": "2026-08-13",
       "label": "Thu (8/13)",
-      "event": "UK Q2 GDP；US PPI / Core PPI / Initial Jobless Claims；Cisco 財報"
+      "event": "英國第二季國內生產總值（GDP）；美國生產者物價指數（PPI）／核心生產者物價指數（Core PPI）；美國初領失業救濟金人數；Cisco 財報"
     },
     {
       "date": "2026-08-14",
       "label": "Fri (8/14)",
-      "event": "US Retail Sales / University of Michigan Consumer Sentiment；Applied Materials 財報"
+      "event": "美國零售銷售；密西根大學消費者信心指數；Applied Materials 財報"
     },
     {
       "date": "2026-08-15",
