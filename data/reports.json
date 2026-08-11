@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-11",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-11",
+    "summary": "韓國記憶體與台灣晶圓、IC設計支撐科技風險偏好，陸港股回落；荷莫茲僵局推升油價與美債殖利率，RBA按兵不動但保留再升息空間。",
+    "file": "reports/asia-close/2026-08-11.html",
+    "updated": "2026-08-11T16:40:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-11",
     "type": "morning",
     "title": "全球新聞晨報",
