@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-11",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-11",
+    "summary": "荷莫茲談判再陷賠償與制裁僵局推升油價與殖利率；NVIDIA逾5,000億美元第三方AI基建融資平台、Intel增資與TSMC強勁月營收，把AI主線轉向資本成本與供應鏈兌現。",
+    "file": "reports/morning/2026-08-11.html",
+    "updated": "2026-08-11T08:41:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-10",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
