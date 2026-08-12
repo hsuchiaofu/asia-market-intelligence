@@ -21,12 +21,19 @@ class MarketDashboardTests(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stdout + "\n" + result.stderr)
 
-    def test_only_crypto_cards_are_data_driven(self):
+    def test_market_dashboard_card_wiring(self):
         html = (ROOT / "index.html").read_text(encoding="utf-8")
+        dashboard = html.split("<h2>Market Dashboard</h2>", 1)[1].split("</section>", 1)[0]
+        self.assertEqual(dashboard.count('<article class="card'), 10)
         self.assertEqual(html.count('data-market-asset="bitcoin"'), 1)
         self.assertEqual(html.count('data-market-asset="ethereum"'), 1)
-        for title in ("美股", "歐洲", "亞洲", "美債", "美元", "原油", "黃金"):
+        self.assertNotIn('data-market-asset="silver"', html)
+        for title in ("美股", "歐洲", "亞洲", "美債", "美元", "原油", "黃金", "白銀"):
             self.assertIn(f"<h3>{title}</h3><p>尚未更新</p>", html)
+        silver = '<article class="card"><h3>白銀</h3><p>尚未更新</p></article>'
+        self.assertIn(silver, dashboard)
+        self.assertLess(dashboard.index("<h3>黃金</h3>"), dashboard.index(silver))
+        self.assertLess(dashboard.index(silver), dashboard.index('data-market-asset="bitcoin"'))
         self.assertIn("assets/js/market-dashboard.js", html)
 
     def test_csp_allows_only_required_market_api(self):
