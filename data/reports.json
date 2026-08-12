@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-12",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-12",
+    "summary": "韓國記憶體股大幅領漲，日股與A股科技走高、港股科技承壓；AI基建融資與鴻海獲利驗證需求，荷莫茲油價風險及美國CPI限制估值擴張。",
+    "file": "reports/asia-close/2026-08-12.html",
+    "updated": "2026-08-12T16:38:37+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-12",
     "type": "morning",
     "title": "全球新聞晨報",
