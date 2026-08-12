@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-11T09:32:49+08:00",
+  "updated_at": "2026-08-12T09:32:08+08:00",
   "source_reports": [
-    "morning-2026-08-11",
-    "asia-close-2026-08-10"
+    "morning-2026-08-12",
+    "asia-close-2026-08-11"
   ],
   "global_macro": {
-    "headline": "油價推升利率",
-    "summary": "荷莫茲談判僵局推高油價與美債殖利率，Fed定價轉向8月12日CPI。"
+    "headline": "能源壓力延長",
+    "summary": "油價連二日走高，CPI前殖利率回落，能源再通膨成為利率主線。"
   },
   "asia_markets": {
-    "headline": "科技反彈分化",
-    "summary": "日台科技權值領漲、陸港溫和走高，韓國晶片落後，能源逆風限制追價。"
+    "headline": "韓台科技領先",
+    "summary": "韓台晶片支撐區域風險偏好，陸港回落，日本休市延後價格發現。"
   },
   "ai_semiconductor": {
-    "headline": "算力融資擴張",
-    "summary": "NVIDIA引入第三方資本擴建AI基建，TSMC營收兌現需求，Intel增資凸顯成本。"
+    "headline": "晶片驗證需求",
+    "summary": "台積電營收與韓國記憶體走勢支撐AI需求，資金轉向可驗證收入與現金流。"
   },
   "fund_flow": {
-    "headline": "資金轉向兌現",
-    "summary": "資金偏向設備、測試與先進製程；韓國外資由晶片轉國防，顯示AI交易轉為選股。"
+    "headline": "資金轉向實績",
+    "summary": "美股資金由大型科技轉向小型股，亞洲則偏好營收能見度較高的晶片龍頭。"
   }
 }
