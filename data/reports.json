@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-13",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-13",
+    "summary": "2026-08-13 亞洲股市收盤報",
+    "file": "reports/asia-close/2026-08-13.html",
+    "updated": "2026-08-13T18:25:13+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-13",
     "type": "morning",
     "title": "全球新聞晨報",
