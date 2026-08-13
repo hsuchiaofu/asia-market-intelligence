@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-13",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-13",
+    "summary": "美國7月通膨降溫但油價風險仍限制Fed空間，AI伺服器財報推升科技股；美債殖利率回落、亞洲半導體領漲，市場主線轉向驗證算力需求與能源通膨。",
+    "file": "reports/morning/2026-08-13.html",
+    "updated": "2026-08-13T08:40:41+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-12",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
