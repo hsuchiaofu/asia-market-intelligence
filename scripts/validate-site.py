@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json,re,sys
 from pathlib import Path
-from site_tools import ROOT,load_reports
+from site_tools import ROOT,extract_meta_description,load_reports,validate_summary
 from validation_paths import iter_site_files
 def main():
     errors=[]; reports=load_reports(); seen=set()
@@ -12,12 +12,26 @@ def main():
         text=f.read_text(encoding='utf-8'); low=text.lower()
         if '<html lang="zh-hant"' not in low: errors.append(f'{f.relative_to(ROOT)} 缺少 lang=zh-Hant')
         if '<meta charset="utf-8"' not in low: errors.append(f'{f.relative_to(ROOT)} 缺少 UTF-8 charset')
+    latest_by_type={}
     for r in reports:
         for k in ('id','type','title','date','summary','file','updated','status','featured','wordFile'):
             if k not in r: errors.append(f'{r.get("id","?")} 缺少 {k}')
         if r.get('id') in seen: errors.append(f'重複 id：{r["id"]}')
         seen.add(r.get('id'))
-        if not (ROOT/r.get('file','')).is_file(): errors.append(f'找不到報告：{r.get("file")}')
+        if r.get('status')=='published' and r.get('type') not in latest_by_type: latest_by_type[r.get('type')]=r
+        report_path=ROOT/r.get('file','')
+        if not report_path.is_file(): errors.append(f'找不到報告：{r.get("file")}')
+        else:
+            try:
+                validate_summary(r.get('type'),r.get('date'),r.get('summary',''))
+            except (KeyError,UnicodeDecodeError,ValueError) as e: errors.append(f'{r.get("id")} metadata 驗證失敗：{e}')
+    for r in latest_by_type.values():
+        report_path=ROOT/r['file']
+        if report_path.is_file():
+            try:
+                description=extract_meta_description(report_path.read_text(encoding='utf-8'))
+                if r['summary']!=description: errors.append(f'{r["id"]} summary 與 HTML meta description 不一致')
+            except (UnicodeDecodeError,ValueError) as e: errors.append(f'{r["id"]} HTML metadata 驗證失敗：{e}')
     secret=re.compile(r'(api[_-]?key|token|secret)\s*[:=]\s*["\'][^"\']{12,}',re.I)
     for f in iter_site_files(ROOT,('*.js','*.json','*.yml')):
         if secret.search(f.read_text(encoding='utf-8')): errors.append(f'疑似秘密：{f.relative_to(ROOT)}')

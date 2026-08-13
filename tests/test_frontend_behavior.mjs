@@ -35,6 +35,22 @@ async function testSearchCounts(){
   await failedReady();assert.equal(count.error,true);assert.match(failedResult.innerHTML,/無法載入報告資料/);
 }
 
+async function testHomepageLatestSummaries(){
+  const rows=JSON.parse(await fs.readFile(path.join(root,'data/reports.json'),'utf8'));
+  const targets=['morning','asia-close'].map(type=>({dataset:{type,limit:'1'},innerHTML:'',querySelectorAll:()=>[]}));
+  let domReady;
+  const document={body:{dataset:{root:'.'}},addEventListener:(name,fn)=>domReady=fn,querySelectorAll:selector=>selector==='[data-report-list]'?targets:[]};
+  const fetch=async url=>url==='./data/reports.json'?{ok:true,json:async()=>rows}:{ok:true,json:async()=>({views:[]})};
+  vm.runInNewContext(await fs.readFile(path.join(root,'assets/js/reports.js'),'utf8'),{document,fetch,Intl,Date,Number,Map,Set,String,Boolean,Promise,Error});
+  await domReady();
+  for(const target of targets){
+    const latest=rows.find(row=>row.type===target.dataset.type&&row.status==='published');
+    assert.ok(latest,`應有最新 ${target.dataset.type} report`);
+    assert.notEqual(latest.summary,`${latest.date} ${latest.title}`,'Homepage summary 不得退化為日期加標題');
+    assert.ok(target.innerHTML.includes(latest.summary),`Homepage 應顯示 ${target.dataset.type} summary`);
+  }
+}
+
 async function testViewDedupAndFailure(){
   const source=await fs.readFile(path.join(root,'assets/js/views.js'),'utf8');
   async function run(lastValue,fetchImpl,pathname='/reports/morning/2026-07-23'){
@@ -60,4 +76,4 @@ async function testApi(){
   response=await api.onRequestGet({request:new Request('https://example.com/api/views?id=morning-2026-07-23'),env});assert.equal((await response.json()).views,1,'GET 應取得閱讀次數');
 }
 
-await testSearchCounts();await testViewDedupAndFailure();await testApi();console.log('Frontend and views API behavior tests passed');
+await testSearchCounts();await testHomepageLatestSummaries();await testViewDedupAndFailure();await testApi();console.log('Frontend and views API behavior tests passed');

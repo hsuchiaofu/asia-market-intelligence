@@ -3,12 +3,37 @@
 from __future__ import annotations
 import json, re, shutil
 from datetime import date, datetime, timezone, timedelta
+from html.parser import HTMLParser
 from pathlib import Path
 from xml.sax.saxutils import escape
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; REPORTS=DATA/'reports.json'
 VALID_TYPES={'morning':'全球新聞晨報','asia-close':'亞洲股市收盤報'}
 FORBIDDEN=('TODO','PLACEHOLDER','SAMPLE ONLY')
+
+class _MetaDescriptionParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True); self.descriptions=[]
+    def handle_starttag(self,tag,attrs):
+        if tag.lower()!='meta': return
+        values={str(key).lower():value for key,value in attrs}
+        if (values.get('name') or '').strip().lower()=='description':
+            self.descriptions.append((values.get('content') or '').strip())
+
+def extract_meta_description(text:str):
+    parser=_MetaDescriptionParser(); parser.feed(text); parser.close()
+    descriptions=[value for value in parser.descriptions if value]
+    if len(descriptions)!=1: raise ValueError('Validation Failed: HTML 必須包含唯一且非空白的 meta description')
+    return descriptions[0]
+
+def validate_summary(kind,day,summary):
+    value=re.sub(r'\s+',' ',str(summary)).strip()
+    if not value: raise ValueError('Validation Failed: 報告摘要不可空白')
+    if value==f'{day} {VALID_TYPES[kind]}': raise ValueError('Validation Failed: 報告摘要不得使用日期加報告類型的通用字串')
+    if '\ufffd' in value or re.search(r'\?{2,}',value): raise ValueError('Validation Failed: 報告摘要含無效字元')
+    if not re.search(r'[\u3400-\u4dbf\u4e00-\u9fff]',value): raise ValueError('Validation Failed: 報告摘要必須包含有效中文內容')
+    return value
+
 def load_config(): return json.loads((DATA/'site-config.json').read_text(encoding='utf-8'))
 def load_reports():
     data=json.loads(REPORTS.read_text(encoding='utf-8'))
@@ -46,8 +71,11 @@ def add_report(kind,day,title,summary,source,allow_replace=False):
     if kind not in VALID_TYPES: raise ValueError('type 必須是 morning 或 asia-close')
     try: date.fromisoformat(day)
     except ValueError as e: raise ValueError('日期必須是 YYYY-MM-DD') from e
-    if not title.strip() or not summary.strip(): raise ValueError('標題與摘要不可空白')
-    source=Path(source).resolve(); validate_source(source); reports=load_reports(); rid=f'{kind}-{day}'
+    if not title.strip(): raise ValueError('標題不可空白')
+    summary=validate_summary(kind,day,summary)
+    source=Path(source).resolve(); text=validate_source(source)
+    if summary!=extract_meta_description(text): raise ValueError('Validation Failed: summary 必須與 HTML meta description 一致')
+    reports=load_reports(); rid=f'{kind}-{day}'
     existing=next((x for x in reports if x['id']==rid),None)
     if existing and not allow_replace: raise ValueError(f'報告已存在：{rid}')
     dest=ROOT/'reports'/kind/f'{day}.html'; dest.parent.mkdir(parents=True,exist_ok=True); backup(dest); backup(REPORTS); shutil.copy2(source,dest)
