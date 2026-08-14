@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-14",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-14",
+    "summary": "韓日科技股續強，日經225漲0.59%、KOSPI漲2.42%；港股回落、中國股市窄幅整理，美元走弱但美債殖利率與油價回升，市場集中於AI記憶體與設備鏈。",
+    "file": "reports/asia-close/2026-08-14.html",
+    "updated": "2026-08-14T16:46:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-14",
     "type": "morning",
     "title": "全球新聞晨報",
