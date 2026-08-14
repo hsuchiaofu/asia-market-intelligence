@@ -6,6 +6,7 @@ import vm from 'node:vm';
 import {pathToFileURL} from 'node:url';
 
 const root=path.resolve(import.meta.dirname,'..');
+const escapeHtml=value=>String(value).replace(/[&<>'"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
 
 async function testSearchCounts(){
   const listeners={},count={value:null,error:false},result={innerHTML:''};
@@ -47,7 +48,8 @@ async function testHomepageLatestSummaries(){
     const latest=rows.find(row=>row.type===target.dataset.type&&row.status==='published');
     assert.ok(latest,`應有最新 ${target.dataset.type} report`);
     assert.notEqual(latest.summary,`${latest.date} ${latest.title}`,'Homepage summary 不得退化為日期加標題');
-    assert.ok(target.innerHTML.includes(latest.summary),`Homepage 應顯示 ${target.dataset.type} summary`);
+    const renderedSummary=`<span class="muted">${escapeHtml(latest.summary)}</span>`;
+    assert.ok(target.innerHTML.includes(renderedSummary),`Homepage 應顯示 ${target.dataset.type} summary`);
   }
 }
 

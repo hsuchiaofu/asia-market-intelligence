@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-14",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-14",
+    "summary": "美國7月PPI月增零、殖利率與油價同步回落，推升S&P 500創高；AI與記憶體股續強但Cisco財報後重挫，市場轉向檢驗訂單、毛利與能源風險。",
+    "file": "reports/morning/2026-08-14.html",
+    "updated": "2026-08-14T08:40:21+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-13",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
