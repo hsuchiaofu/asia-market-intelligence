@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-13T09:32:56+08:00",
+  "updated_at": "2026-08-14T09:32:05+08:00",
   "source_reports": [
-    "morning-2026-08-13",
-    "asia-close-2026-08-12"
+    "morning-2026-08-14",
+    "asia-close-2026-08-13"
   ],
   "global_macro": {
-    "headline": "通膨降溫受限",
-    "summary": "美國7月CPI放緩、殖利率回落，但近89美元油價仍限制Fed轉鴿空間。"
+    "headline": "通膨壓力回落",
+    "summary": "美國PPI、殖利率與油價同步回落，Fed升息壓力降溫。"
   },
   "asia_markets": {
-    "headline": "晶片鏈領漲",
-    "summary": "韓國記憶體領漲，日台與A股半導體接棒，港股平台科技逆勢承壓。"
+    "headline": "東北亞晶片領漲",
+    "summary": "韓日台AI硬體鏈走強，中港受內需與平台股分化拖累。"
   },
   "ai_semiconductor": {
-    "headline": "需求驗證擴散",
-    "summary": "AI伺服器與算力財報帶動GPU、HBM及零組件，資本效率仍是估值門檻。"
+    "headline": "獲利品質定價",
+    "summary": "HBM與伺服器需求延續，Cisco重挫凸顯毛利與現金流門檻。"
   },
   "fund_flow": {
     "headline": "資金聚焦硬體",
-    "summary": "新興市場7月非居民資金轉為淨流入，亞洲買盤集中AI硬體與記憶體。"
+    "summary": "資金流向美國大型科技與東北亞半導體，歐洲及中港市場偏弱。"
   }
 }
