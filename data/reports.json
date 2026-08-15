@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-15",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-15",
+    "summary": "美國7月零售銷售月減0.6%、消費信心轉弱，油輪遇襲推升油價與美債殖利率；Applied Materials創紀錄仍下跌，AI資金轉向檢驗設備、記憶體與現金流。",
+    "file": "reports/morning/2026-08-15.html",
+    "updated": "2026-08-15T08:40:49+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-14",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
