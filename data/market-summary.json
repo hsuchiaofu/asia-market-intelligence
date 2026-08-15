@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-14T09:32:05+08:00",
+  "updated_at": "2026-08-15T09:33:30+08:00",
   "source_reports": [
-    "morning-2026-08-14",
-    "asia-close-2026-08-13"
+    "morning-2026-08-15",
+    "asia-close-2026-08-14"
   ],
   "global_macro": {
-    "headline": "通膨壓力回落",
-    "summary": "美國PPI、殖利率與油價同步回落，Fed升息壓力降溫。"
+    "headline": "成長能源拉鋸",
+    "summary": "弱消費未帶動利率下行，油輪遇襲使能源再通膨成為新壓力。"
   },
   "asia_markets": {
-    "headline": "東北亞晶片領漲",
-    "summary": "韓日台AI硬體鏈走強，中港受內需與平台股分化拖累。"
+    "headline": "韓日科技獨強",
+    "summary": "HBM與測試設備推升韓日，中港轉弱、台灣半導體回落。"
   },
   "ai_semiconductor": {
-    "headline": "獲利品質定價",
-    "summary": "HBM與伺服器需求延續，Cisco重挫凸顯毛利與現金流門檻。"
+    "headline": "記憶體設備分流",
+    "summary": "記憶體與儲存走強，設備龍頭財報後下跌，市場轉向檢驗獲利品質。"
   },
   "fund_flow": {
-    "headline": "資金聚焦硬體",
-    "summary": "資金流向美國大型科技與東北亞半導體，歐洲及中港市場偏弱。"
+    "headline": "資金窄幅輪動",
+    "summary": "資金未全面避險，集中小型股與韓日記憶體，高估值平台承壓。"
   }
 }
