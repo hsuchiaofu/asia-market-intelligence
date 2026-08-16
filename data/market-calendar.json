@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-11T18:07:30+08:00",
-  "week_start": "2026-08-10",
-  "week_end": "2026-08-16",
+  "updated_at": "2026-08-16T10:32:37+08:00",
+  "week_start": "2026-08-17",
+  "week_end": "2026-08-23",
   "days": [
     {
-      "date": "2026-08-10",
-      "label": "Mon (8/10)",
-      "event": "日本央行意見摘要；TSMC 7月營收"
+      "date": "2026-08-17",
+      "label": "Mon (8/17)",
+      "event": "日本第二季GDP初值；中國7月零售銷售／工業生產／固定資產投資；加拿大CPI（含核心指標）"
     },
     {
-      "date": "2026-08-11",
-      "label": "Tue (8/11)",
-      "event": "澳洲央行利率決議"
+      "date": "2026-08-18",
+      "label": "Tue (8/18)",
+      "event": "英國就業報告；美國7月工業生產／新屋開工；Home Depot / Baidu 財報"
     },
     {
-      "date": "2026-08-12",
-      "label": "Wed (8/12)",
-      "event": "韓國7月就業報告；美國CPI（含核心CPI）；Tencent 財報"
+      "date": "2026-08-19",
+      "label": "Wed (8/19)",
+      "event": "英國CPI；印尼央行利率決議；日本6月核心機械訂單"
     },
     {
-      "date": "2026-08-13",
-      "label": "Thu (8/13)",
-      "event": "英國第二季GDP；美國PPI（含核心PPI）；美國初領失業救濟金人數；Cisco 財報"
+      "date": "2026-08-20",
+      "label": "Thu (8/20)",
+      "event": "中國LPR報價；日本7月貿易收支；台灣7月外銷訂單；Fed 7月FOMC會議紀要；美國初領失業救濟金人數；Walmart / Alibaba 財報"
     },
     {
-      "date": "2026-08-14",
-      "label": "Fri (8/14)",
-      "event": "美國零售銷售；密西根大學消費者信心指數初值；Applied Materials 財報"
+      "date": "2026-08-21",
+      "label": "Fri (8/21)",
+      "event": "日本7月CPI；英國7月零售銷售；主要經濟體8月PMI初值"
     },
     {
-      "date": "2026-08-15",
-      "label": "Sat (8/15)",
+      "date": "2026-08-22",
+      "label": "Sat (8/22)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-08-16",
-      "label": "Sun (8/16)",
+      "date": "2026-08-23",
+      "label": "Sun (8/23)",
       "event": "No major scheduled events."
     }
   ]
