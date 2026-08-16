@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-16",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-16",
+    "summary": "荷莫茲一週內第三艘ADNOC船舶遇襲、紅海Mokha港遭飛彈攻擊，能源與航運風險升高；全球市場週末休市，AI交易轉向檢驗融資、現金流與估值。",
+    "file": "reports/morning/2026-08-16.html",
+    "updated": "2026-08-16T09:54:02+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-15",
     "type": "morning",
     "title": "全球新聞晨報",
