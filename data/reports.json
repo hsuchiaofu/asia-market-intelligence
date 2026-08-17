@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-17",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-17",
+    "summary": "美國下令縮減美韓聯演，美伊60天談判期屆滿未見公開延長，亞洲安全與能源風險升高；油價初盤未確認供應中斷，AI主線續看現金流與估值。",
+    "file": "reports/morning/2026-08-17.html",
+    "updated": "2026-08-17T08:37:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-16",
     "type": "morning",
     "title": "全球新聞晨報",
