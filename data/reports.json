@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-17",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-17",
+    "summary": "中國與香港科技股領漲，上證升1.41%、恒指升1.60%，日經續創高；台股小升但AI供應鏈分化，美元與美債殖利率回落，資金轉向中國科技與記憶體。",
+    "file": "reports/asia-close/2026-08-17.html",
+    "updated": "2026-08-17T16:43:19+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-17",
     "type": "morning",
     "title": "全球新聞晨報",
