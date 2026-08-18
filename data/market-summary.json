@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-08-17T09:32:24+08:00",
+  "updated_at": "2026-08-18T09:31:59+08:00",
   "source_reports": [
-    "morning-2026-08-17"
+    "morning-2026-08-18",
+    "asia-close-2026-08-17"
   ],
   "global_macro": {
-    "headline": "安全溢價待驗證",
-    "summary": "美韓軍演縮減與美伊期限屆滿升高風險，油價尚未確認供應中斷。"
+    "headline": "能源重估利率",
+    "summary": "荷莫茲風險推升油價與長債殖利率，全球股市估值再受壓。"
   },
   "asia_markets": {
-    "headline": "亞洲等待收盤",
-    "summary": "韓國休市，日中港台須待完整收盤消化安全與能源風險。"
+    "headline": "中港科技接棒",
+    "summary": "中港科技領漲、日經漲勢集中，台股AI鏈則轉向分化。"
   },
   "ai_semiconductor": {
-    "headline": "AI回歸現金流",
-    "summary": "無新重大公告，GPU、ASIC與HBM續看訂單、電力及自由現金流。"
+    "headline": "記憶體設備轉強",
+    "summary": "平台與AMD承壓，資金偏向記憶體、儲存及設備瓶頸。"
   },
   "fund_flow": {
-    "headline": "資金驗證待成交",
-    "summary": "無新正式流向資料，先看實體能源、利率，再驗證科技與防禦輪動。"
+    "headline": "科技資金輪動",
+    "summary": "無新外資法人數據；市場價格顯示資金轉向中國科技、記憶體與設備。"
   }
 }
