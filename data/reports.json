@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-18",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-18",
+    "summary": "荷莫茲外交期限失效與伊朗升高施壓推升油價及長債殖利率，美歐股市回落；加拿大通膨升至3.0%，亞洲科技與記憶體鏈相對有撐。",
+    "file": "reports/morning/2026-08-18.html",
+    "updated": "2026-08-18T08:54:51+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-17",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
