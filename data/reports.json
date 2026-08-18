@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-18",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-18",
+    "summary": "油價與長端殖利率攀升壓過AI盈餘動能，日韓台科技股回落；中國大型股與香港能源股相對抗跌，OpenAI、NVIDIA與SoftBank的Ohio資料中心交易凸顯算力投資與融資風險並存。",
+    "file": "reports/asia-close/2026-08-18.html",
+    "updated": "2026-08-18T16:42:42+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-18",
     "type": "morning",
     "title": "全球新聞晨報",
