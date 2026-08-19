@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-19",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-19",
+    "summary": "AI與記憶體股在高殖利率下重挫，荷莫茲船舶遇襲使Brent守在91美元；OpenAI–NVIDIA Ohio 8GW案凸顯算力需求與融資風險。",
+    "file": "reports/morning/2026-08-19.html",
+    "updated": "2026-08-19T08:44:20+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-18",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
