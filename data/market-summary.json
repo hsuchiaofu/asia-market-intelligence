@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-18T09:31:59+08:00",
+  "updated_at": "2026-08-19T09:31:46+08:00",
   "source_reports": [
-    "morning-2026-08-18",
-    "asia-close-2026-08-17"
+    "morning-2026-08-19",
+    "asia-close-2026-08-18"
   ],
   "global_macro": {
-    "headline": "能源重估利率",
-    "summary": "荷莫茲風險推升油價與長債殖利率，全球股市估值再受壓。"
+    "headline": "油息壓抑估值",
+    "summary": "荷莫茲風險使油價維持高檔，長債殖利率偏高持續壓抑風險資產。"
   },
   "asia_markets": {
-    "headline": "中港科技接棒",
-    "summary": "中港科技領漲、日經漲勢集中，台股AI鏈則轉向分化。"
+    "headline": "亞洲科技降溫",
+    "summary": "日韓台科技股同步回落，中港靠能源與大型現金流權值相對抗跌。"
   },
   "ai_semiconductor": {
-    "headline": "記憶體設備轉強",
-    "summary": "平台與AMD承壓，資金偏向記憶體、儲存及設備瓶頸。"
+    "headline": "算力融資受檢",
+    "summary": "Ohio超大型園區確認長期算力需求，也把客戶信用與資本回收風險推上檯面。"
   },
   "fund_flow": {
-    "headline": "科技資金輪動",
-    "summary": "無新外資法人數據；市場價格顯示資金轉向中國科技、記憶體與設備。"
+    "headline": "資金轉向防禦",
+    "summary": "無新外資法人數據；價格顯示資金撤離高貝塔科技，轉向能源、航運與現金流。"
   }
 }
