@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-19",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-19",
+    "summary": "AI估值與記憶體獲利了結席捲日韓台及中國成長股，KOSPI、深證與日經重挫；油價維持91美元上方、長端殖利率近高檔，資金轉向低久期現金流與實體AI。",
+    "file": "reports/asia-close/2026-08-19.html",
+    "updated": "2026-08-19T18:25:19+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-19",
     "type": "morning",
     "title": "全球新聞晨報",
