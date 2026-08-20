@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-19T09:31:46+08:00",
+  "updated_at": "2026-08-20T09:31:37+08:00",
   "source_reports": [
-    "morning-2026-08-19",
-    "asia-close-2026-08-18"
+    "morning-2026-08-20",
+    "asia-close-2026-08-19"
   ],
   "global_macro": {
-    "headline": "油息壓抑估值",
-    "summary": "荷莫茲風險使油價維持高檔，長債殖利率偏高持續壓抑風險資產。"
+    "headline": "鷹派Fed遇回購",
+    "summary": "Fed保留升息選項，長債回購壓低殖利率；高油價仍牽制估值修復。"
   },
   "asia_markets": {
-    "headline": "亞洲科技降溫",
-    "summary": "日韓台科技股同步回落，中港靠能源與大型現金流權值相對抗跌。"
+    "headline": "亞洲科技去槓桿",
+    "summary": "日韓台與中國成長股同步降風險，港股靠能源與大型權值相對抗跌。"
   },
   "ai_semiconductor": {
-    "headline": "算力融資受檢",
-    "summary": "Ohio超大型園區確認長期算力需求，也把客戶信用與資本回收風險推上檯面。"
+    "headline": "AI回到現金流",
+    "summary": "Broadcom續跌，資金轉而檢驗AI融資、客戶信用與資本回收。"
   },
   "fund_flow": {
-    "headline": "資金轉向防禦",
-    "summary": "無新外資法人數據；價格顯示資金撤離高貝塔科技，轉向能源、航運與現金流。"
+    "headline": "資金偏好低久期",
+    "summary": "無新外資法人數據；市場輪動由高評價科技轉向小型股、防禦與現金流。"
   }
 }
