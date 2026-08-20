@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-20",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-20",
+    "summary": "美國財政部擴大長債回購推動亞洲科技反彈，SK海力士40兆韓元庫藏股計畫令KOSPI急升；油價逼近94美元與長債殖利率回升，限制估值修復廣度。",
+    "file": "reports/asia-close/2026-08-20.html",
+    "updated": "2026-08-20T17:45:04+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-20",
     "type": "morning",
     "title": "全球新聞晨報",
