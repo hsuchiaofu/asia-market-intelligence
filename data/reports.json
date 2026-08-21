@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-21",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-21",
+    "summary": "美元走弱與美債回購支撐亞洲風險偏好，韓國記憶體、台灣IC設計及A股AI晶片反彈；黃金與加密資產急升，但高殖利率與油價仍限制估值擴張。",
+    "file": "reports/asia-close/2026-08-21.html",
+    "updated": "2026-08-21T16:39:32+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-21",
     "type": "morning",
     "title": "全球新聞晨報",
