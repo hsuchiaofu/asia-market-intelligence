@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-21",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-21",
+    "summary": "美債回購效應迅速消退，10年期殖利率重返4.69%；油價、財政與Walmart消費訊號壓低全球風險偏好，中國LPR連15月不變。",
+    "file": "reports/morning/2026-08-21.html",
+    "updated": "2026-08-21T08:48:45+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-20",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
