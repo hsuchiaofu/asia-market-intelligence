@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-20T09:31:37+08:00",
+  "updated_at": "2026-08-21T09:32:13+08:00",
   "source_reports": [
-    "morning-2026-08-20",
-    "asia-close-2026-08-19"
+    "morning-2026-08-21",
+    "asia-close-2026-08-20"
   ],
   "global_macro": {
-    "headline": "鷹派Fed遇回購",
-    "summary": "Fed保留升息選項，長債回購壓低殖利率；高油價仍牽制估值修復。"
+    "headline": "回購難壓長債",
+    "summary": "美債回購效應僅維持一天，油價與長債供給再推高折現壓力。"
   },
   "asia_markets": {
-    "headline": "亞洲科技去槓桿",
-    "summary": "日韓台與中國成長股同步降風險，港股靠能源與大型權值相對抗跌。"
+    "headline": "亞洲反彈分化",
+    "summary": "韓國記憶體強力回補，日台港中漲勢較窄，區域風險重建仍不均。"
   },
   "ai_semiconductor": {
-    "headline": "AI回到現金流",
-    "summary": "Broadcom續跌，資金轉而檢驗AI融資、客戶信用與資本回收。"
+    "headline": "AI回報分化",
+    "summary": "HBM與網通反彈，GPU偏弱；市場改以融資成本與現金回報排序。"
   },
   "fund_flow": {
-    "headline": "資金偏好低久期",
-    "summary": "無新外資法人數據；市場輪動由高評價科技轉向小型股、防禦與現金流。"
+    "headline": "資金兩端配置",
+    "summary": "無新法人流量數據；資金同時回補記憶體，並配置能源、金融與貴金屬。"
   }
 }
