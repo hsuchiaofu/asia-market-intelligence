@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-22",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-22",
+    "summary": "美股在長債殖利率續升下反彈，但油價與伊朗制裁風險仍推高通膨溢價；歐亞PMI、日銀升息預期與NVIDIA財報成為下週關鍵。",
+    "file": "reports/morning/2026-08-22.html",
+    "updated": "2026-08-22T08:49:35+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-21",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
