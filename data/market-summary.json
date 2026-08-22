@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-21T09:32:13+08:00",
+  "updated_at": "2026-08-22T09:33:12+08:00",
   "source_reports": [
-    "morning-2026-08-21",
-    "asia-close-2026-08-20"
+    "morning-2026-08-22",
+    "asia-close-2026-08-21"
   ],
   "global_macro": {
-    "headline": "回購難壓長債",
-    "summary": "美債回購效應僅維持一天，油價與長債供給再推高折現壓力。"
+    "headline": "成長撐股債壓",
+    "summary": "美國成長支撐美股反彈，長債殖利率與油價續限制估值。"
   },
   "asia_markets": {
-    "headline": "亞洲反彈分化",
-    "summary": "韓國記憶體強力回補，日台港中漲勢較窄，區域風險重建仍不均。"
+    "headline": "亞洲選擇性修復",
+    "summary": "韓國記憶體與台灣晶圓代工領漲，陸港回補，日本科技權值承壓。"
   },
   "ai_semiconductor": {
-    "headline": "AI回報分化",
-    "summary": "HBM與網通反彈，GPU偏弱；市場改以融資成本與現金回報排序。"
+    "headline": "財報檢驗估值",
+    "summary": "AI估值轉向訂單、毛利與現金回報，NVIDIA財報成為下一道門檻。"
   },
   "fund_flow": {
-    "headline": "資金兩端配置",
-    "summary": "無新法人流量數據；資金同時回補記憶體，並配置能源、金融與貴金屬。"
+    "headline": "進攻避險並行",
+    "summary": "未見新法人流量數據；資金回補記憶體與晶圓代工，黃金同步走強。"
   }
 }
