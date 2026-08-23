@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-23",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-23",
+    "summary": "美加貿易談判破裂、50%關稅生效並觸發加拿大等額反制；伊朗威脅替代荷莫茲能源航線，週一油價、長債與AI估值面臨跳空檢驗。",
+    "file": "reports/morning/2026-08-23.html",
+    "updated": "2026-08-23T10:11:08+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-22",
     "type": "morning",
     "title": "全球新聞晨報",
