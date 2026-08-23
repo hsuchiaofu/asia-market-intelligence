@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-08-22T09:33:12+08:00",
+  "updated_at": "2026-08-23T10:28:07+08:00",
   "source_reports": [
-    "morning-2026-08-22",
-    "asia-close-2026-08-21"
+    "morning-2026-08-23"
   ],
   "global_macro": {
-    "headline": "成長撐股債壓",
-    "summary": "美國成長支撐美股反彈，長債殖利率與油價續限制估值。"
+    "headline": "關稅油價夾擊",
+    "summary": "美加關稅落地，伊朗能源威脅升溫，通膨與長債風險再壓估值。"
   },
   "asia_markets": {
-    "headline": "亞洲選擇性修復",
-    "summary": "韓國記憶體與台灣晶圓代工領漲，陸港回補，日本科技權值承壓。"
+    "headline": "亞洲週一待定價",
+    "summary": "亞洲休市未反映週末衝擊，能源進口國與高久期科技股先迎考驗。"
   },
   "ai_semiconductor": {
-    "headline": "財報檢驗估值",
-    "summary": "AI估值轉向訂單、毛利與現金回報，NVIDIA財報成為下一道門檻。"
+    "headline": "瓶頸轉向系統",
+    "summary": "Hot Chips聚焦HBM、先進封裝與互連，NVIDIA財報接棒驗證需求。"
   },
   "fund_flow": {
-    "headline": "進攻避險並行",
-    "summary": "未見新法人流量數據；資金回補記憶體與晶圓代工，黃金同步走強。"
+    "headline": "資金流待開盤",
+    "summary": "週末無新法人流量數據；資金方向須待週一現貨市場重新定價。"
   }
 }
