@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-16T10:32:37+08:00",
-  "week_start": "2026-08-17",
-  "week_end": "2026-08-23",
+  "updated_at": "2026-08-23T10:04:33+08:00",
+  "week_start": "2026-08-24",
+  "week_end": "2026-08-30",
   "days": [
     {
-      "date": "2026-08-17",
-      "label": "Mon (8/17)",
-      "event": "日本第二季GDP初值；中國7月零售銷售／工業生產／固定資產投資；加拿大CPI（含核心指標）"
+      "date": "2026-08-24",
+      "label": "Mon (8/24)",
+      "event": "台灣7月失業率"
     },
     {
-      "date": "2026-08-18",
-      "label": "Tue (8/18)",
-      "event": "英國就業報告；美國7月工業生產／新屋開工；Home Depot / Baidu 財報"
+      "date": "2026-08-25",
+      "label": "Tue (8/25)",
+      "event": "台灣7月工業生產／零售銷售；美國7月新屋銷售"
     },
     {
-      "date": "2026-08-19",
-      "label": "Wed (8/19)",
-      "event": "英國CPI；印尼央行利率決議；日本6月核心機械訂單"
+      "date": "2026-08-26",
+      "label": "Wed (8/26)",
+      "event": "澳洲7月CPI；美國第二季GDP修正值／7月PCE（含核心PCE）／7月耐久財訂單"
     },
     {
-      "date": "2026-08-20",
-      "label": "Thu (8/20)",
-      "event": "中國LPR報價；日本7月貿易收支；台灣7月外銷訂單；Fed 7月FOMC會議紀要；美國初領失業救濟金人數；Walmart / Alibaba 財報"
+      "date": "2026-08-27",
+      "label": "Thu (8/27)",
+      "event": "中國1至7月工業企業利潤；韓國央行利率決議；歐洲央行7月會議紀要；美國初領失業救濟金人數；NVIDIA 財報"
     },
     {
-      "date": "2026-08-21",
-      "label": "Fri (8/21)",
-      "event": "日本7月CPI；英國7月零售銷售；主要經濟體8月PMI初值"
+      "date": "2026-08-28",
+      "label": "Fri (8/28)",
+      "event": "日本東京8月CPI／7月失業率；加拿大第二季GDP；Fed 主席 Warsh Jackson Hole 主題演說"
     },
     {
-      "date": "2026-08-22",
-      "label": "Sat (8/22)",
+      "date": "2026-08-29",
+      "label": "Sat (8/29)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-08-23",
-      "label": "Sun (8/23)",
+      "date": "2026-08-30",
+      "label": "Sun (8/30)",
       "event": "No major scheduled events."
     }
   ]
