@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-24",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-24",
+    "summary": "美債殖利率高檔與科技估值壓力觸發亞洲AI股回吐，三星、阿里及中港算力鏈領跌；黃金與防禦產業逆勢走強，NVIDIA財報成為下一個方向驗證。",
+    "file": "reports/asia-close/2026-08-24.html",
+    "updated": "2026-08-24T16:40:09+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-24",
     "type": "morning",
     "title": "全球新聞晨報",
