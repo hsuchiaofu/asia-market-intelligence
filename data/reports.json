@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-24",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-24",
+    "summary": "Fed官員淡化長債市場失靈疑慮卻維持通膨警戒；油價在伊朗新制裁公布前回落，AI與半導體等待Hot Chips、NVIDIA財報及PCE共同驗證。",
+    "file": "reports/morning/2026-08-24.html",
+    "updated": "2026-08-24T08:42:38+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-23",
     "type": "morning",
     "title": "全球新聞晨報",
