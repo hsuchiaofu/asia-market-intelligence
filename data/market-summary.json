@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-23T10:28:07+08:00",
+  "updated_at": "2026-08-24T09:32:06+08:00",
   "source_reports": [
-    "morning-2026-08-23"
+    "morning-2026-08-24"
   ],
   "global_macro": {
-    "headline": "關稅油價夾擊",
-    "summary": "美加關稅落地，伊朗能源威脅升溫，通膨與長債風險再壓估值。"
+    "headline": "高利率警戒未退",
+    "summary": "Fed未將高殖利率視為失靈，伊朗制裁未明，油價回落仍難解除通膨風險。"
   },
   "asia_markets": {
-    "headline": "亞洲週一待定價",
-    "summary": "亞洲休市未反映週末衝擊，能源進口國與高久期科技股先迎考驗。"
+    "headline": "亞洲選股分化",
+    "summary": "亞洲尚無今日正式收盤，能源成本與高殖利率仍主導科技權值分化。"
   },
   "ai_semiconductor": {
-    "headline": "瓶頸轉向系統",
-    "summary": "Hot Chips聚焦HBM、先進封裝與互連，NVIDIA財報接棒驗證需求。"
+    "headline": "系統瓶頸接棒",
+    "summary": "Hot Chips聚焦HBM、先進封裝與互連，NVIDIA財報將驗證訂單與毛利。"
   },
   "fund_flow": {
-    "headline": "資金流待開盤",
-    "summary": "週末無新法人流量數據；資金方向須待週一現貨市場重新定價。"
+    "headline": "資金流待收盤",
+    "summary": "今日亞洲尚無正式收盤及新法人流量，跨市場資金方向仍待現貨數據確認。"
   }
 }
