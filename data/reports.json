@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-25",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-25",
+    "summary": "亞洲股市在AI硬體賣壓後出現劇烈日內反轉，台日韓收高，中港分化；金融、PCB與防禦產業承接資金，NVIDIA財報與PCE仍是方向關鍵。",
+    "file": "reports/asia-close/2026-08-25.html",
+    "updated": "2026-08-25T16:40:37+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-25",
     "type": "morning",
     "title": "全球新聞晨報",
