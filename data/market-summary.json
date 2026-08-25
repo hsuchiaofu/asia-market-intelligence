@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-08-24T09:32:06+08:00",
+  "updated_at": "2026-08-25T09:32:51+08:00",
   "source_reports": [
-    "morning-2026-08-24"
+    "morning-2026-08-25",
+    "asia-close-2026-08-24"
   ],
   "global_macro": {
-    "headline": "高利率警戒未退",
-    "summary": "Fed未將高殖利率視為失靈，伊朗制裁未明，油價回落仍難解除通膨風險。"
+    "headline": "制裁降溫難鬆綁",
+    "summary": "油價與長債殖利率回落，但伊朗次級制裁、關稅與財政供給仍限制Fed空間。"
   },
   "asia_markets": {
-    "headline": "亞洲選股分化",
-    "summary": "亞洲尚無今日正式收盤，能源成本與高殖利率仍主導科技權值分化。"
+    "headline": "亞洲科技去風險",
+    "summary": "韓國記憶體與中港算力鏈領跌，資金轉向黃金、防禦與低位階硬體。"
   },
   "ai_semiconductor": {
-    "headline": "系統瓶頸接棒",
-    "summary": "Hot Chips聚焦HBM、先進封裝與互連，NVIDIA財報將驗證訂單與毛利。"
+    "headline": "AI獲利驗證",
+    "summary": "NVIDIA財報前GPU、HBM與光模組降風險，Intel新架構強調推論效率與封裝。"
   },
   "fund_flow": {
-    "headline": "資金流待收盤",
-    "summary": "今日亞洲尚無正式收盤及新法人流量，跨市場資金方向仍待現貨數據確認。"
+    "headline": "資金轉向防禦",
+    "summary": "外資減碼高貝塔半導體與平台股，資金轉入黃金、煤炭、農業及低位階晶圓代工。"
   }
 }
