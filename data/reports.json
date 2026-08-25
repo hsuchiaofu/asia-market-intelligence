@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-25",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-25",
+    "summary": "美國擴大伊朗次級制裁、加拿大準備新一輪反制；油價與長債殖利率回落，仍未阻止AI、記憶體及伺服器供應鏈在NVIDIA財報前去風險。",
+    "file": "reports/morning/2026-08-25.html",
+    "updated": "2026-08-25T08:39:29+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-24",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
