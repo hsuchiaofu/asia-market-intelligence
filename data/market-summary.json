@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-25T09:32:51+08:00",
+  "updated_at": "2026-08-26T09:32:41+08:00",
   "source_reports": [
-    "morning-2026-08-25",
-    "asia-close-2026-08-24"
+    "morning-2026-08-26",
+    "asia-close-2026-08-25"
   ],
   "global_macro": {
-    "headline": "制裁降溫難鬆綁",
-    "summary": "油價與長債殖利率回落，但伊朗次級制裁、關稅與財政供給仍限制Fed空間。"
+    "headline": "能源降溫利率待驗",
+    "summary": "荷莫茲航道框架壓低油價與長債殖利率，PCE仍決定Fed與科技估值空間。"
   },
   "asia_markets": {
-    "headline": "亞洲科技去風險",
-    "summary": "韓國記憶體與中港算力鏈領跌，資金轉向黃金、防禦與低位階硬體。"
+    "headline": "台日韓低接翻紅",
+    "summary": "台日韓由AI賣壓中翻紅，中港偏弱，金融、PCB與防禦板塊承接資金。"
   },
   "ai_semiconductor": {
-    "headline": "AI獲利驗證",
-    "summary": "NVIDIA財報前GPU、HBM與光模組降風險，Intel新架構強調推論效率與封裝。"
+    "headline": "AI晶片分工加速",
+    "summary": "Jalapeño推論實測擴大ASIC替代，NVIDIA財報驗證GPU、HBM與封裝需求。"
   },
   "fund_flow": {
-    "headline": "資金轉向防禦",
-    "summary": "外資減碼高貝塔半導體與平台股，資金轉入黃金、煤炭、農業及低位階晶圓代工。"
+    "headline": "外資賣壓未退",
+    "summary": "韓股外資賣超約3.8兆韓元，本地資金轉向金融、PCB、伺服器與防禦板塊。"
   }
 }
