@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-26",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-26",
+    "summary": "伊朗與阿曼提出荷莫茲臨時航道、油價與美債殖利率大跌；OpenAI公布Jalapeño推論晶片實測，加拿大啟動對美等額反制，NVIDIA財報與PCE成為今日雙重定價核心。",
+    "file": "reports/morning/2026-08-26.html",
+    "updated": "2026-08-26T08:45:23+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-25",
     "type": "asia-close",
     "title": "亞洲股市收盤報",
