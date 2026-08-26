@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-23T10:04:33+08:00",
+  "updated_at": "2026-08-26T14:22:32+08:00",
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
   "days": [
     {
       "date": "2026-08-24",
       "label": "Mon (8/24)",
-      "event": "台灣7月失業率"
+      "event": "台灣7月失業率；XPEV 財報"
     },
     {
       "date": "2026-08-25",
       "label": "Tue (8/25)",
-      "event": "台灣7月工業生產／零售銷售；美國7月新屋銷售"
+      "event": "台灣7月工業生產／零售銷售；美國8月消費者信心／7月新屋銷售"
     },
     {
       "date": "2026-08-26",
       "label": "Wed (8/26)",
-      "event": "澳洲7月CPI；美國第二季GDP修正值／7月PCE（含核心PCE）／7月耐久財訂單"
+      "event": "澳洲7月CPI；美國第二季GDP修正值／7月PCE（含核心PCE）／7月耐久財訂單；LI 財報"
     },
     {
       "date": "2026-08-27",
       "label": "Thu (8/27)",
-      "event": "中國1至7月工業企業利潤；韓國央行利率決議；歐洲央行7月會議紀要；美國初領失業救濟金人數；NVIDIA 財報"
+      "event": "中國1至7月工業企業利潤；韓國央行利率決議；歐洲央行7月會議紀要；美國初領失業救濟金人數；NVIDIA / CrowdStrike / Agilent / HPQ 財報；Jackson Hole 全球央行年會開幕"
     },
     {
       "date": "2026-08-28",
       "label": "Fri (8/28)",
-      "event": "日本東京8月CPI／7月失業率；加拿大第二季GDP；Fed 主席 Warsh Jackson Hole 主題演說"
+      "event": "日本東京8月CPI／7月失業率；加拿大第二季GDP；美國非農就業初步基準修正；Fed 主席 Warsh Jackson Hole 主題演說；Marvell 財報"
     },
     {
       "date": "2026-08-29",
