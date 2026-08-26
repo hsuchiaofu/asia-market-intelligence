@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-26",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報",
+    "date": "2026-08-26",
+    "summary": "亞洲股市在油價與美債殖利率回落、NVIDIA財報前AI風險偏好回升下普遍收高；台韓日半導體領漲，中港金融、醫療與有色輪動，PCE與供應鏈指引仍是下一道驗證。",
+    "file": "reports/asia-close/2026-08-26.html",
+    "updated": "2026-08-26T16:42:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-26",
     "type": "morning",
     "title": "全球新聞晨報",
