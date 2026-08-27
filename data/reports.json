@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-27",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報｜2026年8月27日",
+    "date": "2026-08-27",
+    "summary": "NVIDIA財報延長AI資本支出主線，帶動韓國記憶體與中國算力硬體領漲；韓國升息、PCE偏熱與毛利率壓力則使台日港股分化，低油價暫緩亞洲輸入通膨。",
+    "file": "reports/asia-close/2026-08-27.html",
+    "updated": "2026-08-27T16:45:36+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-27",
     "type": "morning",
     "title": "全球新聞晨報",
