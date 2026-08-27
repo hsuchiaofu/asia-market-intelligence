@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-26T09:32:41+08:00",
+  "updated_at": "2026-08-27T09:32:19+08:00",
   "source_reports": [
-    "morning-2026-08-26",
-    "asia-close-2026-08-25"
+    "morning-2026-08-27",
+    "asia-close-2026-08-26"
   ],
   "global_macro": {
-    "headline": "能源降溫利率待驗",
-    "summary": "荷莫茲航道框架壓低油價與長債殖利率，PCE仍決定Fed與科技估值空間。"
+    "headline": "盈利迎戰高利率",
+    "summary": "PCE黏著推升美元與美債殖利率，油價回落僅緩和能源通膨，Fed仍保留升息選項。"
   },
   "asia_markets": {
-    "headline": "台日韓低接翻紅",
-    "summary": "台日韓由AI賣壓中翻紅，中港偏弱，金融、PCB與防禦板塊承接資金。"
+    "headline": "亞股科技接力反彈",
+    "summary": "台日韓半導體領漲，中港金融、有色與平台股接棒；但韓國外資未回流，反彈仍待驗證。"
   },
   "ai_semiconductor": {
-    "headline": "AI晶片分工加速",
-    "summary": "Jalapeño推論實測擴大ASIC替代，NVIDIA財報驗證GPU、HBM與封裝需求。"
+    "headline": "AI基建訂單升級",
+    "summary": "NVIDIA營收與資料中心收入倍增，AWS再訂200萬顆GPU，供應瓶頸轉向HBM、封裝與網路。"
   },
   "fund_flow": {
-    "headline": "外資賣壓未退",
-    "summary": "韓股外資賣超約3.8兆韓元，本地資金轉向金融、PCB、伺服器與防禦板塊。"
+    "headline": "機構承接外資賣盤",
+    "summary": "韓國機構淨買約7,649億韓元、外資連四日賣超；資金偏向可見訂單與大型權值。"
   }
 }
