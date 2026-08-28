@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-28",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報｜2026年8月28日",
+    "date": "2026-08-28",
+    "summary": "台灣與日本AI硬體續強，但韓國半導體遭外資獲利了結、A股科技降溫、港股尾盤收斂；市場在NVIDIA需求、AI供應鏈盈利與Jackson Hole利率風險間重新分層。",
+    "file": "reports/asia-close/2026-08-28.html",
+    "updated": "2026-08-28T16:41:44+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-28",
     "type": "morning",
     "title": "全球新聞晨報",
