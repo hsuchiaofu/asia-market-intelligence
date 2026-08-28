@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-28",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-28",
+    "summary": "NVIDIA現貨大漲8.74%、Marvell資料中心營收增46%與SK海力士美國HBM封裝廠動工，AI硬體需求再獲交叉驗證；但油價反彈、Fed鷹派與法國財政風險限制市場廣度。",
+    "file": "reports/morning/2026-08-28.html",
+    "updated": "2026-08-28T08:41:31+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-27",
     "type": "asia-close",
     "title": "亞洲股市收盤報｜2026年8月27日",
