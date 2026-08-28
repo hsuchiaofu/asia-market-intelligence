@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-27T09:32:19+08:00",
+  "updated_at": "2026-08-28T09:32:54+08:00",
   "source_reports": [
-    "morning-2026-08-27",
-    "asia-close-2026-08-26"
+    "morning-2026-08-28",
+    "asia-close-2026-08-27"
   ],
   "global_macro": {
-    "headline": "盈利迎戰高利率",
-    "summary": "PCE黏著推升美元與美債殖利率，油價回落僅緩和能源通膨，Fed仍保留升息選項。"
+    "headline": "油價利率夾擊",
+    "summary": "Fed官員警戒通膨、油價反彈推高折現率，AI盈利利多仍受高資金成本約束。"
   },
   "asia_markets": {
-    "headline": "亞股科技接力反彈",
-    "summary": "台日韓半導體領漲，中港金融、有色與平台股接棒；但韓國外資未回流，反彈仍待驗證。"
+    "headline": "亞股科技分化",
+    "summary": "韓國HBM與中國算力硬體領漲，台日港因估值、毛利與融資疑慮相對落後。"
   },
   "ai_semiconductor": {
-    "headline": "AI基建訂單升級",
-    "summary": "NVIDIA營收與資料中心收入倍增，AWS再訂200萬顆GPU，供應瓶頸轉向HBM、封裝與網路。"
+    "headline": "AI硬體鏈擴散",
+    "summary": "NVIDIA現貨大漲，Marvell與SK海力士再驗證ASIC、互連、HBM及封裝需求。"
   },
   "fund_flow": {
-    "headline": "機構承接外資賣盤",
-    "summary": "韓國機構淨買約7,649億韓元、外資連四日賣超；資金偏向可見訂單與大型權值。"
+    "headline": "資金追逐可見盈利",
+    "summary": "外資與機構承接韓國半導體，台灣資金轉向整機、封裝與記憶體，市場聚焦盈利落地。"
   }
 }
