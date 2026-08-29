@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-29",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-29",
+    "summary": "Fed主席Warsh把升息重新放上檯面、短債殖利率急升，美股與AI晶片回吐；美國與委內瑞拉公布650億桶油田安排，能源供給前景卻仍受開發時程約束。",
+    "file": "reports/morning/2026-08-29.html",
+    "updated": "2026-08-29T10:26:39+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-28",
     "type": "asia-close",
     "title": "亞洲股市收盤報｜2026年8月28日",
