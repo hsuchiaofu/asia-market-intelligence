@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-30",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-30",
+    "summary": "OpenAI將終止向SpaceX旗下Cursor供應模型，AI平台競爭延伸至分發與契約治理；黑海糧運中斷、荷姆茲通行爭議與Fed升息風險共同抬高通膨尾部風險。",
+    "file": "reports/morning/2026-08-30.html",
+    "updated": "2026-08-30T15:07:26+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-29",
     "type": "morning",
     "title": "全球新聞晨報",
