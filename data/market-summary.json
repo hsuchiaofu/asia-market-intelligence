@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-30T15:37:17+08:00",
+  "updated_at": "2026-08-31T09:31:47+08:00",
   "source_reports": [
-    "morning-2026-08-30"
+    "morning-2026-08-31"
   ],
   "global_macro": {
-    "headline": "通膨尾部升高",
-    "summary": "黑海糧運與荷姆茲爭議疊加Fed升息風險，美元與短債殖利率壓抑風險偏好。"
+    "headline": "能源風險重估",
+    "summary": "美伊重新交火推升油運與通膨尾部風險，美元與美債殖利率續壓風險偏好。"
   },
   "asia_markets": {
-    "headline": "台日韓走勢分化",
-    "summary": "台日AI硬體維持韌性，韓國記憶體遭外資減碼，中港等待PMI確認需求。"
+    "headline": "區域走勢分化",
+    "summary": "台日AI硬體相對有撐，韓國記憶體承壓，中港等待PMI與政策訊號。"
   },
   "ai_semiconductor": {
-    "headline": "AI分發權重估",
-    "summary": "OpenAI擬終止向Cursor供應模型，AI競爭由算力延伸至分發權與多模型備援。"
+    "headline": "AI驗收現金流",
+    "summary": "Broadcom財報將驗證ASIC與網路收入，市場由需求敘事轉看量產、交付與現金流。"
   },
   "fund_flow": {
-    "headline": "資金偏好現金流",
-    "summary": "高利率促使資金偏向近期盈利，韓國外資賣超大型記憶體，台灣則擴散至ASIC與電源。"
+    "headline": "資金偏向近端盈利",
+    "summary": "韓國HBM去槓桿未止，資金轉向台灣ASIC、電源與收入能見度較高環節。"
   }
 }
