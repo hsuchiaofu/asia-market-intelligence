@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-08-31",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-08-31",
+    "summary": "美伊在荷姆茲重新交火、伊朗向約旦境內美軍基地發射飛彈，使能源與通膨風險重回實體層面；G20制裁壓力、中國PMI與Broadcom財報將檢驗高利率下的AI行情韌性。",
+    "file": "reports/morning/2026-08-31.html",
+    "updated": "2026-08-31T08:40:11+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-30",
     "type": "morning",
     "title": "全球新聞晨報",
