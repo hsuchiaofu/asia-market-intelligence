@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-08-31",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報｜2026年8月31日",
+    "date": "2026-08-31",
+    "summary": "鷹派Fed訊號與美伊衝突推升油價及折現率壓力，但日韓晶片股午後收復失地、A股受PMI改善與國產算力帶動反彈；亞洲市場由全面避險轉為高波動選股。",
+    "file": "reports/asia-close/2026-08-31.html",
+    "updated": "2026-08-31T16:40:40+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-08-31",
     "type": "morning",
     "title": "全球新聞晨報",
