@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-01",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-01",
+    "summary": "NVIDIA以35億美元投資聯發科並把客製XPU納入NVLink生態，AI主線由單一GPU擴大為平台競爭；美伊衝突外溢、油價與殖利率上升，令今日ISM、JOLTS與歐元區通膨成為估值關鍵。",
+    "file": "reports/morning/2026-09-01.html",
+    "updated": "2026-09-01T08:38:44+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-08-31",
     "type": "asia-close",
     "title": "亞洲股市收盤報｜2026年8月31日",
