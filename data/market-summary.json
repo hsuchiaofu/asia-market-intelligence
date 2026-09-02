@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-01T09:32:07+08:00",
+  "updated_at": "2026-09-02T10:11:36+08:00",
   "source_reports": [
-    "morning-2026-09-01",
-    "asia-close-2026-08-31"
+    "morning-2026-09-02",
+    "asia-close-2026-09-01"
   ],
   "global_macro": {
-    "headline": "油價利率雙壓",
-    "summary": "美伊衝突推升油價與長債殖利率，通膨與高折現率壓縮風險偏好。"
+    "headline": "能源推高折現率",
+    "summary": "油輪遇襲推升油價，美歐日殖利率齊揚，市場轉向抗通膨與現金流。"
   },
   "asia_markets": {
-    "headline": "亞洲轉向選股",
-    "summary": "日韓晶片股收復失地，A股受PMI與國產算力支撐，台港仍呈結構分化。"
+    "headline": "亞洲行情分化",
+    "summary": "台股受AI資本合作領漲，韓股由晶片出口支撐；日中港偏向價值防禦。"
   },
   "ai_semiconductor": {
-    "headline": "AI平台競爭",
-    "summary": "NVIDIA投資聯發科並納入客製XPU，AI價值鏈延伸至互連、封裝與ASIC。"
+    "headline": "客製晶片待驗證",
+    "summary": "聯發科資本合作與韓國出口驗證需求，Broadcom財報將檢驗ASIC及網路營收。"
   },
   "fund_flow": {
-    "headline": "資金轉向確定性",
-    "summary": "韓國外資仍賣超，資金由高估值科技轉向金融、塑化及具訂單能見度的AI環節。"
+    "headline": "資金轉向盈利",
+    "summary": "韓股外資賣超未止，區域資金由高久期科技轉向金融、價值及收入可見的AI鏈。"
   }
 }
