@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-02",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-02",
+    "summary": "美伊交火與荷姆茲油輪遇襲把WTI推上90美元，能源通膨、全球債券賣壓與AI融資成本成為共同主線；今晚Broadcom財報、Fed褐皮書及加拿大央行決策將檢驗風險資產承受力。",
+    "file": "reports/morning/2026-09-02.html",
+    "updated": "2026-09-02T10:04:29+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-01",
     "type": "asia-close",
     "title": "亞洲股市收盤報｜2026年9月1日",
