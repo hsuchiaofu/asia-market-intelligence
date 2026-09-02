@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-02",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報｜2026年9月2日",
+    "date": "2026-09-02",
+    "summary": "美伊衝突把Brent推近96美元、美日債殖利率同步攀升，亞洲科技股全面降槓桿；日經與KOSPI重挫、台股跌逾780點，中港市場也轉弱，Broadcom財報成為AI鏈下一個基本面驗證。",
+    "file": "reports/asia-close/2026-09-02.html",
+    "updated": "2026-09-02T16:42:34+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-02",
     "type": "morning",
     "title": "全球新聞晨報",
