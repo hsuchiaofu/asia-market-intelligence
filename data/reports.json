@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-01",
+    "type": "asia-close",
+    "title": "亞洲股市收盤報｜2026年9月1日",
+    "date": "2026-09-01",
+    "summary": "輝達與Alphabet入股聯發科把客製AI晶片合作推向資本聯盟，帶動台股逼近47,000點；韓國晶片出口支撐KOSPI翻紅，但油價、長債殖利率與港股地產壓力令亞洲風險偏好高度分化。",
+    "file": "reports/asia-close/2026-09-01.html",
+    "updated": "2026-09-01T16:39:04+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-01",
     "type": "morning",
     "title": "全球新聞晨報",
