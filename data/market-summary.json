@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-02T10:11:36+08:00",
+  "updated_at": "2026-09-03T09:32:56+08:00",
   "source_reports": [
-    "morning-2026-09-02",
-    "asia-close-2026-09-01"
+    "morning-2026-09-03",
+    "asia-close-2026-09-02"
   ],
   "global_macro": {
-    "headline": "能源推高折現率",
-    "summary": "油輪遇襲推升油價，美歐日殖利率齊揚，市場轉向抗通膨與現金流。"
+    "headline": "通膨就業兩難",
+    "summary": "油價高檔、就業降溫而價格仍升，Fed寬鬆空間受限，現金流主導定價。"
   },
   "asia_markets": {
-    "headline": "亞洲行情分化",
-    "summary": "台股受AI資本合作領漲，韓股由晶片出口支撐；日中港偏向價值防禦。"
+    "headline": "亞洲科技降槓桿",
+    "summary": "油價與殖利率夾擊日韓台科技股，中港僅靠軍工、油服與個別產品題材承接。"
   },
   "ai_semiconductor": {
-    "headline": "客製晶片待驗證",
-    "summary": "聯發科資本合作與韓國出口驗證需求，Broadcom財報將檢驗ASIC及網路營收。"
+    "headline": "AI進入交付驗證",
+    "summary": "Broadcom與Dell確認需求強勁，但指引落差促使市場轉向近期收入與供給能力。"
   },
   "fund_flow": {
-    "headline": "資金轉向盈利",
-    "summary": "韓股外資賣超未止，區域資金由高久期科技轉向金融、價值及收入可見的AI鏈。"
+    "headline": "資金轉向可見度",
+    "summary": "韓股外資與機構近四兆韓元賣超；資金轉向近期AI收入與防禦題材。"
   }
 }
