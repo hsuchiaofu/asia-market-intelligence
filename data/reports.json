@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-03",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-03",
+    "summary": "Broadcom的AI半導體營收年增221%卻以略低預期的第四季指引提醒市場：AI需求仍強，估值已轉向近期交付；Fed與加拿大央行同時面對能源通膨及就業降溫，油價、殖利率與現金流成為今日定價主線。",
+    "file": "reports/morning/2026-09-03.html",
+    "updated": "2026-09-03T08:38:13+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-02",
     "type": "asia-close",
     "title": "亞洲股市收盤報｜2026年9月2日",
