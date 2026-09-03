@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-03",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月3日",
+    "date": "2026-09-03",
+    "summary": "Broadcom把AI半導體展望上調，為亞洲供應鏈提供基本面支撐；但台日韓科技股在高油價、利率與獲利了結下分化，資金轉向金融、航運、貴金屬與能見度較高的AI環節。",
+    "file": "reports/asia-close/2026-09-03.html",
+    "updated": "2026-09-03T16:36:45+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-03",
     "type": "morning",
     "title": "全球新聞晨報",
