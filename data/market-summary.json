@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-03T09:32:56+08:00",
+  "updated_at": "2026-09-04T09:32:22+08:00",
   "source_reports": [
-    "morning-2026-09-03",
-    "asia-close-2026-09-02"
+    "morning-2026-09-04",
+    "asia-close-2026-09-03"
   ],
   "global_macro": {
-    "headline": "通膨就業兩難",
-    "summary": "油價高檔、就業降溫而價格仍升，Fed寬鬆空間受限，現金流主導定價。"
+    "headline": "降息交易受限",
+    "summary": "Waller壓低美元與殖利率，但服務價格與油價高檔令Fed仍待非農與通膨確認。"
   },
   "asia_markets": {
-    "headline": "亞洲科技降槓桿",
-    "summary": "油價與殖利率夾擊日韓台科技股，中港僅靠軍工、油服與個別產品題材承接。"
+    "headline": "亞洲輪動未擴散",
+    "summary": "日台科技偏弱、韓股由金融與電池撐盤，中港資金轉向保險、資源與航運。"
   },
   "ai_semiconductor": {
-    "headline": "AI進入交付驗證",
-    "summary": "Broadcom與Dell確認需求強勁，但指引落差促使市場轉向近期收入與供給能力。"
+    "headline": "AI版圖再擴張",
+    "summary": "NVIDIA收購Hugging Face擴張平台入口，Broadcom強勁需求仍受近期交付檢驗。"
   },
   "fund_flow": {
-    "headline": "資金轉向可見度",
-    "summary": "韓股外資與機構近四兆韓元賣超；資金轉向近期AI收入與防禦題材。"
+    "headline": "資金偏向可見度",
+    "summary": "美債殖利率回落帶動美國科技回補；亞洲仍偏好晶圓代工、金融、資源與航運。"
   }
 }
