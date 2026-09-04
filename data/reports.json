@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-04",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月4日",
+    "date": "2026-09-04",
+    "summary": "美股科技反彈與美債殖利率回落帶動亞洲AI與半導體股回補，台日韓及港股普遍走高；但高油價、今晚美國就業數據與A股科技獲利了結，仍限制風險偏好的廣度。",
+    "file": "reports/asia-close/2026-09-04.html",
+    "updated": "2026-09-04T16:36:25+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-04",
     "type": "morning",
     "title": "全球新聞晨報",
