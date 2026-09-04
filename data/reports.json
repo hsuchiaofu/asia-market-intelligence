@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-04",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-04",
+    "summary": "Waller的條件式按兵不動訊號壓低美元與殖利率，帶動科技股、黃金及加密資產反彈；但服務業價格升至近四年高點、油價仍在91至96美元區間，令今日非農與AI基礎設施交付成為市場真正主線。",
+    "file": "reports/morning/2026-09-04.html",
+    "updated": "2026-09-04T08:40:08+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-03",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月3日",
