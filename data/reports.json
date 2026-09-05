@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-05",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-05",
+    "summary": "美國8月非農新增16.2萬人、前兩月同步上修，令9月升息重新成為主要情境；美元與殖利率回升、美股及貴金屬承壓，但半導體逆勢走強，顯示市場正由全面寬鬆交易轉向AI交付、記憶體與政策風險的精準定價。",
+    "file": "reports/morning/2026-09-05.html",
+    "updated": "2026-09-05T08:40:53+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-04",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月4日",
