@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T09:32:22+08:00",
+  "updated_at": "2026-09-05T09:33:14+08:00",
   "source_reports": [
-    "morning-2026-09-04",
-    "asia-close-2026-09-03"
+    "morning-2026-09-05",
+    "asia-close-2026-09-04"
   ],
   "global_macro": {
-    "headline": "降息交易受限",
-    "summary": "Waller壓低美元與殖利率，但服務價格與油價高檔令Fed仍待非農與通膨確認。"
+    "headline": "就業重啟升息",
+    "summary": "美國非農遠超預期，美元與殖利率回升；高油價令Fed緊縮空間擴大。"
   },
   "asia_markets": {
-    "headline": "亞洲輪動未擴散",
-    "summary": "日台科技偏弱、韓股由金融與電池撐盤，中港資金轉向保險、資源與航運。"
+    "headline": "亞洲反彈待驗",
+    "summary": "台日韓港由AI權值帶動反彈，A股半導體獲利了結；下週仍須消化非農衝擊。"
   },
   "ai_semiconductor": {
-    "headline": "AI版圖再擴張",
-    "summary": "NVIDIA收購Hugging Face擴張平台入口，Broadcom強勁需求仍受近期交付檢驗。"
+    "headline": "硬體逆勢走強",
+    "summary": "半導體逆勢上漲，資金偏好GPU、記憶體與可驗證交付，本機推論擴大硬體需求。"
   },
   "fund_flow": {
-    "headline": "資金偏向可見度",
-    "summary": "美債殖利率回落帶動美國科技回補；亞洲仍偏好晶圓代工、金融、資源與航運。"
+    "headline": "資金重返硬體",
+    "summary": "資金降低久期與流動性曝險，轉向可驗證AI硬體；韓國外資與機構同步回補記憶體。"
   }
 }
