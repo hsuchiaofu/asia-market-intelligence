@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-06",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-06",
+    "summary": "美伊週末交火升級至三艘伊朗油輪，能源、航運與通膨跳空風險壓過強勁非農後的AI硬體韌性；市場等待美國CPI、ECB決策與亞洲供應鏈重新定價。",
+    "file": "reports/morning/2026-09-06.html",
+    "updated": "2026-09-06T09:39:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-05",
     "type": "morning",
     "title": "全球新聞晨報",
