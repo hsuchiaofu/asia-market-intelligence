@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-07",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-07",
+    "summary": "荷姆茲限制區與通航降至五月以來低點推升油價，OPEC+暫停增產；中國補充國有金融資本、OpenAI自動研究里程碑與鴻海AI伺服器營收，讓能源風險與AI交付共同主導週一。",
+    "file": "reports/morning/2026-09-07.html",
+    "updated": "2026-09-07T08:43:11+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-06",
     "type": "morning",
     "title": "全球新聞晨報",
