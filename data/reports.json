@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-07",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月7日",
+    "date": "2026-09-07",
+    "summary": "費半反彈與OpenAI新模型題材推動亞洲半導體股大漲，台日韓科技權值領軍；香港走弱且美債殖利率仍高，顯示風險偏好仍集中於可見AI需求。",
+    "file": "reports/asia-close/2026-09-07.html",
+    "updated": "2026-09-07T16:35:43+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-07",
     "type": "morning",
     "title": "全球新聞晨報",
