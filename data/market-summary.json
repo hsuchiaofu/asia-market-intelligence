@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-09-07T09:32:53+08:00",
+  "updated_at": "2026-09-08T09:32:24+08:00",
   "source_reports": [
-    "morning-2026-09-07"
+    "morning-2026-09-08",
+    "asia-close-2026-09-07"
   ],
   "global_macro": {
-    "headline": "能源風險升溫",
-    "summary": "荷姆茲通航下滑且OPEC+暫停增產，油價走高再添通膨與利率壓力。"
+    "headline": "油利率待定價",
+    "summary": "美股重開將消化荷姆茲風險；油價與高殖利率若齊升，科技估值承壓。"
   },
   "asia_markets": {
-    "headline": "亞股迎能源重估",
-    "summary": "亞洲科技有AI交付支撐，但油價、美元與輸入成本將主導週一風險重估。"
+    "headline": "AI硬體領漲",
+    "summary": "台日韓半導體權值大漲，港股偏弱；漲勢仍集中於可見需求供應鏈。"
   },
   "ai_semiconductor": {
-    "headline": "AI交付成主線",
-    "summary": "OpenAI研究代理與鴻海營收強化需求證據，市場更看重算力出貨與可驗證收入。"
+    "headline": "HBM鏈受追捧",
+    "summary": "韓國記憶體、台灣供應鏈與日本設備齊強，後續須由訂單與營收驗證。"
   },
   "fund_flow": {
-    "headline": "流向尚待確認",
-    "summary": "現有資料未提供新一交易日外資淨額；市場焦點轉向能源防禦與可驗證AI交付。"
+    "headline": "韓股外資買超",
+    "summary": "韓國外資與機構同步買進記憶體權值；其餘跨市場淨流量未有可靠新數據。"
   }
 }
