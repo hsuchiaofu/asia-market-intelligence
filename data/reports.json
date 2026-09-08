@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-08",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-08",
+    "summary": "AI硬體與記憶體帶動台日韓股市大漲，但荷姆茲升級、油價與高殖利率仍限制估值；美國假期後重開、美國消費信貸與中國貿易數據是下一輪定價關鍵。",
+    "file": "reports/morning/2026-09-08.html",
+    "updated": "2026-09-08T08:37:38+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-07",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月7日",
