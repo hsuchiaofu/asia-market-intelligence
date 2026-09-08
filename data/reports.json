@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-08",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月8日",
+    "date": "2026-09-08",
+    "summary": "油價跳升與日圓走強引發亞洲獲利了結，台日韓指數收低；中國農業與能源股撐盤，但科技走弱，市場重新檢驗AI題材能否抵銷通膨與利率風險。",
+    "file": "reports/asia-close/2026-09-08.html",
+    "updated": "2026-09-08T16:35:32+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-08",
     "type": "morning",
     "title": "全球新聞晨報",
