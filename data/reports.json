@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-09",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月9日",
+    "date": "2026-09-09",
+    "summary": "AI晶片與二次電池帶動韓股重返7,000點，台股與A股小幅收高；油價接近100美元使日股與港股承壓，亞洲風險偏好維持分化。",
+    "file": "reports/asia-close/2026-09-09.html",
+    "updated": "2026-09-09T16:36:07+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-09",
     "type": "morning",
     "title": "全球新聞晨報",
