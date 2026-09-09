@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-09",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-09",
+    "summary": "油價與美債殖利率上行壓低美股，AI需求仍支撐晶片股但估值轉趨嚴格；中東供應、加拿大關稅、ECB會議與美國通膨是下一輪定價焦點。",
+    "file": "reports/morning/2026-09-09.html",
+    "updated": "2026-09-09T08:36:59+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-08",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月8日",
