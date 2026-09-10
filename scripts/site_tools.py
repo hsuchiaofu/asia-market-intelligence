@@ -26,6 +26,26 @@ def extract_meta_description(text:str):
     if len(descriptions)!=1: raise ValueError('Validation Failed: HTML 必須包含唯一且非空白的 meta description')
     return descriptions[0]
 
+class _H1Parser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True); self.in_h1=False; self.chunks=[]; self.headings=[]
+    def handle_starttag(self,tag,attrs):
+        if tag.lower()=='h1':
+            if self.in_h1: raise ValueError('Validation Failed: HTML 不可巢狀 h1')
+            self.in_h1=True; self.chunks=[]
+    def handle_data(self,data):
+        if self.in_h1: self.chunks.append(data)
+    def handle_endtag(self,tag):
+        if tag.lower()=='h1' and self.in_h1:
+            value=re.sub(r'\s+',' ',' '.join(self.chunks)).strip()
+            if value: self.headings.append(value)
+            self.in_h1=False; self.chunks=[]
+
+def extract_h1(text:str):
+    parser=_H1Parser(); parser.feed(text); parser.close()
+    if parser.in_h1 or len(parser.headings)!=1: raise ValueError('Validation Failed: HTML 必須包含唯一且非空白的 H1')
+    return parser.headings[0]
+
 def validate_summary(kind,day,summary):
     value=re.sub(r'\s+',' ',str(summary)).strip()
     if not value: raise ValueError('Validation Failed: 報告摘要不可空白')
@@ -67,7 +87,7 @@ def generate_feed(reports):
         items.append(f'<item><title>{escape(x["title"])}</title><link>{escape(link)}</link><guid>{escape(link)}</guid><description>{escape(x["summary"])}</description><category>{escape(VALID_TYPES[x["type"]])}</category><pubDate>{pub}</pubDate></item>')
     xml='<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>Asia Market Intelligence</title><description>全球市場晨報與亞洲股市收盤研究</description><link>'+escape(base or '')+'</link>'+''.join(items)+'</channel></rss>\n'
     (ROOT/'feed.xml').write_text(xml,encoding='utf-8')
-def add_report(kind,day,title,summary,source,allow_replace=False):
+def add_report(kind,day,title,summary,source,allow_replace=False,in_place=False):
     if kind not in VALID_TYPES: raise ValueError('type 必須是 morning 或 asia-close')
     try: date.fromisoformat(day)
     except ValueError as e: raise ValueError('日期必須是 YYYY-MM-DD') from e
@@ -78,7 +98,11 @@ def add_report(kind,day,title,summary,source,allow_replace=False):
     reports=load_reports(); rid=f'{kind}-{day}'
     existing=next((x for x in reports if x['id']==rid),None)
     if existing and not allow_replace: raise ValueError(f'報告已存在：{rid}')
-    dest=ROOT/'reports'/kind/f'{day}.html'; dest.parent.mkdir(parents=True,exist_ok=True); backup(dest); backup(REPORTS); shutil.copy2(source,dest)
+    dest=ROOT/'reports'/kind/f'{day}.html'
+    if in_place:
+        if source != dest.resolve(): raise ValueError('in-place 註冊的來源必須是正式報告路徑')
+    else:
+        dest.parent.mkdir(parents=True,exist_ok=True); backup(dest); backup(REPORTS); shutil.copy2(source,dest)
     now=datetime.now(timezone(timedelta(hours=8))).isoformat(timespec='seconds')
     item={'id':rid,'type':kind,'title':title.strip(),'date':day,'summary':summary.strip(),'file':dest.relative_to(ROOT).as_posix(),'updated':now,'status':'published','featured':False,'wordFile':''}
     if existing: reports[reports.index(existing)]=item

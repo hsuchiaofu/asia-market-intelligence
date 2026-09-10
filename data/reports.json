@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-10",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月10日",
+    "date": "2026-09-10",
+    "summary": "油價與殖利率壓抑亞洲風險資產；台、韓、港與中國多數收低，日股尾盤回穩，資金持續檢驗AI硬體的訂單能見度。",
+    "file": "reports/asia-close/2026-09-10.html",
+    "updated": "2026-09-10T16:52:58+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-10",
     "type": "morning",
     "title": "全球新聞晨報",
