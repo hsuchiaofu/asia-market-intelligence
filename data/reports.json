@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-10",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-10",
+    "summary": "Brent結算升破每桶100美元與美債殖利率走高壓低全球風險資產；AI與記憶體需求仍有韌性，但市場轉向檢驗能源衝擊、通膨與資本成本。",
+    "file": "reports/morning/2026-09-10.html",
+    "updated": "2026-09-10T08:40:18+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-09",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月9日",
