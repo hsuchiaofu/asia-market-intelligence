@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-11",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-11",
+    "summary": "油價收於高檔、ECB升息與美債殖利率上行同步壓縮風險偏好；AI供應鏈需求未失，但市場正以能源成本、通膨與現金流重新篩選科技資產。",
+    "file": "reports/morning/2026-09-11.html",
+    "updated": "2026-09-11T08:37:49+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-10",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月10日",
