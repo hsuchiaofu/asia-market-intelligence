@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-10T09:33:30+08:00",
+  "updated_at": "2026-09-11T09:31:05+08:00",
   "source_reports": [
-    "morning-2026-09-10",
-    "asia-close-2026-09-09"
+    "morning-2026-09-11",
+    "asia-close-2026-09-10"
   ],
   "global_macro": {
-    "headline": "油價越百元",
-    "summary": "布蘭特結算升破百元、長債走高；通膨與央行決策抬升科技折現壓力。"
+    "headline": "油價利率雙壓",
+    "summary": "能源衝擊推高通膨與折現率；油輪通行、通膨和美元左右風險偏好。"
   },
   "asia_markets": {
-    "headline": "台韓硬體領漲",
-    "summary": "韓股受記憶體帶動，台股輪動上行；日港承壓，亞洲風險偏好分化。"
+    "headline": "日股逆勢有撐",
+    "summary": "台韓港中承壓，日股設備與網通鏈有承接；區域風險偏好仍分化。"
   },
   "ai_semiconductor": {
-    "headline": "需求轉向驗證",
-    "summary": "HBM、PCB與伺服器周邊有撐；高油價下，訂單與出貨決定相對強弱。"
+    "headline": "交付證據優先",
+    "summary": "HBM、先進封裝與資料中心鏈需求未失；訂單、出貨與毛利成為篩選標準。"
   },
   "fund_flow": {
-    "headline": "外資回補台股",
-    "summary": "台股外資買超209億元，資金偏向PCB與伺服器鏈；跨市場新淨流量仍不足。"
+    "headline": "淨流資料不足",
+    "summary": "未見可驗證的新跨市場淨流量；外資方向待以正式資料確認。"
   }
 }
