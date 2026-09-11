@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-11",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月11日",
+    "date": "2026-09-11",
+    "summary": "美國通膨公布前的去風險交易壓低台、日、韓與中國股市；科技與半導體獲利了結擴大，油價與殖利率仍是下週亞洲風險偏好的關鍵。",
+    "file": "reports/asia-close/2026-09-11.html",
+    "updated": "2026-09-11T16:35:29+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-11",
     "type": "morning",
     "title": "全球新聞晨報",
