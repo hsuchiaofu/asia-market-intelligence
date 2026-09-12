@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-12",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-12",
+    "summary": "油價回落與 CPI 符合預期帶動美歐反彈，但亞洲 AI 硬體已先受高殖利率與能源成本衝擊；下週 Fed、BOJ 與荷莫茲航運進展將決定修復能否延續。",
+    "file": "reports/morning/2026-09-12.html",
+    "updated": "2026-09-12T08:36:33+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-11",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月11日",
