@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-06T10:35:48+08:00",
-  "week_start": "2026-09-07",
-  "week_end": "2026-09-13",
+  "updated_at": "2026-09-13T11:47:43+08:00",
+  "week_start": "2026-09-14",
+  "week_end": "2026-09-20",
   "days": [
     {
-      "date": "2026-09-07",
-      "label": "Mon (9/7)",
-      "event": "美國勞動節休市"
-    },
-    {
-      "date": "2026-09-08",
-      "label": "Tue (9/8)",
-      "event": "日本第二季GDP修正值／7月經常帳；中國8月進出口；台灣8月CPI／PPI"
-    },
-    {
-      "date": "2026-09-09",
-      "label": "Wed (9/9)",
-      "event": "中國8月CPI／PPI"
-    },
-    {
-      "date": "2026-09-10",
-      "label": "Thu (9/10)",
-      "event": "ECB 利率決議；美國8月PPI（含核心PPI）／初領失業救濟金人數；台灣8月出口；TSMC 8月營收"
-    },
-    {
-      "date": "2026-09-11",
-      "label": "Fri (9/11)",
-      "event": "美國8月CPI（含核心CPI）／9月密大消費者信心初值；英國7月GDP；Oracle 財報"
-    },
-    {
-      "date": "2026-09-12",
-      "label": "Sat (9/12)",
+      "date": "2026-09-14",
+      "label": "Mon (9/14)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-09-13",
-      "label": "Sun (9/13)",
+      "date": "2026-09-15",
+      "label": "Tue (9/15)",
+      "event": "中國8月工業生產／零售銷售／固定資產投資"
+    },
+    {
+      "date": "2026-09-16",
+      "label": "Wed (9/16)",
+      "event": "英國8月CPI／PPI；美國8月零售銷售；日本8月貿易收支"
+    },
+    {
+      "date": "2026-09-17",
+      "label": "Thu (9/17)",
+      "event": "Fed 利率決議／經濟預測／主席記者會；英國央行利率決議；台灣央行理監事會議；美國初領失業救濟金人數／8月新屋開工"
+    },
+    {
+      "date": "2026-09-18",
+      "label": "Fri (9/18)",
+      "event": "日本央行利率決議；美國8月工業生產"
+    },
+    {
+      "date": "2026-09-19",
+      "label": "Sat (9/19)",
+      "event": "No major scheduled events."
+    },
+    {
+      "date": "2026-09-20",
+      "label": "Sun (9/20)",
       "event": "No major scheduled events."
     }
   ]
