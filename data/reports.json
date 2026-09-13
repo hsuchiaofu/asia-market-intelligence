@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-13",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-13",
+    "summary": "週末前油價回落帶動美歐股修復，但Fed與ECB的緊縮風險、美元及高殖利率仍壓抑亞洲AI硬體；下週政策訊號將檢驗反彈能否延續。",
+    "file": "reports/morning/2026-09-13.html",
+    "updated": "2026-09-13T09:41:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-12",
     "type": "morning",
     "title": "全球新聞晨報",
