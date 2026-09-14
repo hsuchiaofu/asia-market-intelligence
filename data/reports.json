@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-14",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-14",
+    "summary": "荷姆茲貨輪遇襲與紅海戰事使週五油價回落的樂觀迅速降溫；Fed、BOJ與AI安全減速爭議共同主導本週全球資產定價。",
+    "file": "reports/morning/2026-09-14.html",
+    "updated": "2026-09-14T08:38:52+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-13",
     "type": "morning",
     "title": "全球新聞晨報",
