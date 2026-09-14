@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-14",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月14日",
+    "date": "2026-09-14",
+    "summary": "AI安全減速呼聲與油價急升同時壓縮亞洲科技股估值，日韓台半導體鏈承壓；港股逆勢小升，但Fed與BOJ決策前的利率風險仍主導資金配置。",
+    "file": "reports/asia-close/2026-09-14.html",
+    "updated": "2026-09-14T16:42:20+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-14",
     "type": "morning",
     "title": "全球新聞晨報",
