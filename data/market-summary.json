@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-09-13T09:54:00+08:00",
+  "updated_at": "2026-09-15T11:25:31+08:00",
   "source_reports": [
-    "morning-2026-09-13"
+    "morning-2026-09-15",
+    "asia-close-2026-09-14"
   ],
   "global_macro": {
-    "headline": "油價回落喘息",
-    "summary": "油價回落帶動美歐修復，但高殖利率、美元與下週央行決策仍限制風險偏好。"
+    "headline": "油價與利率夾擊",
+    "summary": "沙烏地管線停運與美債殖利率觸及5%，Fed決策前市場持續收緊風險定價。"
   },
   "asia_markets": {
-    "headline": "亞股科技待修復",
-    "summary": "台日韓科技先受利率壓力；美股修復能否傳導，仍看油價與殖利率走勢。"
+    "headline": "科技權值承壓",
+    "summary": "日韓台受AI估值重整拖累，港股由金融與現金流題材相對抗跌。"
   },
   "ai_semiconductor": {
-    "headline": "交付驗證估值",
-    "summary": "AI硬體需求未見取消證據；訂單、出貨、良率與資本支出是估值關鍵。"
+    "headline": "需求改看交付",
+    "summary": "晶片股先修正估值；High-NA、HBM與先進製程投資仍待訂單與出貨驗證。"
   },
   "fund_flow": {
-    "headline": "淨流仍待確認",
-    "summary": "未見可靠的新跨市場淨流資料；資金方向仍應以正式外資與ETF數據確認。"
+    "headline": "輪動非全面撤離",
+    "summary": "資金轉向軟體、醫療、民生與防禦股；未見可靠新外資或ETF淨流數據。"
   }
 }
