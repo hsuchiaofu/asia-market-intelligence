@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-15",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-15",
+    "summary": "AI安全治理引發全球晶片股重估，10年期美債殖利率觸及5%；沙烏地輸油管停運數週與Fed決策使能源、利率及科技資本支出成為今日主線。",
+    "file": "reports/morning/2026-09-15.html",
+    "updated": "2026-09-15T11:14:48+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-14",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月14日",
