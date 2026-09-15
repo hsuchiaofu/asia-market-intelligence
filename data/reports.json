@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-15",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月15日",
+    "date": "2026-09-15",
+    "summary": "亞洲股市在Fed升息、油價與AI治理爭議前延續高選擇性去風險：台韓下跌、日經近乎持平，晶片硬體局部回補，但中國內需疲弱與高殖利率仍壓抑整體評價。",
+    "file": "reports/asia-close/2026-09-15.html",
+    "updated": "2026-09-15T19:45:17+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-15",
     "type": "morning",
     "title": "全球新聞晨報",
