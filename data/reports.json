@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-16",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月16日",
+    "date": "2026-09-16",
+    "summary": "亞洲股市在Fed決議前由半導體與光通訊帶動跌深反彈，台日韓及A股收高；但外資賣壓、近5%美債殖利率與百美元以上油價，仍使風險偏好停留在選擇性修復。",
+    "file": "reports/asia-close/2026-09-16.html",
+    "updated": "2026-09-16T16:37:46+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-16",
     "type": "morning",
     "title": "全球新聞晨報",
