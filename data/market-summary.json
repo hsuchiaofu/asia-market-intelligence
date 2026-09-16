@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15T11:25:31+08:00",
+  "updated_at": "2026-09-16T10:21:22+08:00",
   "source_reports": [
-    "morning-2026-09-15",
-    "asia-close-2026-09-14"
+    "morning-2026-09-16",
+    "asia-close-2026-09-15"
   ],
   "global_macro": {
-    "headline": "油價與利率夾擊",
-    "summary": "沙烏地管線停運與美債殖利率觸及5%，Fed決策前市場持續收緊風險定價。"
+    "headline": "油價利率雙壓",
+    "summary": "沙烏地出口受阻推升油價與5%長債；Fed路徑決定風險資產折現壓力。"
   },
   "asia_markets": {
-    "headline": "科技權值承壓",
-    "summary": "日韓台受AI估值重整拖累，港股由金融與現金流題材相對抗跌。"
+    "headline": "權值撐盤不擴散",
+    "summary": "台積電抗跌、日經近乎持平；韓台走弱，中港受內需疲軟壓抑。"
   },
   "ai_semiconductor": {
-    "headline": "需求改看交付",
-    "summary": "晶片股先修正估值；High-NA、HBM與先進製程投資仍待訂單與出貨驗證。"
+    "headline": "訂單優先驗證",
+    "summary": "HBM、晶圓代工與儲存獲承接；治理、融資與交付時程決定分化。"
   },
   "fund_flow": {
-    "headline": "輪動非全面撤離",
-    "summary": "資金轉向軟體、醫療、民生與防禦股；未見可靠新外資或ETF淨流數據。"
+    "headline": "選擇性降風險",
+    "summary": "台韓外資與機構賣壓仍在，資金偏向有訂單、現金流與供應瓶頸資產。"
   }
 }
