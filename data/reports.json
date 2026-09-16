@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-16",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-16",
+    "summary": "延布裝船暫停與沙烏地貨載取消把油價及10年期美債殖利率推上新高；Fed決策、AI治理協作與加密監管受挫共同主導今日風險定價。",
+    "file": "reports/morning/2026-09-16.html",
+    "updated": "2026-09-16T08:41:56+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-15",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月15日",
