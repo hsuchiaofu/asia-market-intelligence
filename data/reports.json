@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-17",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月17日",
+    "date": "2026-09-17",
+    "summary": "Fed三年來首次升息後，亞洲股市呈現台日走強、韓中港偏弱的分化格局；台積電與傳產輪動支撐風險偏好，但美元站上100、美債殖利率約5%及BOJ決策在即，限制AI與半導體估值擴張。",
+    "file": "reports/asia-close/2026-09-17.html",
+    "updated": "2026-09-17T16:36:54+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-17",
     "type": "morning",
     "title": "全球新聞晨報",
