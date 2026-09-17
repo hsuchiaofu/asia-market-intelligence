@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-17",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-17",
+    "summary": "Fed升息並上修利率路徑，美元與短債殖利率走高；油價因沙烏地阿曼轉運回落，AI安全分歧與美國記憶體製造談判重塑科技供應鏈定價。",
+    "file": "reports/morning/2026-09-17.html",
+    "updated": "2026-09-17T08:39:36+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-16",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月16日",
