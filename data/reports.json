@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-18",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月18日",
+    "date": "2026-09-18",
+    "summary": "油價與美債殖利率回落、BOJ溫和升息及AI需求展望重掌定價權，台日韓與中國科技股同步反彈；亞洲風險偏好修復，但美元、能源與政策正常化仍限制估值擴張。",
+    "file": "reports/asia-close/2026-09-18.html",
+    "updated": "2026-09-18T16:38:50+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-18",
     "type": "morning",
     "title": "全球新聞晨報",
