@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-18",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-18",
+    "summary": "油價與美債殖利率回落帶動全球風險資產反彈，但Fed、BOE與BOJ仍維持緊縮壓力；AI安全揭露、華為新算力架構與半導體製造地域化成為科技供應鏈新主線。",
+    "file": "reports/morning/2026-09-18.html",
+    "updated": "2026-09-18T08:39:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-17",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月17日",
