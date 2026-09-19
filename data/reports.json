@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-19",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-19",
+    "summary": "BOJ升息、美債殖利率重返5%與中東供應風險讓全球金融條件維持緊縮；AI算力需求、模型評估投資與亞洲半導體反彈則支撐科技主線，但市場廣度與歐美股市表現明顯分化。",
+    "file": "reports/morning/2026-09-19.html",
+    "updated": "2026-09-19T08:37:56+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-18",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月18日",
