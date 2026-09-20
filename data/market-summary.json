@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-09-19T09:32:34+08:00",
+  "updated_at": "2026-09-20T09:47:03+08:00",
   "source_reports": [
-    "morning-2026-09-19",
-    "asia-close-2026-09-18"
+    "morning-2026-09-20"
   ],
   "global_macro": {
-    "headline": "緊縮仍在定價",
-    "summary": "日美利率走高、油價仍高檔；科技抗跌但市場廣度偏弱。"
+    "headline": "能源風險升溫",
+    "summary": "利雅德與燕布遇襲風險抬高油價尾部溢價；5%美債限制整體估值。"
   },
   "asia_markets": {
-    "headline": "AI鏈領漲亞洲",
-    "summary": "台韓日半導體走強，中港科技回補；反彈仍集中成長權值。"
+    "headline": "科技領漲未擴散",
+    "summary": "台韓日AI硬體相對強勢，中港科技回補；高利率與能源風險限制廣度。"
   },
   "ai_semiconductor": {
-    "headline": "算力需求擴散",
-    "summary": "GPU需求延伸記憶體、互連與封裝；交付與資本成本成關鍵。"
+    "headline": "治理轉向交付",
+    "summary": "AI監管與訴訟提高安全成本；記憶體、互連與基礎設施成為供應鏈焦點。"
   },
   "fund_flow": {
-    "headline": "回補集中權值",
-    "summary": "外資回補韓國記憶體，台股資金擴至封裝與電源；未見全面風險偏好。"
+    "headline": "資金仍偏集中",
+    "summary": "週五資金偏向AI硬體，歐股與美國小型股偏弱；未見可靠的新外資或ETF流量。"
   }
 }
