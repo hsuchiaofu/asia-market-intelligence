@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-20",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-20",
+    "summary": "利雅德與燕布遇襲風險重新抬高百美元油價的尾部溢價，全球升息循環與5%美債殖利率限制估值；AI安全訴訟、獨立監督及SK hynix擴大生態投資，則讓科技主線由純算力競賽轉向治理、記憶體與可交付基礎設施。",
+    "file": "reports/morning/2026-09-20.html",
+    "updated": "2026-09-20T09:35:07+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-19",
     "type": "morning",
     "title": "全球新聞晨報",
