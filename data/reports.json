@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-21",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-21",
+    "summary": "中東衝突令週一油價重新上升，5%美債殖利率與全球央行緊縮限制估值；美中啟動AI、關稅與稀土談判，法加則以能源、關鍵礦物與算力合作推動供應鏈多元化。",
+    "file": "reports/morning/2026-09-21.html",
+    "updated": "2026-09-21T08:40:30+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-20",
     "type": "morning",
     "title": "全球新聞晨報",
