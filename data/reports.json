@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-21",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月21日",
+    "date": "2026-09-21",
+    "summary": "AI與半導體買盤、油價回落及美中會談預期推升台韓與A股，日股休市、港股則呈現醫藥與科技輪動；美債殖利率接近5%，使亞洲風險偏好維持選擇性。",
+    "file": "reports/asia-close/2026-09-21.html",
+    "updated": "2026-09-21T16:35:49+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-21",
     "type": "morning",
     "title": "全球新聞晨報",
