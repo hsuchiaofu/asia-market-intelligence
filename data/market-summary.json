@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-09-21T09:32:56+08:00",
+  "updated_at": "2026-09-22T09:34:00+08:00",
   "source_reports": [
-    "morning-2026-09-21"
+    "morning-2026-09-22",
+    "asia-close-2026-09-21"
   ],
   "global_macro": {
-    "headline": "油利率雙壓",
-    "summary": "中東風險推油價回升；5%長債與央行緊縮壓抑整體估值。"
+    "headline": "油債壓力降",
+    "summary": "油價與10年美債殖利率回落，AI資產反彈；短端利率仍高。"
   },
   "asia_markets": {
-    "headline": "晶片撐盤不廣",
-    "summary": "台韓日晶片反彈較強，中港科技受談判支撐；能源與利率限制擴散。"
+    "headline": "AI帶動反彈",
+    "summary": "台韓AI權值領漲，A股轉向醫藥、地產與金融；日股休市。"
   },
   "ai_semiconductor": {
-    "headline": "政策交付並重",
-    "summary": "美中談判牽動晶片與礦物風險；HBM、封裝與能效仍須訂單驗證。"
+    "headline": "治理延伸需求",
+    "summary": "GPU、ASIC、HBM與封裝仍是主軸；AI通報與全球標準抬高治理需求。"
   },
   "fund_flow": {
-    "headline": "外資尚待確認",
-    "summary": "台韓晶片反彈未獲韓國外資趨勢確認；節前流動性或放大權值波動。"
+    "headline": "外資未轉向",
+    "summary": "韓國機構買超記憶體權值，外資仍淨賣；尚無跨市場回流證據。"
   }
 }
