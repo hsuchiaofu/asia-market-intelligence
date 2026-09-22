@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-22",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月22日",
+    "date": "2026-09-22",
+    "summary": "美股AI反彈、油價與長債殖利率回落推動亞洲科技股開高，但台韓升幅收斂；阿里新AI晶片與美中峰會預期支撐中港市場，資金仍聚焦可驗證的算力、封裝與資料中心基建。",
+    "file": "reports/asia-close/2026-09-22.html",
+    "updated": "2026-09-22T21:16:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-22",
     "type": "morning",
     "title": "全球新聞晨報",
