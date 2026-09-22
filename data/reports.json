@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-22",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-22",
+    "summary": "油價與美債殖利率回落，推動美歐股市及AI半導體大幅反彈；美中AI事故通報、OpenAI全球標準倡議與多語言AI聯盟，讓科技主線由算力擴展至治理與普及。",
+    "file": "reports/morning/2026-09-22.html",
+    "updated": "2026-09-22T08:45:08+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-21",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月21日",
