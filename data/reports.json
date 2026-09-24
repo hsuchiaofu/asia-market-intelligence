@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-24",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月24日",
+    "date": "2026-09-24",
+    "summary": "美債殖利率突破5%與油價重返百美元壓抑亞洲風險偏好，中港與A股科技股走弱；日本則受Meta新AI裝置帶動晶片設備股上漲，台灣在權值股拉回之際轉向聯發科、載板與散熱鏈。",
+    "file": "reports/asia-close/2026-09-24.html",
+    "updated": "2026-09-24T21:33:31+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-24",
     "type": "morning",
     "title": "全球新聞晨報",
