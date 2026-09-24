@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-24",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-24",
+    "summary": "強勁PMI與Fed鷹派談話把美債10年期推上5.11%，Brent反彈至103美元，美股全面回落；川習峰會、AI治理與Meta、OpenAI、Anthropic的新應用，令市場在高利率與AI實際落地之間重新定價。",
+    "file": "reports/morning/2026-09-24.html",
+    "updated": "2026-09-24T08:43:17+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-23",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月23日",
