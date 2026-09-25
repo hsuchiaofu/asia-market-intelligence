@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-24T09:31:48+08:00",
+  "updated_at": "2026-09-25T09:32:34+08:00",
   "source_reports": [
-    "morning-2026-09-24",
-    "asia-close-2026-09-23"
+    "morning-2026-09-25",
+    "asia-close-2026-09-24"
   ],
   "global_macro": {
-    "headline": "高利率回壓",
-    "summary": "強勁PMI與Fed鷹派推10年債升破5%，油價重返百元，風險資產估值承壓。"
+    "headline": "成本壓力升高",
+    "summary": "美債長端升至5%以上、油價走高；利率與能源成本同步壓抑風險估值。"
   },
   "asia_markets": {
-    "headline": "台韓強中港弱",
-    "summary": "台韓受AI硬體支撐、指數創高；中港科網與權值回落，區域風險偏好分化。"
+    "headline": "日強中港弱",
+    "summary": "日本AI硬體走強；台灣輪動至IC設計與散熱，中港節前降風險。"
   },
   "ai_semiconductor": {
-    "headline": "落地驗證優先",
-    "summary": "AI需求延至推論、記憶體與終端；高資本成本下，市場轉看訂單、良率與現金流。"
+    "headline": "需求轉向交付",
+    "summary": "AI合約擴至CPU、記憶體與邊緣雲；電力、融資與供應時程成新門檻。"
   },
   "fund_flow": {
-    "headline": "資金集中收斂",
-    "summary": "台韓權值上漲但市場廣度偏弱，韓國外資與機構賣超；未見跨市場全面回流。"
+    "headline": "輪動取代追價",
+    "summary": "台股由權值轉向IC設計、載板與散熱；中港成交低迷，資金偏向防禦。"
   }
 }
