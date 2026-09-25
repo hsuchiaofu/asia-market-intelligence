@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-25",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-25",
+    "summary": "川習峰會僅延長兩個月貿易休戰，未解晶片、稀土與台灣等結構性分歧；美債10年期升至5.18%、油價再漲，AI市場則由Anthropic與Akamai的大型合約及Oracle資料中心供電延誤，轉向檢驗算力需求與資本約束。",
+    "file": "reports/morning/2026-09-25.html",
+    "updated": "2026-09-25T09:03:19+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-24",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月24日",
