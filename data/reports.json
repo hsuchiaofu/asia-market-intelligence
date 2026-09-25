@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-25",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月25日",
+    "date": "2026-09-25",
+    "summary": "日本AI與半導體股在除息前買盤推動下續創高，香港則因缺乏北水、美債殖利率與油價高企而下跌；台灣、中國大陸與韓國休市，區域價格發現集中於日港市場。",
+    "file": "reports/asia-close/2026-09-25.html",
+    "updated": "2026-09-25T16:36:59+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-25",
     "type": "morning",
     "title": "全球新聞晨報",
