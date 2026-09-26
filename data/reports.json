@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-26",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-26",
+    "summary": "伊朗提出在條件滿足後七日內重開荷莫茲的方案，油價回落帶動全球股市反彈；但美債殖利率仍處多年代高位、美國通膨預期升溫，AI與半導體主線轉向檢驗訂單、電力與融資能否同步落地。",
+    "file": "reports/morning/2026-09-26.html",
+    "updated": "2026-09-26T09:18:45+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-25",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月25日",
