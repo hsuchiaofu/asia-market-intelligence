@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-25T09:32:34+08:00",
+  "updated_at": "2026-09-26T09:32:36+08:00",
   "source_reports": [
-    "morning-2026-09-25",
-    "asia-close-2026-09-24"
+    "morning-2026-09-26",
+    "asia-close-2026-09-25"
   ],
   "global_macro": {
-    "headline": "成本壓力升高",
-    "summary": "美債長端升至5%以上、油價走高；利率與能源成本同步壓抑風險估值。"
+    "headline": "風險暫降",
+    "summary": "荷莫茲重開方案令油價回落，但長債高檔與通膨預期仍壓估值。"
   },
   "asia_markets": {
-    "headline": "日強中港弱",
-    "summary": "日本AI硬體走強；台灣輪動至IC設計與散熱，中港節前降風險。"
+    "headline": "日港分化",
+    "summary": "日本設備與銀行走強；港股受北水缺席及高利率壓力走弱。"
   },
   "ai_semiconductor": {
-    "headline": "需求轉向交付",
-    "summary": "AI合約擴至CPU、記憶體與邊緣雲；電力、融資與供應時程成新門檻。"
+    "headline": "擴產看交付",
+    "summary": "雲端長約擴及CPU與網路；電力、融資與建置時程成關鍵。"
   },
   "fund_flow": {
-    "headline": "輪動取代追價",
-    "summary": "台股由權值轉向IC設計、載板與散熱；中港成交低迷，資金偏向防禦。"
+    "headline": "資金偏保守",
+    "summary": "北水暫停放大港股賣壓；日股資金偏向設備、銀行與股息主線。"
   }
 }
