@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-27",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-27",
+    "summary": "川普拒絕伊朗七日內重開荷莫茲並停火的提案，週五油價與股市所交易的外交降溫假設被迫重估；AI需求仍強，但高殖利率、能源、電力與融資約束使資金更聚焦可交付訂單與現金流。",
+    "file": "reports/morning/2026-09-27.html",
+    "updated": "2026-09-27T08:38:59+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-26",
     "type": "morning",
     "title": "全球新聞晨報",
