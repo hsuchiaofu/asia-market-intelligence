@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-09-26T09:32:36+08:00",
+  "updated_at": "2026-09-27T09:31:16+08:00",
   "source_reports": [
-    "morning-2026-09-26",
-    "asia-close-2026-09-25"
+    "morning-2026-09-27"
   ],
   "global_macro": {
-    "headline": "風險暫降",
-    "summary": "荷莫茲重開方案令油價回落，但長債高檔與通膨預期仍壓估值。"
+    "headline": "荷莫茲再定價",
+    "summary": "美方拒絕重開荷莫茲方案，油價、通膨與利率風險待下週開市重估。"
   },
   "asia_markets": {
-    "headline": "日港分化",
-    "summary": "日本設備與銀行走強；港股受北水缺席及高利率壓力走弱。"
+    "headline": "復市看風險",
+    "summary": "日股設備與銀行仍有支撐；台韓中復市後須驗證油價與利率壓力。"
   },
   "ai_semiconductor": {
-    "headline": "擴產看交付",
-    "summary": "雲端長約擴及CPU與網路；電力、融資與建置時程成關鍵。"
+    "headline": "需求看交付",
+    "summary": "AI需求延伸至CPU、記憶體與網路；電力、融資及治理決定訂單轉收入。"
   },
   "fund_flow": {
-    "headline": "資金偏保守",
-    "summary": "北水暫停放大港股賣壓；日股資金偏向設備、銀行與股息主線。"
+    "headline": "流向待驗證",
+    "summary": "假期與週末缺乏新成交；暫不判定跨市場外資或ETF流向。"
   }
 }
