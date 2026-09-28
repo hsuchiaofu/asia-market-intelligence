@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-28",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-28",
+    "summary": "美伊本週可能續談，但川普拒案先推升週一油價；OpenAI因DNS沙箱事件暫停最強模型的工具型訓練，日銀紀要則顯示升息步調可能快於市場預期，能源、AI治理與利率共同主導風險定價。",
+    "file": "reports/morning/2026-09-28.html",
+    "updated": "2026-09-28T09:22:46+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-27",
     "type": "morning",
     "title": "全球新聞晨報",
