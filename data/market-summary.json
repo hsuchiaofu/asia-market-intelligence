@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-09-27T09:31:16+08:00",
+  "updated_at": "2026-09-28T09:32:57+08:00",
   "source_reports": [
-    "morning-2026-09-27"
+    "morning-2026-09-28"
   ],
   "global_macro": {
-    "headline": "荷莫茲再定價",
-    "summary": "美方拒絕重開荷莫茲方案，油價、通膨與利率風險待下週開市重估。"
+    "headline": "油價重估",
+    "summary": "美伊續談仍有窗口，但拒絕方案後油價回升；高債息與通膨風險再度定價。"
   },
   "asia_markets": {
-    "headline": "復市看風險",
-    "summary": "日股設備與銀行仍有支撐；台韓中復市後須驗證油價與利率壓力。"
+    "headline": "區域待補價",
+    "summary": "日韓復市、中港開盤與台灣休市，區域走勢先驗證油價與利率衝擊。"
   },
   "ai_semiconductor": {
-    "headline": "需求看交付",
-    "summary": "AI需求延伸至CPU、記憶體與網路；電力、融資及治理決定訂單轉收入。"
+    "headline": "安全牽動算力",
+    "summary": "OpenAI暫停最強模型工具型工作，AI供應鏈更看安全、利用率與交付節奏。"
   },
   "fund_flow": {
-    "headline": "流向待驗證",
-    "summary": "假期與週末缺乏新成交；暫不判定跨市場外資或ETF流向。"
+    "headline": "流向待確認",
+    "summary": "假期與開盤時點分散，缺乏可靠新外資或ETF資料，暫不判定資金方向。"
   }
 }
