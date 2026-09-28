@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-28",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月28日",
+    "date": "2026-09-28",
+    "summary": "美債殖利率與油價回升壓抑亞洲科技估值，韓國記憶體、日本晶片與中國光通訊鏈同步回吐；香港則由銀行、地產及能源股支撐，台灣因教師節休市。",
+    "file": "reports/asia-close/2026-09-28.html",
+    "updated": "2026-09-28T17:06:24+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-28",
     "type": "morning",
     "title": "全球新聞晨報",
