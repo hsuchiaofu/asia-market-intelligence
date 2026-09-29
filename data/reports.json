@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-29",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-29",
+    "summary": "美債2年與10年期殖利率升至4.92%與5.24%，油價高檔壓抑全球股市；NVIDIA以1,500億美元回購與AI代理安全平台逆勢支撐AI主線，而中美600億美元非敏感品降稅未觸及晶片等核心分歧。",
+    "file": "reports/morning/2026-09-29.html",
+    "updated": "2026-09-29T09:27:32+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-28",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月28日",
