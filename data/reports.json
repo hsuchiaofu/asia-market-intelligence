@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-09-30",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年9月30日",
+    "date": "2026-09-30",
+    "summary": "AI算力承諾與美國晶片股反彈推升日本、台灣，香港及中國大型股小漲；韓國卻因外資連續賣超逆勢收低，高美債殖利率仍限制科技行情廣度。",
+    "file": "reports/asia-close/2026-09-30.html",
+    "updated": "2026-09-30T19:14:35+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-09-30",
     "type": "morning",
     "title": "全球新聞晨報",
