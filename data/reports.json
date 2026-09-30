@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-09-30",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-09-30",
+    "summary": "OpenAI推出常駐代理Dots、AI業者簽署自律協議，Anthropic揭露至少5,180億美元算力承諾；Fed官員緩和立即升息預期，但美債長端與油價風險仍限制全球股市。",
+    "file": "reports/morning/2026-09-30.html",
+    "updated": "2026-09-30T08:38:14+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-29",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月29日",
