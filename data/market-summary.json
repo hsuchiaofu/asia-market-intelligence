@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-29T09:32:25+08:00",
+  "updated_at": "2026-10-01T09:32:30+08:00",
   "source_reports": [
-    "morning-2026-09-29",
-    "asia-close-2026-09-28"
+    "morning-2026-10-01",
+    "asia-close-2026-09-30"
   ],
   "global_macro": {
-    "headline": "高利率壓力",
-    "summary": "美債殖利率與油價高檔，美元偏強；Fed再升息預期持續壓抑風險資產。"
+    "headline": "長債壓力",
+    "summary": "核心PCE降溫，但長債升至5.29%；美元與油價反彈仍壓抑估值。"
   },
   "asia_markets": {
-    "headline": "科技估值重壓",
-    "summary": "日韓中科技同步回檔，香港資金轉往金融與能源；台灣復市量能待驗證。"
+    "headline": "日台領漲",
+    "summary": "日台AI供應鏈反彈，韓股受外資賣壓走弱；中港休市令區域廣度受限。"
   },
   "ai_semiconductor": {
-    "headline": "安全與現金流",
-    "summary": "輝達回購與代理安全平台支撐主線；記憶體與算力硬體仍待訂單及利用率驗證。"
+    "headline": "記憶體驗證",
+    "summary": "Micron強勁指引確認HBM、伺服器DRAM與SSD需求；封裝與電源仍是瓶頸。"
   },
   "fund_flow": {
-    "headline": "選擇性輪動",
-    "summary": "外資與機構賣出韓國記憶體，香港資金轉向金融能源；台灣新流量尚無可靠資料。"
+    "headline": "資金仍集中",
+    "summary": "外資賣壓拖累韓國，資金集中日本設備、台灣封裝與電源；未見全面回流。"
   }
 }
