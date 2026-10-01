@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-01",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-01",
+    "summary": "Micron破紀錄財報確認AI記憶體與資料中心需求，美國核心PCE降溫卻遇上GDP與消費上修、長債殖利率升至5.29%；BOJ維持升息傾向，美伊談判仍未消除能源風險。",
+    "file": "reports/morning/2026-10-01.html",
+    "updated": "2026-10-01T09:16:09+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-09-30",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年9月30日",
