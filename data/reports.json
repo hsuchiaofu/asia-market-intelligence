@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-01",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年10月1日",
+    "date": "2026-10-01",
+    "summary": "Micron強勁財測與韓國創紀錄晶片出口點燃亞洲半導體行情，日經大漲3.3%、韓股升近2%、台股創收盤新高；高美元、長債殖利率與百美元油價仍限制風險偏好廣度。",
+    "file": "reports/asia-close/2026-10-01.html",
+    "updated": "2026-10-01T21:23:32+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-01",
     "type": "morning",
     "title": "全球新聞晨報",
