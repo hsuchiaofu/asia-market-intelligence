@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-02",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜2026年10月2日",
+    "date": "2026-10-02",
+    "summary": "台股與韓股在AI記憶體、零組件及機構承接下守穩，日經與恒指則受高殖利率、油價及獲利了結拖累；美國就業急降令債息回落，但中東能源與AI融資風險仍限制追價。",
+    "file": "reports/asia-close/2026-10-02.html",
+    "updated": "2026-10-02T21:40:10+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-02",
     "type": "morning",
     "title": "全球新聞晨報",
