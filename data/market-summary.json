@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-01T09:32:30+08:00",
+  "updated_at": "2026-10-02T09:40:11+08:00",
   "source_reports": [
-    "morning-2026-10-01",
-    "asia-close-2026-09-30"
+    "morning-2026-10-02",
+    "asia-close-2026-10-01"
   ],
   "global_macro": {
-    "headline": "長債壓力",
-    "summary": "核心PCE降溫，但長債升至5.29%；美元與油價反彈仍壓抑估值。"
+    "headline": "油價通膨壓力",
+    "summary": "成品油出口收緊推高油價；長債高檔，Fed難轉鴿。"
   },
   "asia_markets": {
-    "headline": "日台領漲",
-    "summary": "日台AI供應鏈反彈，韓股受外資賣壓走弱；中港休市令區域廣度受限。"
+    "headline": "晶片帶動分化",
+    "summary": "日韓台受記憶體需求領漲；中港復市前仍承受油債風險。"
   },
   "ai_semiconductor": {
-    "headline": "記憶體驗證",
-    "summary": "Micron強勁指引確認HBM、伺服器DRAM與SSD需求；封裝與電源仍是瓶頸。"
+    "headline": "融資放大需求",
+    "summary": "Broadcom融資Anthropic，ASIC與TPU需求可見度提高；信用風險同步上升。"
   },
   "fund_flow": {
-    "headline": "資金仍集中",
-    "summary": "外資賣壓拖累韓國，資金集中日本設備、台灣封裝與電源；未見全面回流。"
+    "headline": "韓資流向分歧",
+    "summary": "韓國外資續賣、機構承接；日台資金集中供應鏈瓶頸。"
   }
 }
