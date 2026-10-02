@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-02",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-02",
+    "summary": "Broadcom對Anthropic提供最高420億美元AI基建融資，Google推出Gemini 4 Argon；中國暫停成品油出口令Brent升破102美元，Fed與全球債市仍以通膨風險約束AI估值。",
+    "file": "reports/morning/2026-10-02.html",
+    "updated": "2026-10-02T09:04:00+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-01",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年10月1日",
