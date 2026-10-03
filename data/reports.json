@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-03",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-03",
+    "summary": "美國九月非農僅增2.9萬人，市場下修Fed十月升息機率；G7協調釋出1億桶油品壓抑能源價格，Tesla交付、Amazon資料中心投資與Toshiba儲存擴產延續AI基建主線。",
+    "file": "reports/morning/2026-10-03.html",
+    "updated": "2026-10-03T09:56:58+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-02",
     "type": "asia-close",
     "title": "亞洲收盤報｜2026年10月2日",
