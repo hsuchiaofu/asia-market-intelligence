@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-10-03T10:19:04+08:00",
+  "updated_at": "2026-10-04T11:51:35+08:00",
   "source_reports": [
-    "morning-2026-10-03",
-    "asia-close-2026-10-02"
+    "morning-2026-10-04"
   ],
   "global_macro": {
-    "headline": "弱就業緩壓",
-    "summary": "非農轉弱下修升息預期；長債與能源風險仍限制估值。"
+    "headline": "弱就業非寬鬆",
+    "summary": "弱就業降低升息壓力，但長債殖利率與能源風險仍壓估值。"
   },
   "asia_markets": {
-    "headline": "台韓硬體撐盤",
-    "summary": "記憶體與零組件支撐台韓；日港受利率與流動性壓抑。"
+    "headline": "區域等待重定價",
+    "summary": "台韓供應鏈仍受關注；中國休市累積海外利率與能源訊號。"
   },
   "ai_semiconductor": {
-    "headline": "算力擴至儲存",
-    "summary": "AI需求延伸儲存、互連與電力；融資與現金流仍待驗證。"
+    "headline": "AI轉驗回報",
+    "summary": "算力需求延伸儲存與電力；融資、折舊與生產力成焦點。"
   },
   "fund_flow": {
-    "headline": "資金仍偏選擇",
-    "summary": "韓國外資連六日賣超、機構承接；香港南向缺席放大壓力。"
+    "headline": "流向待驗證",
+    "summary": "暫無可靠的新外資與ETF流向資料，不作方向判讀。"
   }
 }
