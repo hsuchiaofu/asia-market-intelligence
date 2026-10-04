@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-04",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-04",
+    "summary": "週末市場轉向檢驗AI資本支出的生產力與融資回收：Reuters新分析警告槓桿與折舊風險，中國DUV設備存量估計提高出口管制不確定性；弱非農、5.28%長債殖利率及G7油品釋出仍共同主導下週定價。",
+    "file": "reports/morning/2026-10-04.html",
+    "updated": "2026-10-04T11:21:18+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-03",
     "type": "morning",
     "title": "全球新聞晨報",
