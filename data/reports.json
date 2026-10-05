@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-05",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-05",
+    "summary": "弱非農暫緩Fed升息預期並推升亞洲AI硬體股，但5.26%長債與高油價仍壓住估值；美國成立聯邦AI任務小組、Reflection開放模型計畫及記憶體供給壓力，令政策、算力與資本效率成為今日主線。",
+    "file": "reports/morning/2026-10-05.html",
+    "updated": "2026-10-05T11:58:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-04",
     "type": "morning",
     "title": "全球新聞晨報",
