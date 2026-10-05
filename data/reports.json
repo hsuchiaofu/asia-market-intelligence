@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-05",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜AI與半導體重啟領漲，台日創高、港股窄幅回升｜2026-10-05",
+    "date": "2026-10-05",
+    "summary": "弱於預期的美國就業數據降低十月升息疑慮，AI與半導體重新主導亞洲風險偏好；台股大漲2.55%、日經升2.40%，香港由晶片、PCB與光通訊支撐小幅收高，韓國與中國大陸因假期休市。",
+    "file": "reports/asia-close/2026-10-05.html",
+    "updated": "2026-10-05T16:45:09+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-05",
     "type": "morning",
     "title": "全球新聞晨報",
