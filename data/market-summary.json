@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-04T11:51:35+08:00",
+  "updated_at": "2026-10-05T12:05:38+08:00",
   "source_reports": [
-    "morning-2026-10-04"
+    "morning-2026-10-05"
   ],
   "global_macro": {
-    "headline": "弱就業非寬鬆",
-    "summary": "弱就業降低升息壓力，但長債殖利率與能源風險仍壓估值。"
+    "headline": "弱就業緩升息",
+    "summary": "Fed近期升息壓力降溫，但長債高檔與油價風險仍限制估值。"
   },
   "asia_markets": {
-    "headline": "區域等待重定價",
-    "summary": "台韓供應鏈仍受關注；中國休市累積海外利率與能源訊號。"
+    "headline": "低流動性分化",
+    "summary": "日本與台灣AI硬體偏強；中韓休市、香港缺南向承接。"
   },
   "ai_semiconductor": {
-    "headline": "AI轉驗回報",
-    "summary": "算力需求延伸儲存與電力；融資、折舊與生產力成焦點。"
+    "headline": "記憶體供給吃緊",
+    "summary": "HBM與DRAM緊張改變規格與定價，封裝、儲存及電力受惠。"
   },
   "fund_flow": {
-    "headline": "流向待驗證",
-    "summary": "暫無可靠的新外資與ETF流向資料，不作方向判讀。"
+    "headline": "資金偏向驗證",
+    "summary": "資金偏好有產能與現金流佐證的供應鏈，暫無新可靠流向數據。"
   }
 }
