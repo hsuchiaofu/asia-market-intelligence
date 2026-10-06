@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-06",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-06",
+    "summary": "Nasdaq在5.31%長債下仍創新高，顯示AI盈利與併購敘事暫時壓過折現率；但美國服務價格、法國財政風險與百美元Brent提醒市場，科技強勢尚未轉化為全面寬鬆交易。",
+    "file": "reports/morning/2026-10-06.html",
+    "updated": "2026-10-06T08:38:12+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-05",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI與半導體重啟領漲，台日創高、港股窄幅回升｜2026-10-05",
