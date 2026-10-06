@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-06",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜AI延續但資金分流，台日港上漲、韓國記憶體回吐｜2026-10-06",
+    "date": "2026-10-06",
+    "summary": "美股科技創高與油價回落支撐亞洲風險偏好，台股續創收盤新高、日經站上七萬點、港股科技反彈；韓國大型記憶體遭外資獲利了結，顯示高殖利率下AI行情轉向選股。",
+    "file": "reports/asia-close/2026-10-06.html",
+    "updated": "2026-10-06T16:38:50+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-06",
     "type": "morning",
     "title": "全球新聞晨報",
