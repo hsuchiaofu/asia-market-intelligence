@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-07",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-07",
+    "summary": "美股在殖利率回落與AI盈利預期支撐下再創新高；AMD供應擴張、Marvell上調目標及Google核能長約強化算力投資主線，但美國進口創高、油價百美元與亞洲記憶體股回檔提醒市場仍須驗證獲利與資本回收。",
+    "file": "reports/morning/2026-10-07.html",
+    "updated": "2026-10-07T08:42:05+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-06",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI延續但資金分流，台日港上漲、韓國記憶體回吐｜2026-10-06",
