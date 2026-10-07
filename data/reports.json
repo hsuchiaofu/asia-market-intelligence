@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-07",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜高債息觸發AI獲利了結，台股守穩、日韓港回落｜2026-10-07",
+    "date": "2026-10-07",
+    "summary": "美股創高未能抵銷高殖利率與油價反彈，亞洲AI交易轉入獲利驗證：台股五萬點前近乎持平，日經與韓國晶片股下跌，港股科技回吐，中國大陸等待國慶後復市。",
+    "file": "reports/asia-close/2026-10-07.html",
+    "updated": "2026-10-07T16:37:10+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-07",
     "type": "morning",
     "title": "全球新聞晨報",
