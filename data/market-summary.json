@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-06T09:31:40+08:00",
+  "updated_at": "2026-10-07T09:32:49+08:00",
   "source_reports": [
-    "morning-2026-10-06",
-    "asia-close-2026-10-05"
+    "morning-2026-10-07",
+    "asia-close-2026-10-06"
   ],
   "global_macro": {
-    "headline": "高利率考驗",
-    "summary": "長債與服務通膨居高，AI盈利暫壓過折現率；能源風險未除。"
+    "headline": "殖利率暫降",
+    "summary": "殖利率回落支撐美股，但油價百美元與強勁需求仍限制Fed轉鬆。"
   },
   "asia_markets": {
-    "headline": "台日科技領漲",
-    "summary": "台日AI硬體領漲，香港溫和上行；中韓休市，反彈廣度未明。"
+    "headline": "台日港漲韓回檔",
+    "summary": "台日港受科技帶動上行；韓國記憶體回吐，中國休市使區域廣度未明。"
   },
   "ai_semiconductor": {
-    "headline": "盈利取代敘事",
-    "summary": "GPU、ASIC與供應鏈受青睞，訂單與現金流成高利率下的分水嶺。"
+    "headline": "產能電力成關鍵",
+    "summary": "AMD擴產、ASIC互連與核能長約，讓晶圓、HBM與電力成為驗證重點。"
   },
   "fund_flow": {
-    "headline": "資金集中權值",
-    "summary": "資金回補可驗證的AI硬體，但台股廣度不足，尚無跨市流向確認。"
+    "headline": "資金轉向選股",
+    "summary": "韓國外資賣超記憶體；台股權值撐盤，資金偏向盈利與交付能見度。"
   }
 }
