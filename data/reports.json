@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-08",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-08",
+    "summary": "Fed紀要與Samsung創紀錄財測把市場主線拉回高利率下的AI盈利驗證；美歐股市回落、記憶體景氣強勁，IEA加速釋儲則暫時壓低油價，但能源與融資成本仍是科技估值的核心約束。",
+    "file": "reports/morning/2026-10-08.html",
+    "updated": "2026-10-08T14:05:04+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-07",
     "type": "asia-close",
     "title": "亞洲收盤報｜高債息觸發AI獲利了結，台股守穩、日韓港回落｜2026-10-07",
