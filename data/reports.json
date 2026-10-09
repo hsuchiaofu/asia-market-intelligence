@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-09",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-09",
+    "summary": "OpenAI年化收入報導口徑差異觸發AI晶片重估，台積電9月營收仍創同期高點；伊朗局勢使油價先升後降，Fed與ECB面臨能源通膨，而台韓休市、日港陸股分化。",
+    "file": "reports/morning/2026-10-09.html",
+    "updated": "2026-10-09T23:01:01+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-08",
     "type": "morning",
     "title": "全球新聞晨報",
