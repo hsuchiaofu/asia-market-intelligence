@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-09T23:20:11+08:00",
+  "updated_at": "2026-10-10T09:28:33+08:00",
   "source_reports": [
-    "morning-2026-10-09",
+    "morning-2026-10-10",
     "asia-close-2026-10-09"
   ],
   "global_macro": {
-    "headline": "油價回落仍高",
-    "summary": "油價回吐、長債殖利率降溫，暫緩估值壓力；能源通膨與Fed偏緊仍牽制風險偏好。"
+    "headline": "美股反彈息油升",
+    "summary": "美歐股市回升，但美債殖利率與原油結算轉升，高資金成本與通膨壓力仍限估值。"
   },
   "asia_markets": {
-    "headline": "港股領漲日股持平",
-    "summary": "港股平台科技反彈，日股收復盤中跌幅、A股翻紅；台韓休市待補反映AI波動。"
+    "headline": "港股領漲台韓待開",
+    "summary": "港股平台科技領漲，日股近持平、A股小漲；台韓休市，區域AI漲勢仍待驗證。"
   },
   "ai_semiconductor": {
-    "headline": "需求強估值承壓",
-    "summary": "台積電營收與Samsung財測支撐上游需求；OpenAI收入口徑爭議促使市場檢驗投資回收。"
+    "headline": "出貨強估值分化",
+    "summary": "台積電與Samsung業績支撐晶圓及HBM需求，美國晶片股未齊漲，終端變現與資本成本成檢驗。"
   },
   "fund_flow": {
-    "headline": "資金轉向應用",
-    "summary": "A股出現AI硬體向應用輪動，港股平台領漲；台韓休市，外資新流向待確認。"
+    "headline": "資金偏向應用",
+    "summary": "A股由AI硬體輪向應用，港股平台股承接；台韓休市，新增外資流向尚無可靠讀數。"
   }
 }
