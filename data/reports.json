@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-10",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-10",
+    "summary": "美歐股市10月9日反彈，但美債殖利率與原油結算仍上行；AI供應鏈營收強勁而估值分化，Fed獨立性、能源供應與下週財報成為下一輪檢驗。",
+    "file": "reports/morning/2026-10-10.html",
+    "updated": "2026-10-10T08:33:02+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-09",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI估值受壓但基本面分化，港股反彈、日股收平、A股V轉｜2026-10-09",
