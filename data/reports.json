@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-11",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-11",
+    "summary": "美國因颶風核准最多400萬桶戰略儲油緊急交換，Anthropic披露AI代理誤向政府網站提交表單；週末市場停盤，能源供應、AI治理與高殖利率成為下週重新定價的關鍵。",
+    "file": "reports/morning/2026-10-11.html",
+    "updated": "2026-10-11T10:31:34+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-10",
     "type": "morning",
     "title": "全球新聞晨報",
