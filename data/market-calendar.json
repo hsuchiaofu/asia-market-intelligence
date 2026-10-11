@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-04T11:53:14+08:00",
-  "week_start": "2026-10-05",
-  "week_end": "2026-10-11",
+  "updated_at": "2026-10-11T10:37:13+08:00",
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-18",
   "days": [
     {
-      "date": "2026-10-05",
-      "label": "Mon (10/5)",
-      "event": "中國國慶假期（中國市場休市）"
+      "date": "2026-10-12",
+      "label": "Mon (10/12)",
+      "event": "日本運動日（東京股市休市）；美國哥倫布日（債市休市）"
     },
     {
-      "date": "2026-10-06",
-      "label": "Tue (10/6)",
-      "event": "美國ISM服務業PMI；美國8月國際貿易；中國國慶假期（中國市場休市）"
+      "date": "2026-10-13",
+      "label": "Tue (10/13)",
+      "event": "JPMorgan Chase / Goldman Sachs 財報"
     },
     {
-      "date": "2026-10-07",
-      "label": "Wed (10/7)",
-      "event": "台灣9月CPI；中國國慶假期（中國市場休市）"
+      "date": "2026-10-14",
+      "label": "Wed (10/14)",
+      "event": "中國9月CPI、PPI；美國9月CPI（含核心CPI）；ASML / Bank of America / Morgan Stanley 財報"
     },
     {
-      "date": "2026-10-08",
-      "label": "Thu (10/8)",
-      "event": "Fed 9月會議紀要；美國初領失業救濟金人數；台灣9月貿易統計；TSMC 9月營收"
+      "date": "2026-10-15",
+      "label": "Thu (10/15)",
+      "event": "美國9月PPI（含核心PPI）、零售銷售、初領失業救濟金人數；TSMC 財報"
     },
     {
-      "date": "2026-10-09",
-      "label": "Fri (10/9)",
+      "date": "2026-10-16",
+      "label": "Fri (10/16)",
+      "event": "美國9月進出口物價指數"
+    },
+    {
+      "date": "2026-10-17",
+      "label": "Sat (10/17)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-10-10",
-      "label": "Sat (10/10)",
-      "event": "美國10月密西根大學消費者信心初值"
-    },
-    {
-      "date": "2026-10-11",
-      "label": "Sun (10/11)",
+      "date": "2026-10-18",
+      "label": "Sun (10/18)",
       "event": "No major scheduled events."
     }
   ]
