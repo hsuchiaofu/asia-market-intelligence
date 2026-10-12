@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-11T10:27:27+08:00",
+  "updated_at": "2026-10-12T09:35:25+08:00",
   "source_reports": [
-    "morning-2026-10-10"
+    "morning-2026-10-12"
   ],
   "global_macro": {
-    "headline": "反彈遇高債息",
-    "summary": "上週五美歐股反彈，美債殖利率與原油結算仍升；通膨與資金成本續限估值。"
+    "headline": "能源風險待定價",
+    "summary": "俄烏能源停火條款未明，荷莫茲談判與沙烏地安全風險延續；高油價及美債殖利率壓抑估值。"
   },
   "asia_markets": {
-    "headline": "港股強台韓待開",
-    "summary": "最近交易日港股平台股領漲、日股近持平；台韓假期後仍待下次現貨交易驗證。"
+    "headline": "亞洲開市驗風險",
+    "summary": "上週五港股科技領漲，台韓休市；今日台韓重開、日本休市，週末能源消息仍待現貨交易驗證。"
   },
   "ai_semiconductor": {
-    "headline": "營收強股價分化",
-    "summary": "台積電月營收與Samsung初步業績支撐供應需求，晶片股表現分化；資本成本與實際交付仍待驗證。"
+    "headline": "需求仍待交付",
+    "summary": "台積電營收與Samsung初步業績支撐AI晶片需求；HBM、封裝與供電仍是伺服器交付關鍵。"
   },
   "fund_flow": {
-    "headline": "輪動未見新流向",
-    "summary": "A股最近交易日由部分AI硬體轉向應用與消費；週末無新外資或ETF可靠讀數。"
+    "headline": "韓晶片外資減碼",
+    "summary": "截至10月8日，外資減持Samsung與SK hynix；這是持股調整，尚不能推論HBM訂單轉弱。"
   }
 }
