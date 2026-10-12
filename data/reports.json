@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-12",
+    "type": "asia-close",
+    "title": "亞洲收盤報",
+    "date": "2026-10-12",
+    "summary": "AI資本回報疑慮與高殖利率壓低韓國半導體權值，台股近乎收平、A股成長股回落；日本休市，香港由銀行支撐但科技股分化。",
+    "file": "reports/asia-close/2026-10-12.html",
+    "updated": "2026-10-12T16:32:53+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-12",
     "type": "morning",
     "title": "全球新聞晨報",
