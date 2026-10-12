@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-12",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-12",
+    "summary": "俄烏能源停火說法尚待核實，伊朗認為美方荷莫茲提案回覆不足，利雅德機場再遭攻擊；亞洲正式收盤前須區分週五終值與週末新增能源風險。",
+    "file": "reports/morning/2026-10-12.html",
+    "updated": "2026-10-12T08:44:41+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-11",
     "type": "morning",
     "title": "全球新聞晨報",
