@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-10-12T09:35:25+08:00",
+  "updated_at": "2026-10-13T12:07:29+08:00",
   "source_reports": [
-    "morning-2026-10-12"
+    "morning-2026-10-12",
+    "asia-close-2026-10-12"
   ],
   "global_macro": {
-    "headline": "能源風險待定價",
-    "summary": "俄烏能源停火條款未明，荷莫茲談判與沙烏地安全風險延續；高油價及美債殖利率壓抑估值。"
+    "headline": "高利率壓估值",
+    "summary": "美債長息高企，油價雖回落仍偏高，AI融資與亞洲成長股估值承壓。"
   },
   "asia_markets": {
-    "headline": "亞洲開市驗風險",
-    "summary": "上週五港股科技領漲，台韓休市；今日台韓重開、日本休市，週末能源消息仍待現貨交易驗證。"
+    "headline": "韓股領跌亞股",
+    "summary": "韓國晶片遭外資賣壓；台股靠封測與金融收斂跌幅，A股成長轉弱，港股由銀行支撐。"
   },
   "ai_semiconductor": {
-    "headline": "需求仍待交付",
-    "summary": "台積電營收與Samsung初步業績支撐AI晶片需求；HBM、封裝與供電仍是伺服器交付關鍵。"
+    "headline": "AI轉驗資本回報",
+    "summary": "HBM需求仍有支撐，但高利率下資金偏向封裝等訂單較明確環節，等待財報驗證。"
   },
   "fund_flow": {
-    "headline": "韓晶片外資減碼",
-    "summary": "截至10月8日，外資減持Samsung與SK hynix；這是持股調整，尚不能推論HBM訂單轉弱。"
+    "headline": "外資撤出韓晶片",
+    "summary": "韓股外資淨賣約2.02兆韓元，賣壓集中半導體；台股盤面轉向封測與金融。"
   }
 }
