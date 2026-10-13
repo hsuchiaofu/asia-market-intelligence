@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-13",
+    "type": "asia-close",
+    "title": "亞洲收盤報",
+    "date": "2026-10-13",
+    "summary": "中國記憶體競爭與AI資本回報疑慮引發亞洲晶片股重估，韓國外資賣壓最劇烈；A股算力硬體午後反彈，港股金融與地產提供防禦。",
+    "file": "reports/asia-close/2026-10-13.html",
+    "updated": "2026-10-13T16:36:58+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-13",
     "type": "morning",
     "title": "全球新聞晨報",
