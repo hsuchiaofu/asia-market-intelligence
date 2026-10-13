@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-13",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-13",
+    "summary": "Microsoft公布Maia 300與大規模自研AI晶片部署，Meta推出Muse Wonder；Fed官員主張更緊縮政策，美韓晶片股承壓，CXMT伺服器記憶體計畫引發競爭重估，中東供應風險推高油價。",
+    "file": "reports/morning/2026-10-13.html",
+    "updated": "2026-10-13T12:12:09+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-12",
     "type": "asia-close",
     "title": "亞洲收盤報",
