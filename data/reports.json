@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-14",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-14",
+    "summary": "中國9月PPI年增5.0%與美國CPI待公布，使能源通膨和央行路徑重回焦點；Applied Materials看好長期AI設備需求，但全球晶片股與銀行股仍在重估資本回報。",
+    "file": "reports/morning/2026-10-14.html",
+    "updated": "2026-10-14T11:36:21+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-13",
     "type": "asia-close",
     "title": "亞洲收盤報",
