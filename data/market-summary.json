@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-13T12:07:29+08:00",
+  "updated_at": "2026-10-14T11:28:01+08:00",
   "source_reports": [
-    "morning-2026-10-12",
-    "asia-close-2026-10-12"
+    "morning-2026-10-13",
+    "asia-close-2026-10-13"
   ],
   "global_macro": {
-    "headline": "高利率壓估值",
-    "summary": "美債長息高企，油價雖回落仍偏高，AI融資與亞洲成長股估值承壓。"
+    "headline": "油價利率夾擊",
+    "summary": "Fed偏緊，油價雖回落仍高，通膨與融資成本壓抑AI估值。"
   },
   "asia_markets": {
-    "headline": "韓股領跌亞股",
-    "summary": "韓國晶片遭外資賣壓；台股靠封測與金融收斂跌幅，A股成長轉弱，港股由銀行支撐。"
+    "headline": "晶片股拖累亞股",
+    "summary": "韓國記憶體重挫，台日AI權值同步回落；A股算力午後修復，港股防禦股撐盤。"
   },
   "ai_semiconductor": {
-    "headline": "AI轉驗資本回報",
-    "summary": "HBM需求仍有支撐，但高利率下資金偏向封裝等訂單較明確環節，等待財報驗證。"
+    "headline": "記憶體競爭重估",
+    "summary": "長鑫新架構計畫引發DRAM競爭重估；量產與認證未明，HBM需求仍待財報驗證。"
   },
   "fund_flow": {
-    "headline": "外資撤出韓晶片",
-    "summary": "韓股外資淨賣約2.02兆韓元，賣壓集中半導體；台股盤面轉向封測與金融。"
+    "headline": "韓外資賣壓擴大",
+    "summary": "韓股外資淨賣約4.52兆韓元，集中衝擊晶片；台港盤面轉向金融與防禦股。"
   }
 }
