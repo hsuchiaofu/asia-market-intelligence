@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-14T11:28:01+08:00",
+  "updated_at": "2026-10-15T09:37:25+08:00",
   "source_reports": [
-    "morning-2026-10-13",
-    "asia-close-2026-10-13"
+    "morning-2026-10-14",
+    "asia-close-2026-10-14"
   ],
   "global_macro": {
-    "headline": "油價利率夾擊",
-    "summary": "Fed偏緊，油價雖回落仍高，通膨與融資成本壓抑AI估值。"
+    "headline": "美通膨再升溫",
+    "summary": "美國9月CPI年增3.7%，能源推升物價，Fed利率與高殖利率續壓估值。"
   },
   "asia_markets": {
-    "headline": "晶片股拖累亞股",
-    "summary": "韓國記憶體重挫，台日AI權值同步回落；A股算力午後修復，港股防禦股撐盤。"
+    "headline": "亞股分化修復",
+    "summary": "台股反彈、日股近持平；韓股續弱，A股科技硬體回落，港股平台消費較強。"
   },
   "ai_semiconductor": {
-    "headline": "記憶體競爭重估",
-    "summary": "長鑫新架構計畫引發DRAM競爭重估；量產與認證未明，HBM需求仍待財報驗證。"
+    "headline": "設備需求有支撐",
+    "summary": "ASML創紀錄財報支撐先進製程投資；韓國記憶體與台灣權值仍待訂單、法說驗證。"
   },
   "fund_flow": {
-    "headline": "韓外資賣壓擴大",
-    "summary": "韓股外資淨賣約4.52兆韓元，集中衝擊晶片；台港盤面轉向金融與防禦股。"
+    "headline": "韓外資續減碼",
+    "summary": "韓股外資淨賣約1.17兆韓元，機構買盤承接；其餘市場缺乏可比的最新資金流數據。"
   }
 }
