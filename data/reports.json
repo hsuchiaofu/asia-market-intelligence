@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-15",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-15",
+    "summary": "台積電第三季淨利7630.6億元、2奈米占晶圓收入8%，ASML設備需求強勁；美國CPI年增3.7%引發AI估值與融資成本重估，台股15日收跌3.41%。",
+    "file": "reports/morning/2026-10-15.html",
+    "updated": "2026-10-15T14:25:32+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-14",
     "type": "asia-close",
     "title": "亞洲收盤報",
