@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-14",
+    "type": "asia-close",
+    "title": "亞洲收盤報",
+    "date": "2026-10-14",
+    "summary": "亞洲股市在美國CPI前分化：台股與港股科技消費修復，日韓高權重晶片股仍受外資與競爭疑慮壓抑，A股AI硬體午後轉弱；ASML強勁財報支撐先進製程投資主線。",
+    "file": "reports/asia-close/2026-10-14.html",
+    "updated": "2026-10-14T16:33:21+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-14",
     "type": "morning",
     "title": "全球新聞晨報",
