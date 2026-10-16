@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-16",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-16",
+    "summary": "美國9月PPI月增1.3%、零售銷售月增0.8%；台積電上調全年美元營收成長展望至44%，韓日晶片股重挫後，美股靠非科技類股與殖利率下行反彈。",
+    "file": "reports/morning/2026-10-16.html",
+    "updated": "2026-10-16T08:54:27+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-15",
     "type": "asia-close",
     "title": "亞洲收盤報｜熱通膨重估AI資本成本，韓股熔斷、日台科技重挫｜2026-10-15",
