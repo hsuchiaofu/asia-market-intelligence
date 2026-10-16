@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-10-16",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜急跌後選擇性修復，韓日反彈、台股量縮收高｜2026-10-16",
+    "date": "2026-10-16",
+    "summary": "亞洲股市在前日科技股急跌後選擇性修復，韓日反彈、港股科技回升，台股盤中強彈後受台積電與外資賣壓收斂；高利率與AI融資回報仍限制追價。",
+    "file": "reports/asia-close/2026-10-16.html",
+    "updated": "2026-10-16T21:32:19+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-16",
     "type": "morning",
     "title": "全球新聞晨報",
