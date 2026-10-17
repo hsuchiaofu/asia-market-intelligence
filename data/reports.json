@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-17",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-17",
+    "summary": "10月16日亞洲與歐洲股市反彈，美股卻因AI融資疑慮及晶片股賣壓轉跌；Brent結算升至109.86美元，Fed維持政策審慎，台積電與Aixtron訂單資料顯示供應鏈需求仍具差異。",
+    "file": "reports/morning/2026-10-17.html",
+    "updated": "2026-10-17T08:36:58+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-16",
     "type": "asia-close",
     "title": "亞洲收盤報｜急跌後選擇性修復，韓日反彈、台股量縮收高｜2026-10-16",
