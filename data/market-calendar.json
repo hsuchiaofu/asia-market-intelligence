@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-11T10:37:13+08:00",
-  "week_start": "2026-10-12",
-  "week_end": "2026-10-18",
+  "updated_at": "2026-10-18T10:39:34+08:00",
+  "week_start": "2026-10-19",
+  "week_end": "2026-10-25",
   "days": [
     {
-      "date": "2026-10-12",
-      "label": "Mon (10/12)",
-      "event": "日本運動日（東京股市休市）；美國哥倫布日（債市休市）"
+      "date": "2026-10-19",
+      "label": "Mon (10/19)",
+      "event": "中國第三季GDP、9月工業生產與零售銷售"
     },
     {
-      "date": "2026-10-13",
-      "label": "Tue (10/13)",
-      "event": "JPMorgan Chase / Goldman Sachs 財報"
+      "date": "2026-10-20",
+      "label": "Tue (10/20)",
+      "event": "中國貸款市場報價利率（LPR）；GE Aerospace 財報"
     },
     {
-      "date": "2026-10-14",
-      "label": "Wed (10/14)",
-      "event": "中國9月CPI、PPI；美國9月CPI（含核心CPI）；ASML / Bank of America / Morgan Stanley 財報"
+      "date": "2026-10-21",
+      "label": "Wed (10/21)",
+      "event": "日本9月貿易統計；英國9月CPI（含核心CPI）；Netflix 財報"
     },
     {
-      "date": "2026-10-15",
-      "label": "Thu (10/15)",
-      "event": "美國9月PPI（含核心PPI）、零售銷售、初領失業救濟金人數；TSMC 財報"
+      "date": "2026-10-22",
+      "label": "Thu (10/22)",
+      "event": "美國初領失業救濟金人數；Nokia / Tesla / Lam Research 財報"
     },
     {
-      "date": "2026-10-16",
-      "label": "Fri (10/16)",
-      "event": "美國9月進出口物價指數"
+      "date": "2026-10-23",
+      "label": "Fri (10/23)",
+      "event": "日本9月CPI；美國10月S&P Global製造業與服務業PMI初值、密大消費者信心指數終值"
     },
     {
-      "date": "2026-10-17",
-      "label": "Sat (10/17)",
+      "date": "2026-10-24",
+      "label": "Sat (10/24)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-10-18",
-      "label": "Sun (10/18)",
+      "date": "2026-10-25",
+      "label": "Sun (10/25)",
       "event": "No major scheduled events."
     }
   ]
