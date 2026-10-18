@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-18",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-18",
+    "summary": "週日全球現貨股市休市；IMF會後警示AI成長集中與能源、債務風險，中國提出AI技術出口管理草案。16日美股晶片賣壓與油價上行仍是下週市場檢驗主線。",
+    "file": "reports/morning/2026-10-18.html",
+    "updated": "2026-10-18T10:06:36+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-17",
     "type": "morning",
     "title": "全球新聞晨報",
