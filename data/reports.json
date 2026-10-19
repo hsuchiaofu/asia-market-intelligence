@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-19",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-19",
+    "summary": "10月19日亞洲交易日上午，美國暫緩對俄新制裁使原油早盤回落，但俄烏能源設施遇襲、埃及支持沙烏地與荷姆茲談判僵局維持供應風險；三星、台積電與輝達的客製HBM合作仍待公司確認。",
+    "file": "reports/morning/2026-10-19.html",
+    "updated": "2026-10-19T08:31:59+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-18",
     "type": "morning",
     "title": "全球新聞晨報",
