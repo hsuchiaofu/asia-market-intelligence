@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-20",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-20",
+    "summary": "10月20日晨間，美國AI股票反彈但市場廣度疲弱，法國動盪推低歐股並推升公債殖利率；英國資料中心電力延誤、中國內需分化與中東油價反轉，使AI資本支出的現金回收與供應鏈交付成為核心觀察。",
+    "file": "reports/morning/2026-10-20.html",
+    "updated": "2026-10-20T09:11:15+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-19",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI估值震盪延續，韓股反彈、中國數據托底｜2026-10-19",
