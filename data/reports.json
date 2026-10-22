@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-22",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-22",
+    "summary": "10月22日晨間，Meta與Lam財報、NVIDIA歐洲AI基建及OpenAI與Google Cloud合作使AI投資重新成為主線；美股科技反彈，韓台日晶片股修復，惟英國通膨、美元與美債殖利率及高油價仍限制估值，陸港市場延續分化。",
+    "file": "reports/morning/2026-10-22.html",
+    "updated": "2026-10-22T08:55:48+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-21",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI與半導體強彈，陸港股逆勢走弱｜2026-10-21",
