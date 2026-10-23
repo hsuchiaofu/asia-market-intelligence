@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-23",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-23",
+    "summary": "10月23日晨間，美股AI權值急跌與油價上升主導風險情緒；Meta龐大資本支出受到質疑，Western Digital盤後財報則驗證資料中心儲存需求。美債殖利率大幅回落、亞洲晶片股全面下挫，市場轉而檢驗AI投資的現金回報與供應鏈訂單。",
+    "file": "reports/morning/2026-10-23.html",
+    "updated": "2026-10-23T08:38:24+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-22",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI資本回報疑慮升溫，亞洲科技股全面回吐｜2026-10-22",
