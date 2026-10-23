@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-22T09:29:30+08:00",
+  "updated_at": "2026-10-23T09:27:28+08:00",
   "source_reports": [
-    "morning-2026-10-22",
-    "asia-close-2026-10-21"
+    "morning-2026-10-23",
+    "asia-close-2026-10-22"
   ],
   "global_macro": {
-    "headline": "高利率油價掣肘",
-    "summary": "美債殖利率上升、油價維持高檔；科技股反彈仍受資金成本與通膨風險制約。"
+    "headline": "債息降油價升",
+    "summary": "美債殖利率回落仍未托住科技股，油價升至高位，能源通膨與資本回報左右估值。"
   },
   "asia_markets": {
-    "headline": "晶片修復陸港弱",
-    "summary": "韓國記憶體領漲，台日科技同步修復；陸港受內需與大型權值拖累，區域走勢分化。"
+    "headline": "亞洲晶片鏈回吐",
+    "summary": "日韓台半導體同步下跌，陸港成長股亦弱；AI資本回報疑慮壓過前日修復。"
   },
   "ai_semiconductor": {
-    "headline": "AI擴建驗回收",
-    "summary": "設備需求與部署規劃延續AI擴建，Meta高資本支出使現金回收成為估值關鍵。"
+    "headline": "AI回報受檢驗",
+    "summary": "Meta與Lam股價重挫，擴建效益受質疑；Western Digital財報仍顯示儲存需求強勁。"
   },
   "fund_flow": {
-    "headline": "韓股資金回補",
-    "summary": "韓國外資與機構昨日回補記憶體權值，屬跌深後修復；尚無足夠資料確認區域資金全面回流。"
+    "headline": "韓股機構減碼",
+    "summary": "韓股機構賣超，外資承接；高估值AI硬體遭減碼，防禦股相對抗跌。"
   }
 }
