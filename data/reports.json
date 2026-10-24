@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-24",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-24",
+    "summary": "10月24日晨間，Brent升至116.72美元、美股普跌，AI晶片局部反彈仍未抵銷能源與融資壓力。亞洲23日陸港韓反彈、日股下跌，台灣因颱風休市；Fed與科技財報將檢驗AI資本支出的現金回報。",
+    "file": "reports/morning/2026-10-24.html",
+    "updated": "2026-10-24T09:55:01+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-23",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI賣壓收斂，陸港深V反彈、日韓收復失地｜2026-10-23",
