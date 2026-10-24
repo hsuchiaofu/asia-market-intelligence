@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-23T09:27:28+08:00",
+  "updated_at": "2026-10-24T09:51:20+08:00",
   "source_reports": [
     "morning-2026-10-23",
-    "asia-close-2026-10-22"
+    "asia-close-2026-10-23"
   ],
   "global_macro": {
-    "headline": "債息降油價升",
-    "summary": "美債殖利率回落仍未托住科技股，油價升至高位，能源通膨與資本回報左右估值。"
+    "headline": "油價牽制寬鬆",
+    "summary": "美債殖利率與美元回落，但油價維持高檔；Fed議息前，能源通膨仍牽動利率預期。"
   },
   "asia_markets": {
-    "headline": "亞洲晶片鏈回吐",
-    "summary": "日韓台半導體同步下跌，陸港成長股亦弱；AI資本回報疑慮壓過前日修復。"
+    "headline": "陸港領先修復",
+    "summary": "陸港成長股領漲，韓股翻紅、日股收斂跌幅；台灣因颱風休市，區域反彈仍待驗證。"
   },
   "ai_semiconductor": {
-    "headline": "AI回報受檢驗",
-    "summary": "Meta與Lam股價重挫，擴建效益受質疑；Western Digital財報仍顯示儲存需求強勁。"
+    "headline": "訂單主導回補",
+    "summary": "韓國HBM與中國光模組率先獲承接，市場轉向驗證AI訂單與現金回報。"
   },
   "fund_flow": {
-    "headline": "韓股機構減碼",
-    "summary": "韓股機構賣超，外資承接；高估值AI硬體遭減碼，防禦股相對抗跌。"
+    "headline": "內資承接分化",
+    "summary": "韓股由機構買盤支撐，外資仍賣超；港股上漲但南向淨流出，資金未全面回流。"
   }
 }
