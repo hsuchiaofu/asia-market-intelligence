@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-25",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-25",
+    "summary": "10月25日週日晨間，股票市場仍以23日正式收盤為基準；油價上漲、美債殖利率回升與AI資本回報疑慮形成下週央行及科技財報的核心風險。24日中東出現新的外交表態與攔截消息，但尚無可驗證的新原油結算；週末加密資產走弱。",
+    "file": "reports/morning/2026-10-25.html",
+    "updated": "2026-10-25T11:23:38+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-24",
     "type": "morning",
     "title": "全球新聞晨報",
