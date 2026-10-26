@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-26",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-26",
+    "summary": "10月26日晨間，沙烏地機場部分復航與新一輪飛彈攔截並存，伊朗稱外交訊息仍在傳遞；市場等待能源重新報價、Fed與歐日加央行決策及大型雲端業者財報。台股因紀念日補假休市，最新正式收盤仍是22日。",
+    "file": "reports/morning/2026-10-26.html",
+    "updated": "2026-10-26T08:37:14+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-25",
     "type": "morning",
     "title": "全球新聞晨報",
