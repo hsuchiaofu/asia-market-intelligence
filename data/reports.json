@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-27",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-27",
+    "summary": "10月27日晨間，Anthropic公開IPO申報、Meta與SpaceX公布大型AI融資，26日美歐股市反彈而日韓晶片股承壓；Fed決策與雲端財報將檢驗資本支出回報。中東外交與襲擊風險並存，原油報價須區分合約與時點。",
+    "file": "reports/morning/2026-10-27.html",
+    "updated": "2026-10-27T08:34:52+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-26",
     "type": "asia-close",
     "title": "亞洲收盤報｜油價與高殖利率壓抑AI估值，日韓走弱、陸港防禦接棒｜2026-10-26",
