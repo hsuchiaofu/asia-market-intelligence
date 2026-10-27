@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-10-26T09:36:20+08:00",
+  "updated_at": "2026-10-27T09:32:47+08:00",
   "source_reports": [
-    "morning-2026-10-26"
+    "morning-2026-10-27",
+    "asia-close-2026-10-26"
   ],
   "global_macro": {
-    "headline": "油價牽動政策",
-    "summary": "中東外交與攔截並存，能源風險仍在；Fed會前美元與美債殖利率上行壓抑估值。"
+    "headline": "油跌利率仍緊",
+    "summary": "原油回落但仍高企，美債10年期殖利率維持5%；Fed決策前，AI估值仍受資金成本牽制。"
   },
   "asia_markets": {
-    "headline": "亞股反彈分化",
-    "summary": "韓股記憶體與陸股光互連支撐局部修復，日股仍弱；台股休市待重新定價。"
+    "headline": "亞股科技承壓",
+    "summary": "日韓晶片權值走弱，陸港由消費、醫藥與能源支撐；台股昨休市，待今日交易反映新訊。"
   },
   "ai_semiconductor": {
-    "headline": "雲端財報驗回報",
-    "summary": "本週雲端財報將檢驗AI收入與現金流，GPU、HBM及封裝需求仍須靠交付佐證。"
+    "headline": "算力融資驗回報",
+    "summary": "Anthropic申報與Meta、SpaceX融資擴大算力需求預期；雲端財報將檢驗現金回收。"
   },
   "fund_flow": {
-    "headline": "流向尚待確認",
-    "summary": "韓國記憶體與中國光互連股價獲承接；缺乏新外資及ETF流量，跨市場資金方向未明。"
+    "headline": "韓國外資減碼",
+    "summary": "韓國外資賣超，陸港防禦板塊相對強；台灣昨休市，尚無新外資流量可供判斷。"
   }
 }
