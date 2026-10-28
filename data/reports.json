@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-28",
+    "type": "morning",
+    "title": "全球新聞晨報",
+    "date": "2026-10-28",
+    "summary": "10月28日晨間，SK海力士公布第三季創紀錄初步業績與HBM4展望，Oracle與Google宣布2027年將TPU引入OCI；27日美股由AI權值領漲，歐股分化，中港下跌。Fed決議、雲端巨頭財報及中東能源風險仍是下一步關鍵。",
+    "file": "reports/morning/2026-10-28.html",
+    "updated": "2026-10-28T08:35:30+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-27",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI回補推升日韓，中港成長股續壓、台股收平｜2026-10-27",
