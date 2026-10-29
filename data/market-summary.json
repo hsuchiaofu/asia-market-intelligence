@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-28T09:31:14+08:00",
+  "updated_at": "2026-10-29T09:29:07+08:00",
   "source_reports": [
-    "morning-2026-10-28",
-    "asia-close-2026-10-27"
+    "morning-2026-10-29",
+    "asia-close-2026-10-28"
   ],
   "global_macro": {
-    "headline": "Fed前美元偏強",
-    "summary": "美元走高、短債殖利率升至4.70%；油價回落但中東風險未解，Fed決議牽動估值。"
+    "headline": "Fed維持利率",
+    "summary": "升息異議與長債殖利率上行牽制估值；油價反彈增添通膨壓力。"
   },
   "asia_markets": {
-    "headline": "日韓領漲中港弱",
-    "summary": "日本設備與韓國記憶體帶動反彈；台股近乎收平，中港成長股續受政策觀望壓抑。"
+    "headline": "台韓晶片領漲",
+    "summary": "SK海力士獲利帶動韓台AI供應鏈；日本漲勢集中權值，中港反彈較弱。"
   },
   "ai_semiconductor": {
-    "headline": "HBM實績驗需求",
-    "summary": "SK海力士初步獲利創高、HBM4展望轉強；Google TPU將進入Oracle雲端。"
+    "headline": "AI營收驗需求",
+    "summary": "微軟與Alphabet雲端營收強勁，HBM獲利同步改善；市場轉向檢驗資本支出回收。"
   },
   "fund_flow": {
-    "headline": "外資賣投信買",
-    "summary": "證交所27日數據顯示，台股外資賣超約80億元、投信買超約236億元；法人方向分歧。"
+    "headline": "買盤集中晶片",
+    "summary": "韓台記憶體與封裝獲集中買盤；缺乏新外資及ETF流量數據，跨市場資金方向待確認。"
   }
 }
