@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-29",
+    "type": "morning",
+    "title": "全球新聞晨報｜Fed按兵不動，雲端AI營收與能源風險並行｜2026-10-29",
+    "date": "2026-10-29",
+    "summary": "Fed以10比2維持利率、加拿大央行升息；Microsoft與Alphabet雲端AI營收強勁，但資本支出與現金回收分化。10月28日美股小漲、亞洲晶片股領先，沙國煉油廠遇襲消息推升油價。",
+    "file": "reports/morning/2026-10-29.html",
+    "updated": "2026-10-29T08:35:20+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-28",
     "type": "asia-close",
     "title": "亞洲收盤報｜SK海力士點燃AI記憶體行情，台韓晶片股領漲｜2026-10-28",
