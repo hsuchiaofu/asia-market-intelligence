@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-10-30",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI資本回報分化，Amazon與Intel財報對照通膨壓力｜2026-10-30",
+    "date": "2026-10-30",
+    "summary": "Alphabet重挫拖累那斯達克，Amazon AWS年增39.3%、Intel資料中心業務年增78%；美國第三季GDP增3.4%但9月PCE升3.6%，ECB維持利率且Lagarde宣布提前卸任。",
+    "file": "reports/morning/2026-10-30.html",
+    "updated": "2026-10-30T08:45:45+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-10-29",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI資本回報成為分水嶺，日股逆勢走高、亞洲科技股回吐｜2026-10-29",
