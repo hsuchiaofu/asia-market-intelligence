@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-29T09:29:07+08:00",
+  "updated_at": "2026-10-30T09:28:52+08:00",
   "source_reports": [
-    "morning-2026-10-29",
-    "asia-close-2026-10-28"
+    "morning-2026-10-30",
+    "asia-close-2026-10-29"
   ],
   "global_macro": {
-    "headline": "Fed維持利率",
-    "summary": "升息異議與長債殖利率上行牽制估值；油價反彈增添通膨壓力。"
+    "headline": "通膨牽制寬鬆",
+    "summary": "美國成長與通膨同步偏強，長債殖利率仍近5%；高油價加重亞洲成本壓力。"
   },
   "asia_markets": {
-    "headline": "台韓晶片領漲",
-    "summary": "SK海力士獲利帶動韓台AI供應鏈；日本漲勢集中權值，中港反彈較弱。"
+    "headline": "亞洲科技分化",
+    "summary": "日本由測試設備權值撐盤；台韓及中港科技回吐，區域漲勢缺乏廣度。"
   },
   "ai_semiconductor": {
-    "headline": "AI營收驗需求",
-    "summary": "微軟與Alphabet雲端營收強勁，HBM獲利同步改善；市場轉向檢驗資本支出回收。"
+    "headline": "AI回報受檢驗",
+    "summary": "AWS與Intel資料中心營收驗證需求；Alphabet跌勢與Samsung回檔凸顯資本回收壓力。"
   },
   "fund_flow": {
-    "headline": "買盤集中晶片",
-    "summary": "韓台記憶體與封裝獲集中買盤；缺乏新外資及ETF流量數據，跨市場資金方向待確認。"
+    "headline": "資金轉向現金流",
+    "summary": "日本買盤集中測試設備，香港金融股承接科技賣壓；外資與ETF流量仍待可靠數據確認。"
   }
 }
