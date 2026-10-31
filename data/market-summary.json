@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-30T09:28:52+08:00",
+  "updated_at": "2026-10-31T10:37:12+08:00",
   "source_reports": [
     "morning-2026-10-30",
-    "asia-close-2026-10-29"
+    "asia-close-2026-10-30"
   ],
   "global_macro": {
     "headline": "通膨牽制寬鬆",
-    "summary": "美國成長與通膨同步偏強，長債殖利率仍近5%；高油價加重亞洲成本壓力。"
+    "summary": "美債殖利率回落，惟美國通膨偏高、油價高企，利率環境仍限制科技估值。"
   },
   "asia_markets": {
-    "headline": "亞洲科技分化",
-    "summary": "日本由測試設備權值撐盤；台韓及中港科技回吐，區域漲勢缺乏廣度。"
+    "headline": "科技跌價值升",
+    "summary": "台日韓及A股科技同步承壓，港股內需、能源與金融逆勢走強。"
   },
   "ai_semiconductor": {
-    "headline": "AI回報受檢驗",
-    "summary": "AWS與Intel資料中心營收驗證需求；Alphabet跌勢與Samsung回檔凸顯資本回收壓力。"
+    "headline": "AI回收期受檢驗",
+    "summary": "AWS成長未抵鉅額資本支出疑慮；Intel代工投資亦受檢驗，亞洲硬體估值下修。"
   },
   "fund_flow": {
-    "headline": "資金轉向現金流",
-    "summary": "日本買盤集中測試設備，香港金融股承接科技賣壓；外資與ETF流量仍待可靠數據確認。"
+    "headline": "韓外資集中賣超",
+    "summary": "韓國外資淨賣約1.63兆韓元，記憶體股承壓；港股買盤轉向金融與內需。"
   }
 }
