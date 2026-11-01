@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-01",
+    "type": "morning",
+    "title": "全球新聞晨報｜中東與供油政策牽動通膨，AI供應鏈等待需求驗證｜2026-11-01",
+    "date": "2026-11-01",
+    "summary": "伊朗警告報復範圍可能擴大，OPEC+週日會議前傳出維持12月產量目標；週五AI鏈重挫與中國製造業收縮，使能源、利率與資本回報成為新週焦點。",
+    "file": "reports/morning/2026-11-01.html",
+    "updated": "2026-11-01T11:31:23+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-10-31",
     "type": "morning",
     "title": "全球新聞晨報｜AI資本回報壓力擴散，中國製造業重返收縮｜2026-10-31",
