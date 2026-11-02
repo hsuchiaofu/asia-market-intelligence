@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-01T11:25:55+08:00",
+  "updated_at": "2026-11-02T09:31:32+08:00",
   "source_reports": [
-    "morning-2026-10-31"
+    "morning-2026-11-02"
   ],
   "global_macro": {
-    "headline": "油價牽制降息",
-    "summary": "美債殖利率雖因避險回落，油價反彈與偏高通膨仍限制Fed寬鬆空間。"
+    "headline": "供油牽動利率",
+    "summary": "OPEC+維持12月產量要求，實際出口仍受中東風險左右；油價可能牽制通膨與Fed政策。"
   },
   "asia_markets": {
-    "headline": "亞洲科技承壓",
-    "summary": "台日韓晶片鏈同步回落，港股價值股逆勢走強；中國製造業重返收縮增添需求疑慮。"
+    "headline": "亞股科技分化",
+    "summary": "上週五台日韓晶片鏈回落，香港金融與能源逆勢走強；中國製造業PMI轉弱增添需求壓力。"
   },
   "ai_semiconductor": {
-    "headline": "AI回報受檢驗",
-    "summary": "雲端需求仍強，但龐大設備支出與現金流壓力使晶片、設備及伺服器鏈估值承壓。"
+    "headline": "算力回報受考驗",
+    "summary": "雲端需求仍在，Amazon現金流與Intel財測凸顯AI擴產的折舊及回收壓力。"
   },
   "fund_flow": {
-    "headline": "資金流向待確認",
-    "summary": "週末缺乏新的可靠外資與ETF流量數據，跨市場資金方向仍待下次正式統計確認。"
+    "headline": "外資流向待驗",
+    "summary": "上週五韓股有外資賣壓，香港價值股較強；週一外資與ETF流向仍待正式數據確認。"
   }
 }
