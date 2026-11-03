@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-03",
+    "type": "morning",
+    "title": "全球新聞晨報｜油價急跌與AI估值分化，財報檢驗現金回報｜2026-11-03",
+    "date": "2026-11-03",
+    "summary": "美伊斡旋令油價11月2日跌逾7%，但美股AI賣壓延續；Apple財報、Marvell光通訊併購及Palantir成長，使市場重新比較算力投資、供應鏈瓶頸與現金回報。",
+    "file": "reports/morning/2026-11-03.html",
+    "updated": "2026-11-03T08:55:16+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-02",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI硬體分化加劇，中韓政策與記憶體帶動風險修復｜2026-11-02",
