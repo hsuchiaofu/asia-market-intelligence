@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-03T09:30:29+08:00",
+  "updated_at": "2026-11-04T09:31:18+08:00",
   "source_reports": [
-    "morning-2026-11-03",
-    "asia-close-2026-11-02"
+    "morning-2026-11-04",
+    "asia-close-2026-11-03"
   ],
   "global_macro": {
-    "headline": "油跌利率仍緊",
-    "summary": "油價因美伊斡旋急跌，短端美債殖利率卻升；能源通膨暫緩，Fed轉向仍待數據。"
+    "headline": "殖利率壓估值",
+    "summary": "油價回落仍難抵美債殖利率上升，Fed寬鬆預期未見明顯改善；AI遠期現金流承壓。"
   },
   "asia_markets": {
-    "headline": "亞股修復分歧",
-    "summary": "韓國記憶體與中國政策股反彈，台日AI權值續弱；區域風險偏好呈選擇性修復。"
+    "headline": "台韓科技承壓",
+    "summary": "台韓半導體領跌，中港防禦板塊承接；美股AI反彈能否傳回亞洲仍待收盤驗證。"
   },
   "ai_semiconductor": {
-    "headline": "光互連成焦點",
-    "summary": "Marvell併購提案凸顯資料中心頻寬瓶頸；AI擴產仍須以訂單及現金流驗證。"
+    "headline": "AMD驗證需求",
+    "summary": "AMD資料中心營收與財測支撐算力需求，惟高資本支出仍須由毛利與現金流驗證。"
   },
   "fund_flow": {
-    "headline": "韓股機構承接",
-    "summary": "韓國機構承接記憶體股，外資仍賣超；跨市場資金回流尚無一致證據。"
+    "headline": "韓股外資賣超",
+    "summary": "韓國外資與機構賣出記憶體股，香港偏向防禦輪動；尚無跨市場資金回流證據。"
   }
 }
