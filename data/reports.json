@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-04",
+    "type": "morning",
+    "title": "全球新聞晨報｜AMD財測支撐AI，殖利率與選舉牽制市場｜2026-11-04",
+    "date": "2026-11-04",
+    "summary": "AMD第三季資料中心收入強勁並上調第四季展望，美股AI權值反彈；但美債殖利率上升、歐洲與台韓科技股下跌，市場仍須檢驗算力投資回報、能源風險與美國選舉結果。",
+    "file": "reports/morning/2026-11-04.html",
+    "updated": "2026-11-04T08:35:17+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-03",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI估值壓力重擊台韓，中港防禦資產承接｜2026-11-03",
