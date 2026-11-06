@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-06",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI股暴跌、英國升息與油價反彈｜2026-11-06",
+    "date": "2026-11-06",
+    "summary": "美國AI與半導體股重挫，Nasdaq跌5.5%，亞洲台韓科技鏈承壓，英國央行升息至4%；油價反彈與美債殖利率下行並存，市場重新檢驗資料中心投資、能源及政策風險。",
+    "file": "reports/morning/2026-11-06.html",
+    "updated": "2026-11-06T08:38:50+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-05",
     "type": "asia-close",
     "title": "AI監管重估引爆台日韓科技去槓桿｜2026-11-05 亞洲股市收盤報",
