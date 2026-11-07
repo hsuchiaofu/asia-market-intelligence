@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-07",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI反彈與強勁就業拉扯市場｜2026-11-07",
+    "date": "2026-11-07",
+    "summary": "美國10月新增16.5萬個工作，AI與晶片股反彈但道瓊下跌；台日韓先承受科技股賣壓，美元及殖利率回升。台積電評估先進記憶體仍屬未獲公司確認的報導。",
+    "file": "reports/morning/2026-11-07.html",
+    "updated": "2026-11-07T09:18:57+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-06",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI估值重挫台日韓，資金急轉防禦｜2026-11-06",
