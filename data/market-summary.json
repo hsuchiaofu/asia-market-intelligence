@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-11-09T09:29:07+08:00",
+  "updated_at": "2026-11-10T09:28:36+08:00",
   "source_reports": [
-    "morning-2026-11-09"
+    "morning-2026-11-10",
+    "asia-close-2026-11-09"
   ],
   "global_macro": {
-    "headline": "能源風險升溫",
-    "summary": "沙國飛彈碎片事件增添能源風險；美國就業韌性與殖利率回升，使Fed寬鬆空間受壓。"
+    "headline": "油跌債息仍升",
+    "summary": "美伊調停使油價大跌，股市回補；美債殖利率卻上行，Fed仍待CPI驗證。"
   },
   "asia_markets": {
-    "headline": "科技鏈待驗修復",
-    "summary": "上週五台日韓科技鏈急跌，美股晶片其後反彈；週一亞洲交易須消化能源風險。"
+    "headline": "台日修復韓股弱",
+    "summary": "台灣與日本晶片鏈反彈，韓國受外資賣壓拖累；區域修復仍不齊。"
   },
   "ai_semiconductor": {
-    "headline": "算力回報待驗",
-    "summary": "美股晶片局部反彈未證明新訂單，GPU、HBM與先進封裝仍看交付和現金流。"
+    "headline": "晶片反彈分層",
+    "summary": "AMD與設備股回升、NVIDIA逆勢下跌；AI供應鏈仍須靠訂單與現金流驗證。"
   },
   "fund_flow": {
-    "headline": "資金流待確認",
-    "summary": "週一尚無正式外資或ETF淨流量；上週五科技股賣壓不能推定今日跨市場資金方向。"
+    "headline": "韓股外資續賣",
+    "summary": "韓國外資昨賣超約6,900億韓元；台日股市反彈仍不足以證實區域資金回流。"
   }
 }
