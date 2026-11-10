@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-10",
+    "type": "morning",
+    "title": "全球新聞晨報｜油價回落與AI股分化反彈｜2026-11-10",
+    "date": "2026-11-10",
+    "summary": "美伊調停訊號使11月9日油價大跌、美歐股反彈；AMD與半導體設備回升，但NVIDIA逆勢下跌。亞洲市場分化，Fed仍面對殖利率與通膨約束，今日聚焦美國CPI、AI資本支出與能源談判後續。",
+    "file": "reports/morning/2026-11-10.html",
+    "updated": "2026-11-10T08:32:40+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-09",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI急跌後分化反彈，台日修復韓股失守｜2026-11-09",
