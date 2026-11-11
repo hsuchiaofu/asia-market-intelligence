@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-11",
+    "type": "morning",
+    "title": "全球新聞晨報｜通膨升溫考驗AI硬體反彈｜2026-11-11",
+    "date": "2026-11-11",
+    "summary": "美國10月CPI月增0.4%高於預期，Fed官員提出更強緊縮可能，美股及AI股回落；亞洲11月10日晶片股曾強彈。CoreWeave財報顯示算力需求與資本支出並升，油價續跌，今日須分辨需求成長與融資成本。",
+    "file": "reports/morning/2026-11-11.html",
+    "updated": "2026-11-11T08:46:45+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-10",
     "type": "asia-close",
     "title": "亞洲收盤報｜半導體接棒急彈，油價降溫推升風險偏好｜2026-11-10",
