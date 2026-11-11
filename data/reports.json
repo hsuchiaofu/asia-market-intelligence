@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-11-11",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜AI硬體領漲台韓，熱通膨壓住港股估值｜2026-11-11",
+    "date": "2026-11-11",
+    "summary": "台積電資本支出與AI投資承諾帶動台股大漲，韓國記憶體、日本半導體設備及中國光通訊同步修復；但美國通膨高於預期、短端殖利率急升與美元走強，使港股及高估值科技仍面臨折現率壓力。",
+    "file": "reports/asia-close/2026-11-11.html",
+    "updated": "2026-11-11T16:38:30+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-11",
     "type": "morning",
     "title": "全球新聞晨報｜通膨升溫考驗AI硬體反彈｜2026-11-11",
