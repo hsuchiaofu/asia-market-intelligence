@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-14",
+    "type": "morning",
+    "title": "全球新聞晨報｜美國批發通膨與AI供應鏈分化｜2026-11-14",
+    "date": "2026-11-14",
+    "summary": "美國十月PPI年增6.5%，美債殖利率上行；輝達治理與出口政策風險壓抑美國科技股，台日反彈但韓港中回落。AI訂單與實際交付仍須和估值、融資及能源風險一起檢驗。",
+    "file": "reports/morning/2026-11-14.html",
+    "updated": "2026-11-14T08:48:59+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-13",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI治理震盪加劇，台日反彈而中港韓承壓｜2026-11-13",
