@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-13T09:33:31+08:00",
+  "updated_at": "2026-11-14T09:37:47+08:00",
   "source_reports": [
-    "morning-2026-11-13",
-    "asia-close-2026-11-12"
+    "morning-2026-11-14",
+    "asia-close-2026-11-13"
   ],
   "global_macro": {
-    "headline": "油債雙升壓估值",
-    "summary": "油價與美債殖利率同步上升，通膨與融資成本再壓科技估值。"
+    "headline": "批發通膨壓估值",
+    "summary": "美國批發通膨年率偏高，美債殖利率續升，壓縮科技股估值空間。"
   },
   "asia_markets": {
-    "headline": "科技回吐擴散",
-    "summary": "台港科技領跌，韓國記憶體與中國成長股回吐；日本價值股較抗跌。"
+    "headline": "台日反彈韓港弱",
+    "summary": "台灣ASIC與日本晶片股反彈，韓國記憶體及中港科技受客戶與出口風險壓抑。"
   },
   "ai_semiconductor": {
-    "headline": "換帥重估供應",
-    "summary": "輝達換帥提高交付與客戶承諾的不確定性；應材營收創高，設備需求仍有支撐。"
+    "headline": "訂單與治理拉鋸",
+    "summary": "Cisco網路展望與應材業績支撐需求，輝達治理及出口風險使交付驗證更重要。"
   },
   "fund_flow": {
-    "headline": "資金流向待核",
-    "summary": "輝達下跌、AMD與博通上漲，顯示AI晶片內部輪動；亞洲外資與ETF淨流量尚待核實。"
+    "headline": "輪動訊號分化",
+    "summary": "台灣ASIC走強、韓國HBM承壓；外資與ETF淨流量尚無可靠新數據可確認跨市方向。"
   }
 }
