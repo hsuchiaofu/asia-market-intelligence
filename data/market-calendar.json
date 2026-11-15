@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-08T11:19:25+08:00",
-  "week_start": "2026-11-02",
-  "week_end": "2026-11-08",
+  "updated_at": "2026-11-15T12:50:54+08:00",
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
   "days": [
     {
-      "date": "2026-11-02",
-      "label": "Mon (11/2)",
-      "event": "美國ISM製造業PMI"
+      "date": "2026-11-16",
+      "label": "Mon (11/16)",
+      "event": "中國10月工業生產、零售銷售；日本Q3 GDP初值；Baidu / XPENG 財報"
     },
     {
-      "date": "2026-11-03",
-      "label": "Tue (11/3)",
-      "event": "澳洲央行利率決議；美國JOLTS職位空缺；美國期中選舉投票日；Apple / Palantir 財報"
+      "date": "2026-11-17",
+      "label": "Tue (11/17)",
+      "event": "美國10月零售銷售、工業生產；Home Depot 財報"
     },
     {
-      "date": "2026-11-04",
-      "label": "Wed (11/4)",
-      "event": "美國9月貿易收支；美國ISM服務業PMI；SuperMicro 財報"
+      "date": "2026-11-18",
+      "label": "Wed (11/18)",
+      "event": "英國10月CPI；NVIDIA 財報"
     },
     {
-      "date": "2026-11-05",
-      "label": "Thu (11/5)",
-      "event": "英國央行利率決議；美國初領失業救濟金人數；Arm 財報"
+      "date": "2026-11-19",
+      "label": "Thu (11/19)",
+      "event": "Fed 10月會議紀要；澳洲10月就業報告；Palo Alto Networks / Walmart / Alibaba 財報"
     },
     {
-      "date": "2026-11-06",
-      "label": "Fri (11/6)",
-      "event": "台灣10月CPI、PPI；美國10月非農就業與失業率"
+      "date": "2026-11-20",
+      "label": "Fri (11/20)",
+      "event": "日本10月CPI；美國11月密西根大學消費者信心終值"
     },
     {
-      "date": "2026-11-07",
-      "label": "Sat (11/7)",
-      "event": "Berkshire Hathaway 財報"
+      "date": "2026-11-21",
+      "label": "Sat (11/21)",
+      "event": "No major scheduled events."
     },
     {
-      "date": "2026-11-08",
-      "label": "Sun (11/8)",
+      "date": "2026-11-22",
+      "label": "Sun (11/22)",
       "event": "No major scheduled events."
     }
   ]
