@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-17",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI供應鏈去風險與利率分化｜2026-11-17",
+    "date": "2026-11-17",
+    "summary": "11月16日全球科技股續跌，台日韓晶片鏈承壓；美債殖利率回落仍未抵銷美元走強。加拿大10月通膨持平，市場等待NVIDIA財報、美國零售銷售與Fed紀錄。",
+    "file": "reports/morning/2026-11-17.html",
+    "updated": "2026-11-17T06:50:14+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-16",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI去風險重挫台日韓，中港防禦分化｜2026-11-16",
