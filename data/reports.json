@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-19",
+    "type": "morning",
+    "title": "全球新聞晨報｜Fed升息預期與AI財報後的市場分化｜2026-11-19",
+    "date": "2026-11-19",
+    "summary": "Fed紀要顯示多數官員預期續升息；輝達強勁財報未帶動全面反彈。11月18日美股與亞洲科技股分化，歐股普跌，油價因美國庫存增加回落。",
+    "file": "reports/morning/2026-11-19.html",
+    "updated": "2026-11-19T05:39:17+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-18",
     "type": "asia-close",
     "title": "亞洲收盤報｜輝達財報點燃晶片修復，資金廣度仍分化｜2026-11-18",
