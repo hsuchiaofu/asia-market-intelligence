@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-11-19",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜台股去槓桿領跌，日韓晶片與中港市場分流｜2026-11-19",
+    "date": "2026-11-19",
+    "summary": "台股在外資撤出與AI估值修正下重挫4.40%，日韓半導體仍獲承接；港股受騰訊與阿里拖累失守二萬三，A股則由晶片與光通訊維持窄幅韌性。",
+    "file": "reports/asia-close/2026-11-19.html",
+    "updated": "2026-11-19T20:46:30+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-19",
     "type": "morning",
     "title": "全球新聞晨報｜Fed升息預期與AI財報後的市場分化｜2026-11-19",
