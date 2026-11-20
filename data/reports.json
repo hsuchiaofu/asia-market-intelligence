@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-20",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI掛牌熱潮與全球股市去風險｜2026-11-20",
+    "date": "2026-11-20",
+    "summary": "Anthropic首日上漲未能阻止美股全面下挫；AI投資回報、Fed利率與中國算力新規同時主導估值。11月19日台股重挫，日韓晶片股相對抗跌，歐股回落。",
+    "file": "reports/morning/2026-11-20.html",
+    "updated": "2026-11-20T08:58:39+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-19",
     "type": "asia-close",
     "title": "亞洲收盤報｜台股去槓桿領跌，日韓晶片與中港市場分流｜2026-11-19",
