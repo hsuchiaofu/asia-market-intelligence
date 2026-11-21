@@ -1,5 +1,29 @@
 [
   {
+    "id": "morning-2026-11-21",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI股全面去槓桿與債券避險｜2026-11-21",
+    "date": "2026-11-21",
+    "summary": "11月20日全球AI及半導體股再度急跌，美股標普500與道瓊進入修正區；美債殖利率回落，油價受中東風險支撐。亞洲晶片鏈重挫，美國晶片出口政策與輝達治理風險仍待釐清。",
+    "file": "reports/morning/2026-11-21.html",
+    "updated": "2026-11-21T17:02:24+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
+    "id": "asia-close-2026-11-20",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜AI去槓桿席捲亞洲，台日韓晶片股重挫｜2026-11-20",
+    "date": "2026-11-20",
+    "summary": "Anthropic掛牌未能扭轉AI估值與融資疑慮，台灣、日韓股市同步重挫，港股科技與深市承壓；美元及美債殖利率高檔令資金轉向現金流與低估值防禦。",
+    "file": "reports/asia-close/2026-11-20.html",
+    "updated": "2026-11-20T22:44:04+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-20",
     "type": "morning",
     "title": "全球新聞晨報｜AI掛牌熱潮與全球股市去風險｜2026-11-20",
