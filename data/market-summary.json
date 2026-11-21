@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-20T09:00:39+08:00",
+  "updated_at": "2026-11-21T17:22:32+08:00",
   "source_reports": [
-    "morning-2026-11-20",
-    "asia-close-2026-11-19"
+    "morning-2026-11-21",
+    "asia-close-2026-11-20"
   ],
   "global_macro": {
-    "headline": "利率壓力未解",
-    "summary": "Fed偏鷹與強美元延續壓力；美債殖利率雖因避險回落，仍限制科技估值。"
+    "headline": "避險買債難救股",
+    "summary": "美債殖利率因避險回落，科技股仍跌；中東油價風險與Fed通膨顧慮限制修復。"
   },
   "asia_markets": {
-    "headline": "亞洲走勢分化",
-    "summary": "台灣外資賣壓帶動科技股重挫；日韓晶片相對抗跌，中港平台與國產晶片分化。"
+    "headline": "台日韓晶片領跌",
+    "summary": "AI硬體去槓桿重創台日韓；中港成長股亦弱，中國金融權值相對抗跌。"
   },
   "ai_semiconductor": {
-    "headline": "需求與估值脫鉤",
-    "summary": "GPU與HBM需求仍有支撐，輝達與美光股價卻回吐；市場轉向檢驗AI投資回收。"
+    "headline": "AI去槓桿擴散",
+    "summary": "輝達營收強仍遭拋售，GPU、HBM與ASIC同步承壓；市場檢驗融資與投資回收。"
   },
   "fund_flow": {
-    "headline": "台韓外資續賣",
-    "summary": "台灣外資賣超約243億元，韓國外資亦賣超；晶片股局部反彈未改變外資減碼。"
+    "headline": "韓國外資賣超",
+    "summary": "韓國外資賣超約1.1兆韓元，台灣電子權值亦承受外資賣壓；週末無新流量數據。"
   }
 }
