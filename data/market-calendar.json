@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-15T12:50:54+08:00",
-  "week_start": "2026-11-16",
-  "week_end": "2026-11-22",
+  "updated_at": "2026-11-22T11:10:30+08:00",
+  "week_start": "2026-11-23",
+  "week_end": "2026-11-29",
   "days": [
     {
-      "date": "2026-11-16",
-      "label": "Mon (11/16)",
-      "event": "中國10月工業生產、零售銷售；日本Q3 GDP初值；Baidu / XPENG 財報"
+      "date": "2026-11-23",
+      "label": "Mon (11/23)",
+      "event": "歐美11月製造業／服務業PMI初值"
     },
     {
-      "date": "2026-11-17",
-      "label": "Tue (11/17)",
-      "event": "美國10月零售銷售、工業生產；Home Depot 財報"
+      "date": "2026-11-24",
+      "label": "Tue (11/24)",
+      "event": "日本11月製造業PMI初值；美國11月消費者信心；Agilent 財報"
     },
     {
-      "date": "2026-11-18",
-      "label": "Wed (11/18)",
-      "event": "英國10月CPI；NVIDIA 財報"
+      "date": "2026-11-25",
+      "label": "Wed (11/25)",
+      "event": "美國Q3 GDP修正值、10月PCE（含核心PCE）、耐久財訂單；Dell Technologies / HPQ / Li Auto 財報"
     },
     {
-      "date": "2026-11-19",
-      "label": "Thu (11/19)",
-      "event": "Fed 10月會議紀要；澳洲10月就業報告；Palo Alto Networks / Walmart / Alibaba 財報"
+      "date": "2026-11-26",
+      "label": "Thu (11/26)",
+      "event": "韓國央行利率決議；美國感恩節休市"
     },
     {
-      "date": "2026-11-20",
-      "label": "Fri (11/20)",
-      "event": "日本10月CPI；美國11月密西根大學消費者信心終值"
+      "date": "2026-11-27",
+      "label": "Fri (11/27)",
+      "event": "日本11月東京CPI；美國10月先行商品貿易收支"
     },
     {
-      "date": "2026-11-21",
-      "label": "Sat (11/21)",
+      "date": "2026-11-28",
+      "label": "Sat (11/28)",
       "event": "No major scheduled events."
     },
     {
-      "date": "2026-11-22",
-      "label": "Sun (11/22)",
+      "date": "2026-11-29",
+      "label": "Sun (11/29)",
       "event": "No major scheduled events."
     }
   ]
