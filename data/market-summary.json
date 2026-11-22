@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-11-21T17:22:32+08:00",
+  "updated_at": "2026-11-22T12:54:06+08:00",
   "source_reports": [
-    "morning-2026-11-21",
-    "asia-close-2026-11-20"
+    "morning-2026-11-22"
   ],
   "global_macro": {
-    "headline": "避險買債難救股",
-    "summary": "美債殖利率因避險回落，科技股仍跌；中東油價風險與Fed通膨顧慮限制修復。"
+    "headline": "油運風險待定價",
+    "summary": "荷莫茲油輪遇襲發生於週五結算後；若航運受阻，油價與通膨壓力恐再升。"
   },
   "asia_markets": {
-    "headline": "台日韓晶片領跌",
-    "summary": "AI硬體去槓桿重創台日韓；中港成長股亦弱，中國金融權值相對抗跌。"
+    "headline": "晶片市場領跌",
+    "summary": "上週五台日韓半導體權重股重挫，中港科技偏弱；中國大型權值跌幅較輕。"
   },
   "ai_semiconductor": {
-    "headline": "AI去槓桿擴散",
-    "summary": "輝達營收強仍遭拋售，GPU、HBM與ASIC同步承壓；市場檢驗融資與投資回收。"
+    "headline": "AI回收期受檢驗",
+    "summary": "輝達營收仍強，晶片股卻急跌；市場聚焦GPU、HBM與基建投資的現金回收。"
   },
   "fund_flow": {
-    "headline": "韓國外資賣超",
-    "summary": "韓國外資賣超約1.1兆韓元，台灣電子權值亦承受外資賣壓；週末無新流量數據。"
+    "headline": "資金方向待驗證",
+    "summary": "週末無新增外資或ETF淨流量資料；下次交易再檢驗科技板塊資金動向。"
   }
 }
