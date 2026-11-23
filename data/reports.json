@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-11-23",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜台股政策反彈、韓股續挫，亞洲風險資產劇烈分化｜2026-11-23",
+    "date": "2026-11-23",
+    "summary": "台灣穩市措施與美股期貨反彈帶動AI硬體股修復，中國融資政策刺激深市成長股回升；韓國半導體仍受外資去槓桿壓力，香港低位震盪，日本休市。",
+    "file": "reports/asia-close/2026-11-23.html",
+    "updated": "2026-11-23T16:40:03+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-23",
     "type": "morning",
     "title": "全球新聞晨報｜輝達合規追查與能源政策分歧｜2026-11-23",
