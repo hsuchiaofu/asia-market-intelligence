@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-25",
+    "type": "morning",
+    "title": "全球新聞晨報｜AI反彈退潮與Dell伺服器財報｜2026-11-25",
+    "date": "2026-11-25",
+    "summary": "美股AI類股回吐、道瓊逆勢上漲，Dell盤後財報上修AI伺服器全年展望；亞洲半導體鏈前一交易日強彈，歐股科技轉弱。油價因航運風險反彈，美元與美債殖利率仍限制科技估值，市場等待美國PCE與貿易政策細節。",
+    "file": "reports/morning/2026-11-25.html",
+    "updated": "2026-11-25T11:16:14+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-24",
     "type": "asia-close",
     "title": "亞洲收盤報｜黃仁勳回歸引爆AI供應鏈反彈，台韓日飆升、港股續弱｜2026-11-24",
