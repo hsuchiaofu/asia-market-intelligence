@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-11-25",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜AI反彈一日熄火，台韓日晶片股急挫、關稅風險壓低風險偏好｜2026-11-25",
+    "date": "2026-11-25",
+    "summary": "NVIDIA回吐與美國新一輪關稅風險令亞洲AI供應鏈再度去槓桿，台股跌4.80%、韓股跌6.16%、日經跌2.78%；中國半導體與成長股同步下挫，香港亦跌至年度低位，顯示前一日反彈仍未轉化為持續性風險修復。",
+    "file": "reports/asia-close/2026-11-25.html",
+    "updated": "2026-11-25T16:45:57+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-25",
     "type": "morning",
     "title": "全球新聞晨報｜AI反彈退潮與Dell伺服器財報｜2026-11-25",
