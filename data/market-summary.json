@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-24T08:54:09+08:00",
+  "updated_at": "2026-11-25T12:42:17+08:00",
   "source_reports": [
-    "morning-2026-11-24",
-    "asia-close-2026-11-23"
+    "morning-2026-11-25",
+    "asia-close-2026-11-24"
   ],
   "global_macro": {
-    "headline": "油跌難解高利率",
-    "summary": "利比亞輸油恢復壓低油價，但美元與美債殖利率仍偏高，AI反彈面臨估值檢驗。"
+    "headline": "油價與利率夾擊",
+    "summary": "荷莫茲航運風險推升油價，美債殖利率仍高；市場等待PCE檢驗Fed空間。"
   },
   "asia_markets": {
-    "headline": "台漲韓跌",
-    "summary": "台灣政策托底帶動晶片回補，韓國HBM權重續受外資賣壓；日本今日復市待觀察。"
+    "headline": "晶片反彈分化",
+    "summary": "台韓日昨日晶片鏈強彈，港股逆跌；美股AI隨後回吐，漲勢仍待檢驗。"
   },
   "ai_semiconductor": {
-    "headline": "輝達帶動回補",
-    "summary": "輝達執行長復任推動美國AI股急彈；出口合規調查未結，供應鏈訂單仍待驗證。"
+    "headline": "伺服器需求驗證",
+    "summary": "Dell上修AI伺服器展望，提供出貨證據；輝達股價回吐，供應鏈仍看交付。"
   },
   "fund_flow": {
-    "headline": "韓股外資續賣",
-    "summary": "韓國外資持續調降三星與SK海力士曝險；台灣反彈尚待外資淨流量確認。"
+    "headline": "韓股外資回補",
+    "summary": "韓國外資昨日轉買三星與SK海力士；台灣及今日資金流尚無可靠淨額。"
   }
 }
