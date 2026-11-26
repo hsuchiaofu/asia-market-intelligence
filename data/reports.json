@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-26",
+    "type": "morning",
+    "title": "全球新聞晨報｜通膨、關稅與AI供應鏈再定價｜2026-11-26",
+    "date": "2026-11-26",
+    "summary": "美國10月PCE年增3.8%、第三季GDP上修至4.3%，USTR提出14項301關稅方案；AI股續跌但美股收復盤中大部分失地。台韓日晶片鏈急跌，歐股走弱；沙烏地煉油設施遇襲推升油價，Fed政策與供應鏈成本成為今日主線。",
+    "file": "reports/morning/2026-11-26.html",
+    "updated": "2026-11-26T08:34:10+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-25",
     "type": "asia-close",
     "title": "亞洲收盤報｜AI反彈一日熄火，台韓日晶片股急挫、關稅風險壓低風險偏好｜2026-11-25",
