@@ -1,5 +1,17 @@
 [
   {
+    "id": "asia-close-2026-11-26",
+    "type": "asia-close",
+    "title": "亞洲收盤報｜跌深反彈遇出口管制，台港領漲、日韓升幅收斂｜2026-11-26",
+    "date": "2026-11-26",
+    "summary": "亞洲股市在前一日AI去槓桿後反彈，台股漲2.50%、港股漲2.11%，但韓銀升息與NVIDIA暫停東南亞伺服器出貨令日韓升幅收斂；A股指數近乎持平且科創50續跌，顯示風險修復仍高度選擇性。",
+    "file": "reports/asia-close/2026-11-26.html",
+    "updated": "2026-11-26T16:43:41+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "morning-2026-11-26",
     "type": "morning",
     "title": "全球新聞晨報｜通膨、關稅與AI供應鏈再定價｜2026-11-26",
