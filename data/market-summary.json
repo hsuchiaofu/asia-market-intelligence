@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-26T19:05:42+08:00",
+  "updated_at": "2026-11-27T14:10:37+08:00",
   "source_reports": [
-    "morning-2026-11-26",
+    "morning-2026-11-27",
     "asia-close-2026-11-26"
   ],
   "global_macro": {
-    "headline": "通膨壓住降息",
-    "summary": "美國PCE偏熱且經濟上修，Fed寬鬆空間受限；油價與關稅再添成本壓力。"
+    "headline": "美股短市待驗",
+    "summary": "感恩節後美股今夜短市，歐亞前日反彈待現貨驗證；偏熱PCE牽制Fed寬鬆。"
   },
   "asia_markets": {
-    "headline": "台港反彈領先",
-    "summary": "台港領漲跌深反彈，日韓升幅收斂；A股成長股仍弱，區域修復不均。"
+    "headline": "亞股修復分化",
+    "summary": "昨日台港跌深回補，日韓升幅收斂、A股近持平；今日正式收盤待確認。"
   },
   "ai_semiconductor": {
-    "headline": "出貨合規重估",
-    "summary": "輝達東南亞伺服器交付據報暫停；台灣供應鏈雖反彈，出貨與回款仍待釐清。"
+    "headline": "出貨審查牽動",
+    "summary": "輝達東南亞伺服器交付據報暫停、尚未獨立證實；GPU與伺服器鏈關注許可時程。"
   },
   "fund_flow": {
-    "headline": "韓股外資續賣",
-    "summary": "韓股外資續賣，台股則由PCB與伺服器零組件領漲；台灣外資淨額尚待確認。"
+    "headline": "韓股外資賣超",
+    "summary": "昨日韓股外資賣超壓縮反彈；今日台韓與ETF淨流向仍待正式資料。"
   }
 }
