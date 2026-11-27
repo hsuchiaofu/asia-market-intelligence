@@ -1,5 +1,17 @@
 [
   {
+    "id": "morning-2026-11-27",
+    "type": "morning",
+    "title": "全球新聞晨報｜假期反彈與晶片出口風險並行｜2026-11-27",
+    "date": "2026-11-27",
+    "summary": "美國感恩節休市，歐股與亞洲股市反彈，但韓銀升息及NVIDIA東南亞伺服器出貨暫停傳聞限制晶片鏈修復；歐盟推進ECB新行長人選，全球市場仍須檢驗AI資本回報、關稅與能源風險。",
+    "file": "reports/morning/2026-11-27.html",
+    "updated": "2026-11-27T08:37:55+08:00",
+    "status": "published",
+    "featured": false,
+    "wordFile": ""
+  },
+  {
     "id": "asia-close-2026-11-26",
     "type": "asia-close",
     "title": "亞洲收盤報｜跌深反彈遇出口管制，台港領漲、日韓升幅收斂｜2026-11-26",
