@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-27T14:10:37+08:00",
+  "updated_at": "2026-11-28T11:40:56+08:00",
   "source_reports": [
-    "morning-2026-11-27",
-    "asia-close-2026-11-26"
+    "morning-2026-11-28",
+    "asia-close-2026-11-27"
   ],
   "global_macro": {
-    "headline": "美股短市待驗",
-    "summary": "感恩節後美股今夜短市，歐亞前日反彈待現貨驗證；偏熱PCE牽制Fed寬鬆。"
+    "headline": "美債利率壓估值",
+    "summary": "美股短市科技股反彈，惟偏熱PCE、美債殖利率回升與美元偏強，限制高估值資產。"
   },
   "asia_markets": {
-    "headline": "亞股修復分化",
-    "summary": "昨日台港跌深回補，日韓升幅收斂、A股近持平；今日正式收盤待確認。"
+    "headline": "政策推升亞股",
+    "summary": "中國穩市訊號帶動A股科技急升，韓日晶片跟漲；台股權值撐盤，中小型股落後。"
   },
   "ai_semiconductor": {
-    "headline": "出貨審查牽動",
-    "summary": "輝達東南亞伺服器交付據報暫停、尚未獨立證實；GPU與伺服器鏈關注許可時程。"
+    "headline": "晶片回補待驗",
+    "summary": "美股ASIC與平台股反彈，韓日記憶體、設備跟漲；高利率與出口合規仍考驗AI投資回報。"
   },
   "fund_flow": {
-    "headline": "韓股外資賣超",
-    "summary": "昨日韓股外資賣超壓縮反彈；今日台韓與ETF淨流向仍待正式資料。"
+    "headline": "韓股外資回補",
+    "summary": "韓股外資回買三星與SK海力士，前期賣壓暫緩；台灣與ETF最新淨流向未見可靠資料。"
   }
 }
